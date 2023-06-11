@@ -1,0 +1,19 @@
+Matemática: aritmética, porcentagem, geometria plana, razão/proporção, estatística, combinatória, logaritmo, PA e PG, trigonometria, análise de gráficos.
+
+Física: energia e transformações, circuitos elétricos, ondulatória (equação fundamental), calorimetria, potência térmica, leis de Newton.
+
+Biologia: ecologia, genética, fisiologia animal e humana, citologia, evolução, parasitologia e programas de saúde.
+
+Química: interações intermoleculares, reações orgânicas, eletroquímica, soluções e concentrações, termoquímica.
+
+História: história do Brasil (Brasil república), história geral (Idade contemporânea, sobretudo séculos XX e XXI). 
+
+Geografia: geografia geral (geografia física), questões ambientais, urbanização, hidrografia, agropecuária, globalização e desenvolvimento.
+
+Sociologia: relações de poder, sistemas políticos, relações entre Estado e sociedade. 
+
+Filosofia: filosofia moderna, temáticas contemporâneas, TEORIA DO CONHECIMENTO.
+
+Linguagens: apreensão e compreensão de sentidos, intertextualidade e interdiscursividade, gêneros textuais, funções de linguagem, variação linguística. 
+
+Literatura: Modernismo e Romantismo.
