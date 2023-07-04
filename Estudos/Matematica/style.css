@@ -6,14 +6,14 @@
 }   
 
 body {
-    background: white url(backg.jpeg) no-repeat fixed center;
-    background-size: cover;
+    background-color: #407BC2;
 }
 
 header {
-    background-image: linear-gradient(to bottom, #3a606e, #CFD6EA, #B0B2B8);
+    background: #407BC2 url(backg4.png) no-repeat fixed center;
+    background-size: cover;
     color: #fff;
-    width: 100vw;
+    width: 100%;
     min-height: 150px;
     text-align: center;
 }
@@ -24,29 +24,34 @@ header h1 {
 }
 
 nav {
-    background-color: #B0B2B8;
+    background-color: #1a3b63;
     text-align: center;
+    height: auto;
+    width: 100%;
+    padding: 20px 0px;
 }
 
 nav a {
     text-decoration: none;
-    color: #3a606e;
-    font-size: 1.2em;
+    color: #ffffff;
+    font-size: 1.5em;
     font-weight: bold;
-    padding: 3px;
+    padding: 20px 25px;
     margin: auto;
 }
 
 nav a:hover {
-    color: #1e333b;
-    font-size: 1.25em;
-    transition-duration: 1.5s;
+    color: #407c94;
+    font-size: 1.6em;
+    transition-duration: 1s;
 }
 
 main {
     background-color: rgba(255, 255, 255, 0.949);
-    margin: 0px 50px;
+    margin: auto;
     min-width: 350px;
+    max-width: 1050px;
+    padding: 20px;
 }
 
 main h1, h2 {
@@ -59,8 +64,8 @@ main h3 {
 }
 
 main p {
+    font-size: 1.1em;
     text-align: justify;
-    padding: 0px 10px;
     text-indent: 30px;
     line-height: 1.5em;
 }
