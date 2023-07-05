@@ -34,4 +34,60 @@ Propriedades da Radiciação:
 
                                                         Porcentagem
 
-                                                        
+Usamos o valor fracionário e multiplicamos pelo valor que queremos descobrir a determinada porcentagem.
+
+                                                        Geometria Plana
+
+Fórmulas das áreas:
+
+Triângulo equilátero: L√3/4
+Triângulo: BxH/2
+Círculo: πR²
+Quadrado: L²
+Trapézio: (B + b/2) x H
+Losango: Dxd/2
+Retângulo e Paralelogramo: BxH       
+
+Fórmulas notáveis:
+
+D = L√2
+C (comprimento da circunferência) = 2πR
+
+                                                        Geometria espacial
+
+Relação de Euler: V + F = A + 2
+
+Número de arestas: 2A = 3F3 + 4F4 + 5F5...
+
+Soma dos ângulos internos: (V - 2).360
+
+Características de um prisma:
+
+. Faces planas
+. Teto = Base
+. Teto paralelo a base
+
+Fórmulas das áreas:
+
+Prisma: AL + 2.AB
+Cubo: 6A²
+Paralelepípedo: 2(ab + bc + ac)
+Área lateral do cilindro: 2πR x H
+Área lateral do cone: πRg
+Pirâmide: AB + AL
+Esfera: 4πR²
+
+Fórmulas dos volumes:
+
+Prisma: AB x H
+Cubo: A³
+Paralelepípedo: AB x H
+Pirâmide: AB x H/3
+Cone: AB x H/3
+Esfera: 4πR³/3
+
+Fórmulas notáveis:
+
+Diagonal do Paralelepípedo: D = √a² + b² + c²
+Diagonal do Cubo: A√3
+Secção meridiana: 4R²

@@ -7,6 +7,7 @@
 
 body {
     background-color: #407BC2;
+    font-family: Arial, Helvetica, Verdana, sans-serif;
 }
 
 header {
@@ -29,6 +30,7 @@ nav {
     height: auto;
     width: 100%;
     padding: 20px 0px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.259);
 }
 
 nav a {
@@ -40,8 +42,62 @@ nav a {
     margin: auto;
 }
 
-nav a:hover {
-    color: #407c94;
+nav a:hover.lit {
+    color: purple;
+    font-size: 1.6em;
+    transition-duration: 1s;
+}
+
+nav a:hover.por {
+    color: rgb(255, 179, 0);
+    font-size: 1.6em;
+    transition-duration: 1s;
+}
+
+nav a:hover.bio {
+    color: greenyellow;
+    font-size: 1.6em;
+    transition-duration: 1s;
+}
+
+nav a:hover.red {
+    color: red;
+    font-size: 1.6em;
+    transition-duration: 1s;
+}
+
+nav a:hover.fis {
+    color: rgb(207, 5, 207);
+    font-size: 1.6em;
+    transition-duration: 1s;
+}
+
+nav a:hover.fil {
+    color: orange;
+    font-size: 1.6em;
+    transition-duration: 1s;
+}
+
+nav a:hover.soc {
+    color: orangered;
+    font-size: 1.6em;
+    transition-duration: 1s;
+}
+
+nav a:hover.geo {
+    color: rgb(209, 179, 24);
+    font-size: 1.6em;
+    transition-duration: 1s;
+}
+
+nav a:hover.his {
+    color: palevioletred;
+    font-size: 1.6em;
+    transition-duration: 1s;
+}
+
+nav a:hover.qui {
+    color: yellow;
     font-size: 1.6em;
     transition-duration: 1s;
 }
@@ -52,6 +108,8 @@ main {
     min-width: 350px;
     max-width: 1050px;
     padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 0px 0px 3px 3px;
 }
 
 main h1, h2 {
@@ -68,4 +126,21 @@ main p {
     text-align: justify;
     text-indent: 30px;
     line-height: 1.5em;
+}
+
+footer {
+    font-weight: bold;
+    font-size: 1.1em;
+    text-align: center;
+    background-color: white;
+    padding: 2.5px;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
+
+footer a:hover {
+    color: #1a3b63;
 }
