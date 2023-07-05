@@ -5,8 +5,17 @@
     border: 0;
 }   
 
+:root {
+    --corbase: #407BC2;
+    --cor2: #1a3b63;
+
+    --fontmain: Arial, Helvetica, Verdana, sans-serif;
+    --font2: 'Caprasimo', cursive;
+    --font3: 'Inter', sans-serif;
+}
+
 body {
-    background-color: #407BC2;
+    background-color: var(--corbase);
     font-family: Arial, Helvetica, Verdana, sans-serif;
 }
 
@@ -20,12 +29,13 @@ header {
 }
 
 header h1 {
-    padding-top: 40px;
-    font-size: 3em;
+    font-family: 'Caprasimo', cursive;
+    padding-top: 30px;
+    font-size: 5.5em;
 }
 
 nav {
-    background-color: #1a3b63;
+    background-color: var(--cor2);
     text-align: center;
     height: auto;
     width: 100%;
@@ -117,8 +127,19 @@ main h1, h2 {
     padding: 20px
 }
 
+main h1 {
+    font-family: var(--font3);
+    font-weight: 600;
+}
+
+main h2 {
+    font-family: var(--font3);
+    font-weight: 500;
+}
+
 main h3 {
-    padding: 10px 50px;
+    text-indent: 80px;
+    padding: 10px 0px;
 }
 
 main p {
@@ -128,6 +149,25 @@ main p {
     line-height: 1.5em;
 }
 
+li {
+    margin-left: 95px;
+}
+
+main abbr {
+    text-decoration: underline;
+}
+
+div.video {
+    background-color: var(--corbase);
+    margin: 0px -5px;
+    padding: 5px;
+}
+
+div.video > iframe {
+    display: block;
+    width: 100%;
+    margin: auto;
+}
 footer {
     font-weight: bold;
     font-size: 1.1em;
@@ -142,5 +182,5 @@ footer a {
 }
 
 footer a:hover {
-    color: #1a3b63;
+    color: var(--cor2);
 }
