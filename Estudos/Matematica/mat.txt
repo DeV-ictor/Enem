@@ -89,5 +89,44 @@ Esfera: 4πR³/3
 Fórmulas notáveis:
 
 Diagonal do Paralelepípedo: D = √a² + b² + c²
-Diagonal do Cubo: A√3
+Diagonal do Cubo: L√3
 Secção meridiana: 4R²
+
+                                                        Razão e Proporção
+
+Razão refere-se ao quociente entre a e b, com b diferente de 0. O primeiro termo citado atua como numerador, enquanto o segundo como denominador. Portanto, nesse caso, teríamos a/b.
+
+Razões Equivalentes: são razões semelhantes, ou seja, podemos igualá-las. Igualdade entre frações, multiplica-se cruzado.
+
+Razões Equivalentes Consequentes: Quando falamos de consequente, estamos nos referindo ao denominador. Então devemos realizar as operações para que o denominador transforme-se em seu consequente citado. Como é uma fração equivalente, devemos realizar as mesmas operações no numerador.
+
+Razões Equivalentes Antecedentes: Nesse caso, estamos nos referindo ao numerador. Então diferente das razões consequentes, nesse caso devemos transformar o numerador em seu antecedente. Como também trata-se de uma razão equivalente, realizamos as mesmas operações no denominador.
+
+Razões inversas: adotamos que o produto das frações seja 1, pois, nesse caso, "inversa" significa que o numerador e o denominador são iguais. E qualquer número dividido por ele mesmo, o resultado é sempre 1.
+
+Proporção refere-se a igualdade entre duas frações.
+
+Medidas de comprimento multiplica-se e divide-se por 10.
+
+Medidas de superfície multiplica-se e divide-se por 100.
+
+Medidas de volume multiplica-se e divide-se por 1000.
+
+Dados notáveis:
+
+1l = 1000dm³
+1t = 1000kg
+
+                                                        Estatística
+
+Média: a soma de todos os termos dividido pela quantidade de termos.
+
+Moda: é o termo que mais se repete em uma sequência.
+
+Mediana: em uma sequência ímpar e ordenada de forma crescente ou decrescente, é o termo central. Em uma sequência par e ordenada da mesma forma, é a média dos termos centrais.
+
+Desvio: é a diferença com relação a média.
+
+Variância: é a média dos quadrados dos desvios.
+
+Desvio Padrão: é a raíz da variância.
