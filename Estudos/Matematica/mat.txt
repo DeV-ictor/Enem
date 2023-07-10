@@ -130,3 +130,6 @@ Desvio: é a diferença com relação a média.
 Variância: é a média dos quadrados dos desvios.
 
 Desvio Padrão: é a raíz da variância.
+
+                                                        Análise Combinatória
+
