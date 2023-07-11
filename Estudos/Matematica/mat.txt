@@ -133,3 +133,18 @@ Desvio Padrão: é a raíz da variância.
 
                                                         Análise Combinatória
 
+O princípio multiplicativo constitui a ferramenta básica para resolver problemas de contagem sem que seja necessário enumerar seus elementos.
+
+Permutação: quando o número de posições for igual ao número de elementos.
+
+Permutação com Repetição: quando há a repetição de algum elemento, como em um anagrama da palavra "AMAR".
+
+Permutação Circular: apresenta ordem cíclica.
+
+Arranjo: quando o número de elementos for maior que o número de posições.
+
+Combinação: quando a ordem não for importante.
+
+Combinação com Repetição: combinação quando houver repetição de elementos. (https://mundoeducacao.uol.com.br/matematica/combinacao-com-repeticao.htm#:~:text=Combina%C3%A7%C3%A3o%20com%20repeti%C3%A7%C3%A3o%2C%20conhecida%20tamb%C3%A9m,agrupamentos%20estudados%20na%20an%C3%A1lise%20combinat%C3%B3ria.)
+
+Atenção ao 0 na primeira casa.
