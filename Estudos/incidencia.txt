@@ -1,4 +1,4 @@
-Matemática: aritmética, porcentagem, geometria plana e espacial, razão/proporção, estatística, combinatória, logaritmo, PA e PG, trigonometria, análise de gráficos.
+Matemática: aritmética, porcentagem, geometria plana e espacial, razão/proporção, estatística, combinatória e probabilidade, logaritmo, PA e PG, trigonometria, análise de gráficos.
 
 Física: energia e transformações, circuitos elétricos, ondulatória (equação fundamental), calorimetria, potência térmica, leis de Newton.
 
