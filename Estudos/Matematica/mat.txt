@@ -148,3 +148,9 @@ Combinação: quando a ordem não for importante.
 Combinação com Repetição: combinação quando houver repetição de elementos. (https://mundoeducacao.uol.com.br/matematica/combinacao-com-repeticao.htm#:~:text=Combina%C3%A7%C3%A3o%20com%20repeti%C3%A7%C3%A3o%2C%20conhecida%20tamb%C3%A9m,agrupamentos%20estudados%20na%20an%C3%A1lise%20combinat%C3%B3ria.)
 
 Atenção ao 0 na primeira casa.
+
+                                                        Probabilidade
+
+É o cálculo de possibilidades. Por exemplo, para saber qual a chance de cair a sexta face de um dado ao lançá-lo.
+
+A probabilidade é calculada a partir da razão entre o número de chances favoráveis e valor total.

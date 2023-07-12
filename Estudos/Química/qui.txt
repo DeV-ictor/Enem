@@ -1,1 +1,34 @@
 Do Zero: [Matéria (Transformações, Constituição e Propriedades), Química Geral (Classificações, Propriedades e Separações), Química Atomística (Modelos Atômicos, Tabela Periódica e Ligações Químicas), Aspectos Quantitativos (Teoria Atômico Molecular, Leis e Estequiometria), Gases, Dispersões (Colóides, Soluções e Propriedades Coligativas), Transformações (Cinética Química, Termoquímica, Eletroquímica, Equilíbrio Químico, Radioatividade e Química Orgânica), Ciência Empírica (observável no cotidiano) e Exata (exercícios)]
+
+                                                        Introdução de alguns conceitos
+
+A matéria representa tudo aquilo que ocupa lugar no espaço e tem massa. É constituída por átomos e de acordo com o modelo atômico de Rutherford-Bohr, os átomos são estruturados em núcleo, onde temos os prótons e nêutrons, de carga positiva e neutra, respectivamente, e em eletrosfera, onde localiza-se os elétrons, de carga negativa.
+
+A junção de átomos resulta em moléculas. No entanto, temos algumas exceções conhecidas como moléculas monoatômicas, como o He (Hélio).
+
+Isótopos apresentam a mesma massa.
+
+Coeficientes Estquiométricos representam a proporção.
+
+1 mol é representado pela constante de Avogadro, ou seja, 6,0 x 10²³ unidades.
+
+                                                        Grandezas
+
+A representa o número de massa.
+Z representa o número atômico.
+P representa o número de prótons.
+N representa o número de nêutrons.
+E representa o número de elétrons.
+
+Relações Fundamentais
+
+A = Z + N
+Z = P
+
+O número de A sempre será superior ao índice, que é o mesmo que o número atômico. Com exceção para o H (hidrogênio), que o número de A é o mesmo que o número atômico.
+
+O número de elétrons de um átomo neutro sempre será igual ao seu número de prótons.
+
+Porém, temos os íons. Que são átomos negativamente carregados, chamados de ânions e átomos positivamente carregados, chamados de cátions.
+
+Para casos mais comuns e introdutórios, os prótons são imutáveis, ou seja, o átomo apenas perde ou ganha elétrons.
