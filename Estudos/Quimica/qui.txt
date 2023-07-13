@@ -44,3 +44,6 @@ O diagrama de Pauling descreve a ordem crescente de energia dos subníveis.
 A camada de Valência é a última camada, ou seja, a mais distante do núcleo.
 
 A distribuição eletrônica deve apresentar sempre a máxima simetria orbital.
+
+                                                        Radioatividade
+
