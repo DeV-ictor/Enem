@@ -32,3 +32,15 @@ O número de elétrons de um átomo neutro sempre será igual ao seu número de 
 Porém, temos os íons. Que são átomos negativamente carregados, chamados de ânions e átomos positivamente carregados, chamados de cátions.
 
 Para casos mais comuns e introdutórios, os prótons são imutáveis, ou seja, o átomo apenas perde ou ganha elétrons.
+
+                                                        Distribuição Eletrônica
+
+A eletrosfera é dividida em 7 camadas, de K a Q, e essas camadas são dividas em 4 níveis, s p d f.
+
+O subnível s acomoda até 2 elétrons, o p 6 elétrons, o d 10 e o f 14.
+
+O diagrama de Pauling descreve a ordem crescente de energia dos subníveis.
+
+A camada de Valência é a última camada, ou seja, a mais distante do núcleo.
+
+A distribuição eletrônica deve apresentar sempre a máxima simetria orbital.
