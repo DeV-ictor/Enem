@@ -47,3 +47,17 @@ A distribuição eletrônica deve apresentar sempre a máxima simetria orbital.
 
                                                         Radioatividade
 
+As principais emissões da radioatividade são:
+
+Partículas Alfa - Comparada ao núcleo do átomo de Hélio, de Z = 2 e A = 4
+Partículas Beta - Comparada aos elétrons de origem nuclear - com Z = -1 e A desprezível ou igual a 0.
+Neutrons - Contidos no núcleo, de Z = 0 e A = 1
+Radiação Gama - energia na forma de onda eletromagnética. Calcula-se a radiação gama por E = h.c/lâmbda. Sendo h e c constantes, a relação a ser obsevada é a energia e o comprimento de onda, que são inversamente proporcionais.
+
+Decaimento radioativo - Meia Vida:
+
+É o tempo necessário para que a atividade de uma amostra radioativa se reduza à metade. Por "atividade" entende-se por emissão, massa ou percentual.
+
+                                                        Ligações Químicas
+
+Teoria do Octeto: Os átomos realizam interações interatômicas a fim de adquirir maior estabilidade, possuindo 8 ou 2 elétrons (He) na camada de valência.
