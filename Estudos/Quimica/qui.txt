@@ -4,7 +4,7 @@ Do Zero: [Matéria (Transformações, Constituição e Propriedades), Química G
 
 A matéria representa tudo aquilo que ocupa lugar no espaço e tem massa. É constituída por átomos e de acordo com o modelo atômico de Rutherford-Bohr, os átomos são estruturados em núcleo, onde temos os prótons e nêutrons, de carga positiva e neutra, respectivamente, e em eletrosfera, onde localiza-se os elétrons, de carga negativa.
 
-A junção de átomos resulta em moléculas. No entanto, temos algumas exceções conhecidas como moléculas monoatômicas, como o He (Hélio).
+A junção de átomos por meio de ligação covalente resulta em moléculas. No entanto, temos algumas exceções conhecidas como moléculas monoatômicas, como o He (Hélio).
 
 Isótopos apresentam a mesma massa.
 
@@ -61,3 +61,53 @@ Decaimento radioativo - Meia Vida:
                                                         Ligações Químicas
 
 Teoria do Octeto: Os átomos realizam interações interatômicas a fim de adquirir maior estabilidade, possuindo 8 ou 2 elétrons (He) na camada de valência.
+
+As ligações químicas podem ocorrer de 3 formas: Covalentes, Iônicas e Metálicas.
+
+A ligação covalente ocorre entre ametal + ametal ou ametal + hidrogênio através do compartilhamento de elétrons.
+    Polar quando o compartilhamento é entre átomos com eletronegativades diferentese e apolar quando são iguais
+    Baixos níveis de PF e PE
+    Só ácidos em fase aquosa conduzem corrente elétrica
+    
+
+A ligação iônica ocorre metais e ametais ou hidrogênio através da transferência de elétrons.
+    Sólidos duros e quebradiços
+    Altos PF e PE
+    Conduzem corrente elétrica em fase aquosa ou fundidos
+    Possuem fórmula cristalina
+
+A ligação metálica ocorre entre metais através da perda de seus elétrons livres e tornando-se em íons positivos, cátions, imersos em elétrons. Os elétrons liberados formam o que conhecemos como "mar de elétrons", produzindo uma força que faz com que os átomos do metal permaneçam unidos.
+    Ótimos condutores elétricos e térmicos
+    Altos níveis de PF e PE
+    Dúcteis e maleáveis
+    Possuem brilho
+
+                                                        Geometria Molecular
+
+Modelo VSEPR - Repulsão dos Pares Eletrônicos da Camada de Valência
+
+Intensão das repulsões:
+    Pi - Pi > Pi - Pc > Pc - Pc
+
+As 5 geometrias mais abordadas são: Linear, Angular, Trigonal, Piramidal e Tetraédrica.
+
+Linear
+    . Toda molécula diatômica será linear, como H2 ou O2.
+    . 2 pares de elétrons compartilhados no átomo central
+    . 180º
+
+Angular
+    . 2 pares compartilhados e 1 par isolado no átomo central
+    . 105º
+
+Trigonal
+    . 3 pares compartilhados no átomo central
+    . 120º
+
+Piramidal 
+    . 3 pares compartilhados e 1 par isolado no átomo central
+    . 109º28'
+
+Tetraédrica
+    . 4 pares compartilhados no átomo central
+    . 109º5'
