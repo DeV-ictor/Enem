@@ -92,7 +92,7 @@ Intensão das repulsões:
 As 5 geometrias mais abordadas são: Linear, Angular, Trigonal, Piramidal e Tetraédrica.
 
 Linear
-    . Toda molécula diatômica será linear, como H2 ou O2.
+    . Toda molécula biatômica será linear, como H2 ou O2.
     . 2 pares de elétrons compartilhados no átomo central
     . 180º
 
@@ -111,3 +111,26 @@ Piramidal
 Tetraédrica
     . 4 pares compartilhados no átomo central
     . 109º5'
+
+                                                        Polaridade das Moléculas
+
+Para determinar a polaridade, precisa-se primeramente, determinar a geometria da molécula. Determinada a geometria molecular, precisamos realizar uma análise vetorial. Se:
+
+    . A soma vetorial for 0, será apolar.
+    . Diferente de 0, ou seja, houver pelo menos um vetor resultante, será polar.
+
+    Obs: Caso sobre pares no átomo central, a molécula é polar. Caso contrário, deve-se fazer a análise vetorial.
+
+                                                        Forças Intermoleculares
+
+As interações moleculares ocorrem entre moléculas, como o próprio nome sugere. Dão-se de 3 maneiras:
+
+    Dipolo Induzido
+    Dipolo Permanente
+    Íon Dipolo
+
+A dipolo induzido ocorre entre moléculas apolares.
+
+A dipolo permanente ocorre entre moléculas polares. 
+
+A íon dipolo ocorre com um composto covalente polar e um composto iônico.
