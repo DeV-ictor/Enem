@@ -144,3 +144,5 @@ A íon dipolo ocorre entre uma molécula polar e um composto iônico.
 Regras para cálculo do NOX
     1. H vale +1, com exceção para hidretos.
     2. O vale -2, exceto para peróxidos e superóxidos.
+    3. Substância simples sempre será 0
+    4. A soma resultante deve ser nula.
