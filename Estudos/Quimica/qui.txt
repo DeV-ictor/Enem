@@ -130,7 +130,17 @@ As interações moleculares ocorrem entre moléculas, como o próprio nome suger
     Íon Dipolo
 
 A dipolo induzido ocorre entre moléculas apolares.
+    Induz a formação do dipolo para que posteriormente haja a interação.
 
 A dipolo permanente ocorre entre moléculas polares. 
+    Há naturalmente a formação dos polos e consequentemente a interação entre as moléculas. Vale destaque para as ligações de hidrogênio (H - FON) que são encaixadas como dipolo permanente.
 
-A íon dipolo ocorre com um composto covalente polar e um composto iônico.
+A íon dipolo ocorre entre uma molécula polar e um composto iônico.
+
+                                                        NOX 
+
+É a carga que um elemento químico recebe ao realizar uma ligação química.
+
+Regras para cálculo do NOX
+    1. H vale +1, com exceção para hidretos.
+    2. O vale -2, exceto para peróxidos e superóxidos.
