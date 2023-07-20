@@ -195,4 +195,34 @@ Nomenclatura dos ácidos:
         Ácido + parte do nome do elemento formador + ídrico.
         Ácido Clorídrico, Ácido Bromídrico, etc.
 
+    2) Oxiácidos
+        Ácido + prefixo (PER [maior dos maiores] ou HIPO [menor dos menores]) + sufixo (ICO [maior NOX] ou OSO [menor NOX]). 
 
+                                                        Funções Inorgânicas - Bases
+
+Conceito de Arrhenius: Bases liberam íons OH- (Hidróxio, Hidroxila, Oxidrila) em fase aquosa (aq).   
+
+Classificações:
+
+1) Número de Hidroxilas:
+    1.1) 1 - Monobase
+    1.2) 2 - Dibase
+    1.3) 3 - Tribase
+    1.4) 4 - Tetrabase
+
+    obs.: 2 ou mais hidroxilas são considerados polibases.
+
+2) Forças das Bases (Facilidade em liberar íons hidroxilas)
+    2.1) Fortes - 1A e 2A, com exceção de Mg e Be
+    2.2) Fracas - Todas as demais
+
+Nomenclatura:
+
+1) Elementos com 1 NOX 
+    Hidróxido + nome do elemento
+
+2) Elementos com 2 NOX
+    2.1) NOX explícito no nome
+        Hidróxido + nome do elemento formador + nox em algarismo romano
+    2.2) NOX implícito no sufixo
+        Hidróxido + parte do elemento formador + sufixo ("ico" ou "oso").
