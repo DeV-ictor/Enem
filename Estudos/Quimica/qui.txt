@@ -226,3 +226,35 @@ Nomenclatura:
         Hidróxido + nome do elemento formador + nox em algarismo romano
     2.2) NOX implícito no sufixo
         Hidróxido + parte do elemento formador + sufixo ("ico" ou "oso").
+
+                                                        Funções Inorgânicas - Reações de Neutralização
+
+Ácido + Base origina Sal + Água em uma reação de dupla-troca, pois o ânion do ácido interage com o cátion da base e o ânion da base interage com o ânion do ácido. O Sal é sempre formado pelo cátion da base e pelo ânion do ácido.
+
+Classificações dos tipos de neutralização:
+
+1) Neutralização Total
+    O número de hidrônios é igual o número de hidroxilas. Gera um sal neutro.
+
+2) Neutralização Parcial
+    O número de hidrônios é diferente do número de hidroxilas. Gera um hidrogenossal ou hidroxissal.
+
+                                                        Funções Inorgânicas - Sais
+
+Nomenclatura de Sais:
+
+Nome do ânion originário do ácido + nome do cátion originário da base
+
+Adaptações em relações ao ânion do ácido:
+
+Ídrico -> Eto
+Oso -> Ito
+Ico -> Ato
+
+Caso não haja oxigênio na fórmula, terá o sufixo Eto.
+
+Caso contrário, precisaremos determinar o NOX do elemento formador.
+
+Sais  anidros são sais que não possuem água em seu retículo cristalino.
+
+Sais hidratados são sais que possuem água em seu retículo cristalino.
