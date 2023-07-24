@@ -258,3 +258,112 @@ Caso contrário, precisaremos determinar o NOX do elemento formador.
 Sais  anidros são sais que não possuem água em seu retículo cristalino.
 
 Sais hidratados são sais que possuem água em seu retículo cristalino.
+
+                                                        Funções Inorgânicas - Óxidos
+
+São compostos binários, onde o O é o elemento mais eletronegativo e o outro elemento é o elemento formador.
+
+A primeira classificação dos óxidos é em relação a ligação dos óxidos, dividido em:
+
+Covalentes -> Am + O ou H + O
+Iônicas -> M + O 
+
+Temos 7 tipos de óxidos:
+
+ÁCIDOS
+BÁSICOS
+NEUTROS
+ANFÓTEROS
+MISTOS (DUPLOS/SALINOS)
+PERÓXIDOS
+SUPERÓXIDOS
+
+Óxidos Ácidos são anidridos são oxiácidos desidratados, ou seja, sem a presença de água.
+São formados por ametais de NOX +4, +5 e +6.
+São capazes de neutralizar bases. Associa-se a chuva ácida.
+
+Óxidos Básicos são formados geralmente por elementos da família 1A e 2A, assumindo NOX +1 e +2.
+Óxidos Básicos comportam-se como bases. Quando hidratados, formam bases. Associa-se a calagem (correção do pH do solo).
+
+Óxidos Anfóteros comportam-se tanto como ácidos quanto como bases, dependendo do caráter do meio.
+
+Óxidos Neutros não reagem com a água. Seu grupo é formado APENAS pelo NO, CO e N2O. O NO é formado em tempestades e participam do processo de radical livre e do ciclo de nitrogênio. O CO é extremamente tóxico, é um produto de uma combustão incompleta. O N2O é um composto que pode ser utilizado como anestésico e potencializa a combustão.
+
+Óxidos Mistos apresentam forma geral E3O4 e são formados por óxidos distintos do mesmo elemento químico. O NOX do elemento formador, que é o NOX médio, é 8/3.
+
+Peróxidos apresentam NOX médio -1. Ação bactericida.
+
+Superóxidos apresentam NOX médio -1/2. Máscara dos bombeiros.
+
+                                                        Óxidos - Nomenclatura
+
+Covalentes: Prefixo + óxido de + prefixo + nome do elemento formador 
+    Prefixos:
+        Mon
+        Di
+        Tri
+        Tetr
+        ... 
+
+Iônicos: 
+    1 NOX -> Óxido + nome do elemento formador
+    2 NOX -> NOX explícito ou implícito
+
+                                                        Equações Químicas
+
+Reagentes -> Produtos
+
+Os reagentes se combinam gerando os produtos. 
+
+As fases são sólido, líquido, gasoso e aquosa.
+
+O índice representa a quantidade de elementos.
+
+Os coeficientes estequiométricos indicam a quantidade de mol.
+
+                                                        Reações com Hidrogênio
+
+Síntese da água:
+
+2H2O + O2 -> 2H2O
+Proporção -> 2:1:2
+
+Síntese da Amônia:
+
+N2 + 3H2 -> 2NH3
+Proporção -> 1:3:2
+
+Balanceamento por tentativas MACHO (Metais, Ametais, Carbono, Hidrogênios e Oxigênios).
+
+O balanceamento deve apresentar os menores coeficientes estequiométricos inteiros.
+
+Síntese de Hidrácidos 
+
+H2 + X2 -> 2HX
+1:1:2
+
+X = Halogênio, família 7A
+
+                                                        Reações de Síntese de Hidrogênio Molecular
+
+2Metal Alcalino(s) + 2H2O(l) -> 2[MOH(aq)(Base)] + 1 H2(g)
+2:2:2:1
+Altamente exotérmico
+
+M(s) + xHCl(aq) -> MClx(aq) + x/2 H2(g)
+
+Fila de reatividade dos metais:
+
+Li > K > Ca > Na > Mg > Al > Zn > Cr > Fe > Ni > Sn > Pb > H > Cu > Hg > Ag > Au - Pt 
+
+                                                        Reação de Combustão de Compostos Orgânicos
+
+Forma Geral: CxHyOz + O2
+
+Serão sempre reações exotérmicas.
+
+Há 2 tipos de combustão:
+
+Completa -> Libera CO2 e H2O no produto.
+
+Incompleta -> Pode liberar CO ou [C(grafite) (fuligem)] 
