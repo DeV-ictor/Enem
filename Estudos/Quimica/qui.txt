@@ -367,3 +367,29 @@ Há 2 tipos de combustão:
 Completa -> Libera CO2 e H2O no produto.
 
 Incompleta -> Pode liberar CO ou [C(grafite) (fuligem)] 
+
+                                                        Reação de Pirólise
+
+Pirólise é qualquer decomposição térmica.
+
+Decomposição total ocorre quando resta apenas uma substância simples e decomposição parcial resta uma substância composta.
+
+                                                        Reação de Ustulação
+
+É a queima de sulfeto, S de carga 2-.
+
+Forma geral: MS + O2 -> Produto + SO2(g)
+
+Existem dois tipos de ustulação:
+
+Oxidativa, forma um óxido e geralmente acontece com metais menos nobres, ou seja, que vem antes do H na fila de reatividade.
+
+Redutiva, forma um metal em sua forma metálica e acontece com metais mais nobres.
+
+                                                        Mol
+
+Mol é uma quantidade fixa de unidades que equivale a constante de Avogadro, 6,0 x 10²³.
+                                                     
+A massa molar é dada em (g/mol).
+
+O volume é dado em l, geralmente usado para gases. Nas CNTP (273K e 1 atm, condições normais de temperatura e pressão), 1 mol equivale a 22,4l.
