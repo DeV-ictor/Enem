@@ -398,4 +398,4 @@ O volume é dado em l, geralmente usado para gases. Nas CNTP (273K e 1 atm, cond
 
 Unidade U ou U.M.A (Unidades de Massa Atômica) equivale a 1,66 x 10(-24)g.
 
-A massa molecular é a some de todas as massas atômicas dos átomos constituintes
+A massa molecular é a soma de todas as massas atômicas dos átomos constituintes.
