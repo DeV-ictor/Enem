@@ -114,7 +114,7 @@ Medidas de volume multiplica-se e divide-se por 1000.
 
 Dados notáveis:
 
-1l = 1000dm³
+1l = 1dm³
 1t = 1000kg
 
                                                         Estatística

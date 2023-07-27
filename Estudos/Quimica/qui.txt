@@ -399,3 +399,40 @@ O volume é dado em l, geralmente usado para gases. Nas CNTP (273K e 1 atm, cond
 Unidade U ou U.M.A (Unidades de Massa Atômica) equivale a 1,66 x 10(-24)g.
 
 A massa molecular é a soma de todas as massas atômicas dos átomos constituintes.
+
+                                                        Leis Ponderais
+
+Lei de Lavoisier - Conservação das Massas
+    A soma das massas dos reagentes é igual a soma das massas dos produtos.
+    O número de mols nem sempre se conserva.
+    O número de moléculas nem sempre se conserva.
+    O número de átomos sempre se conserva.
+
+Lei de Proust - Proporções Fixas
+    Deve-se obter sempre os MENORES coeficientes estequiométricos INTEIROS possíveis.
+    As proporções em uma reação sempre se mantém.
+
+Lei Volumétrica de Gay-Lussac - As proporções volumétricas entre os volumes gasosos também se conservam.
+    
+Lei de Dalton - Proporções Múltiplas
+    Os mesmos compostos se combinam, em proporções diferentes, gerando produtos diferentes.
+
+                                                        Equação de Clapeyron
+
+P . V = n . R . T
+
+P representa pressão, dada, geralmente, em atm ou mmHg.
+
+V representa o volume.
+
+n é o número de mols.
+
+A constante universal dos gases (R) deve revelar em quais unidades devemos trabalhar na equação.
+
+A temperatura (T) é dada em Kelvin. Para transformar de ºC para K, basta somar o valor em ºC a 273.
+
+Na CNTP, R é a constante universal dos gases e seus principais valores podem ser: 0,082 (atm x L x mol-1 x K-1) ou 62,3 (mmHg x L x mol-1 x K-1) ou 8,31 (kPa x L x mol-1 x K-1)
+
+                                                        Estequiometria Simples
+
+
