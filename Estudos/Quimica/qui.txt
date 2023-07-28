@@ -435,4 +435,9 @@ Na CNTP, R é a constante universal dos gases e seus principais valores podem se
 
                                                         Estequiometria Simples
 
+Relações:
 
+Massa x Mol
+Massa x Massa
+Massa x Volume (CNTP)
+Massa x Volume
