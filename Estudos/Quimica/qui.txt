@@ -441,3 +441,19 @@ Massa x Mol
 Massa x Massa
 Massa x Volume (CNTP)
 Massa x Volume
+
+                                                        Estequiometria com Pureza
+
+Pureza da amostra refere-se ao percentual da amostra que, de fato, participa da reação. 
+
+                                                        Estequiometria com Rendimento Reacional
+
+100% é o rendimento teórico, porém, na realidade geralmente sempre tem uma perda no processo. Essa perda é o desconto reacional. O rendimento reacional equivale ao que de fato foi gerado ao final do processo, considerando as perdas. 
+
+                                                        Estequiometria com Reagente Limitante e Reagente em Excesso
+
+Reagente Limitante vai haver consumo total. Reagente em Excesso vai sobrar.
+
+A questão apresenta 2 dados relativos aos reagentes.
+Achar o reagente em excesso.
+Trabalhar com o reagente limitante.
