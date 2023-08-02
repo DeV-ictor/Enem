@@ -457,3 +457,25 @@ Reagente Limitante vai haver consumo total. Reagente em Excesso vai sobrar.
 A questão apresenta 2 dados relativos aos reagentes.
 Achar o reagente em excesso.
 Trabalhar com o reagente limitante.
+
+                                                        Coeficientes de Solubilidade e Curva de Solubilidade
+
+Coeficiente de solubilidade é a quantidade máxima de soluto que pode ser dissolvida em 100g de solvente (geralmente água) em uma dada temperatura.
+
+CsSoluto (ºC) = Quantidade Máxima de Soluto / 100g de solvente
+
+Massa do Soluto + Massa do Solvente = Massa da Solução
+
+Possíveis Relações:
+
+Soluto x Solvente
+Soluto x Solução
+Solvente x Solução
+
+Curva de Solubilidade associa a temperatura ao coeficiente de solubilidade. 
+
+Tipos de Soluto:
+
+Endotérmico -> Quanto maior a temperatura, maior o coeficiente de solubilidade. Ele precisa absorver energia pra dissolver-se.
+
+Exotérmico -> Quanto menor a temperatura, maior o coeficiente de solubilidade. Ele precisa liberar energia pra dissolver-se.
