@@ -485,4 +485,13 @@ Exotérmico -> Quanto menor a temperatura, maior o coeficiente de solubilidade. 
 Concentração = quantidade de soluto/quantidade de solução
 
 1) Concentração comum (g/l ou g.l-¹)
+    C = Massa do Soluto/Volume da Solução
 
+2) Concentração Molar, Molaridade ou Concentração em Quantidade de Matéria (mol/l ou mol.l-¹)
+    M = Massa do Soluto/Massa Molar x Volume da Solução
+
+3) Molaridade de Íons 
+
+(Elemento) após dissociação ou ionização -> [Molaridade de Íon X], [Molaridade de Íon Y]
+
+Concentração de íons totais = [Íon X] + [Íon Y] 
