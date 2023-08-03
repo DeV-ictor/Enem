@@ -479,3 +479,10 @@ Tipos de Soluto:
 Endotérmico -> Quanto maior a temperatura, maior o coeficiente de solubilidade. Ele precisa absorver energia pra dissolver-se.
 
 Exotérmico -> Quanto menor a temperatura, maior o coeficiente de solubilidade. Ele precisa liberar energia pra dissolver-se.
+
+                                                        Unidades de Concentração
+
+Concentração = quantidade de soluto/quantidade de solução
+
+1) Concentração comum (g/l ou g.l-¹)
+
