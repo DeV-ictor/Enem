@@ -509,3 +509,23 @@ Concentração(Inicial) x Volume(Inicial) = Concentração(Final) x Volume(Final
 A entalpia de formação de uma substância simples será sempre igual a 0.
 
 Entalpia de Formação = ΣH (Produto) - ΣH (Reagentes)
+
+                                                        Lei de Hess
+
+Cálculo da entalpia a partir das suas reações intermediárias.
+
+Possíveis alterações:
+
+1) Inverter a(s) equação(ões). Alternando o produto e reagentes.
+
+2) Multiplicar ou dividir os coeficientes estequiométricos.
+
+                                                        Entalpia de Ligação
+
+É a energia envolvida na quebra de uma determinada ligação química interatômica.
+
+Quebra de ligação -> processo endotérmico.
+
+Formação de uma nova ligação -> exotérmico.
+
+Entalpia de Ligação = ΣH (Reagentes) - ΣH (Produto)
