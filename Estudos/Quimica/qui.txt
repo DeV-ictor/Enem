@@ -529,3 +529,37 @@ Quebra de ligação -> processo endotérmico.
 Formação de uma nova ligação -> exotérmico.
 
 Entalpia de Ligação = ΣH (Reagentes) - ΣH (Produto)
+
+                                                        Cinética Química
+
+Fatores que aumentam a velocidade da reação:
+
+    1) Aumento da Temperatura, pois terá uma maior cinética das moléculas, ocasianando uma maior ocorrência de choques efetivos totais.
+
+    2) Aumento da Pressão Total de um Sistema, pois os reagentes ocuparão um volume menor e consequentemente haverá mais colisão e choques efetivos totais.
+
+    3) Aumento da Concentração dos Reagentes, quantor maior concentração, mais moléculas e consequentemente, maior número de colisões efetivas.
+
+    4) Aumento da Superfície de Contato, quanto mais áreas de superfície de contato, maior a velocidade de reação.
+
+    5) Adição de um catalisador, aumento da velocidade de reação através da redução da energia de ativação.
+
+Todos esses fatores permitem a maior probabilidade de ocorrência de choques efetivos.
+
+Velocidade Média:
+
+    Velocidade Média = Variação de Substância/Variação de Tempo
+    
+    Velocidade Média positiva indica a formação de um produto.
+
+    Velocidade Média negativa indica o consumo de reagentes.
+
+Lei Cinética da Reação:
+
+    1) Reação Elementar -> 2A + 3B -> C --> V = k . [A]² . [B]³
+        Ocorre apenas em 1 etapa
+
+    2) Reação Não Elementar -> 2A + 3B -> C --> V = k . [A]^x . B^x
+        Ocorre em 2 ou mais etapas
+
+Enzimas são biomoléculas que atuam como biocatalisadores.
