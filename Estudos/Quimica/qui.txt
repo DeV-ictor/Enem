@@ -386,6 +386,10 @@ Oxidativa, forma um óxido e geralmente acontece com metais menos nobres, ou sej
 
 Redutiva, forma um metal em sua forma metálica e acontece com metais mais nobres.
 
+Fila de Reatividade:
+
+Li > K > Rb > Cs > Ba > Sr > Ca > Na > Mg > Al > Mn > Zn > Cr > Fe > Co > Ni > Pb > H > Cu > Hg > Ag > Pd > Pt > Au
+
                                                         Mol
 
 Mol é uma quantidade fixa de unidades que equivale a constante de Avogadro, 6,0 x 10²³.
@@ -561,5 +565,27 @@ Lei Cinética da Reação:
 
     2) Reação Não Elementar -> 2A + 3B -> C --> V = k . [A]^x . B^x
         Ocorre em 2 ou mais etapas
+        A etapa lenta será determinante no processo.
 
 Enzimas são biomoléculas que atuam como biocatalisadores.
+
+                                                        Príncipio de Le Chatelier - Deslocamento de Equilíbrio
+
+Um sistema de equilíbrio é quando temos reagentes se transformando em produto e produtos se transformando em reagentes. Todo sistema de equílibrio tende a se manter em seu estado de equilíbrio ATÉ receber algum estímulo externo que desloque seu equílibrio. Momentaneamente, pois o sistema terá uma ação inversa para retornar ao equilíbrio.
+
+Fatores que "deslocam" o equilíbrio:
+
+Concentração
+Temperatura
+Pressão
+
+O sentido de deslocamento depende da reação analisada.
+
+                                                        Eletroquímica
+
+Pilha -> reação química gerando uma corrente elétrica.
+
+Eletrólise -> aplicação de corrente elétrica gerando uma reação química.
+
+Ânodo é o eletrodo no qual ocorre a oxidação e é o polo negativo.
+Cátodo é o eletrodo no qual ocorre a redução e é o polo positivo.
