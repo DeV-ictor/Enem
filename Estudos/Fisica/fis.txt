@@ -33,3 +33,15 @@ O conceito de ATERRAMENTO dá-se através da transferência de cargas da Terra p
 O processo de indução sem o aterramento, após a separação do indutor, o corpo volta ao estado neutro. Para que ele adote uma carga fixa, ou seja, para que seja de fato eletrizado por indução, é necessário fazer o processo de aterramento e interrompê-lo antes do afastamento do indutor. Caso contrário, o aterramento realizará a operação contrária e a carga volta a neutralidade.
 
 Obs.: Corpos neutros também podem sofrer atração eletrostática.
+
+A equação da Lei de Coulomb descreve a força elétrica entre duas cargas através de:
+
+    F = K . |Q| . |q| /d²
+
+    F (força) é expressada em Newtons, Q (quantidade de carga) é expressa em Coulombs e K representa a constante eletrostática. 
+
+    K é calculada a partir da equação: K = 1/4πε
+
+    ε representa a Permissividade do Meio, que é a quantidade de cargas que pode ser armazenada em um determinado volume.
+
+    Quando trabalhamos com vácuo, adotamos a constante K como 9,0 x 10^9. Quando falamos do ar, adotamos o mesmo valor devido a baixa variação nos valores. Outros meios como a água e o papel, devemos calcular a constante a partir da equação descrita e de acordo com sua própria permissividade, chamada de permissividade relativa.
