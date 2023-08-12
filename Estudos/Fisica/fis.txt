@@ -1,0 +1,35 @@
+                                                        Eletrostática
+
+e equivale a carga elementar, 1,6 x 10^-19 e sua unidade é C, Coulomb.
+
+    Q = N . e -> Q refere-se a quantidade de carga que um determinado corpo possui.
+
+    N equivale a diferença entre prótons e elétrons, sendo assim: N = Np - Ne
+
+Princípio da atração e repulsão:
+
+    Sinais iguais se repelem, sinais opostos se atraem.
+
+Princípio da conservação de carga:
+
+    A total de carga que um sistema tem será igual a total de carga que ele terá depois.
+
+    Qa + Qb + Qc = Qa' + Qb' + Qc'
+
+CONDUTORES conseguem deslocar elétrons, enquanto ISOLANTES não.
+
+Processos de eletrização se dão por:
+
+1) Atrito. Através do atrito entre 2 materiais. Os corpos ficarão com cargas opostas e portanto haverá atração entre eles.
+
+2) Contato. Transferência de elétrons por meio do contato entre materiais condutores. 
+
+3) Indução. Ocorre por meio da indução da separação de cargas em outros corpos.
+    3.1) Indução Parcial. A carga do indutor é maior do que a do induzido.
+    3.2) Indução Total. A carga do indutor é igual a do induzido.
+
+O conceito de ATERRAMENTO dá-se através da transferência de cargas da Terra para um determinado corpo e vice-versa.
+
+O processo de indução sem o aterramento, após a separação do indutor, o corpo volta ao estado neutro. Para que ele adote uma carga fixa, ou seja, para que seja de fato eletrizado por indução, é necessário fazer o processo de aterramento e interrompê-lo antes do afastamento do indutor. Caso contrário, o aterramento realizará a operação contrária e a carga volta a neutralidade.
+
+Obs.: Corpos neutros também podem sofrer atração eletrostática.
