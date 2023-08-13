@@ -1,3 +1,12 @@
+                                                        Análise Vetorial
+
+1 - Método Poligonal
+
+2) Paralelogramo
+    2.1) Lei dos Cossenos -> C² = A² + B² - 2ABCos(ab)
+
+    2.2) Lei dos Senos -> A/sen(bc) = B/sen(ac) = C/sen(ab)
+
                                                         Eletrostática
 
 e equivale a carga elementar, 1,6 x 10^-19 e sua unidade é C, Coulomb.
