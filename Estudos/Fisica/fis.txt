@@ -1,11 +1,15 @@
                                                         Análise Vetorial
 
-1 - Método Poligonal
+1) Método Poligonal
+    Trabalhando em plano cartesiano.
 
 2) Paralelogramo
     2.1) Lei dos Cossenos -> C² = A² + B² - 2ABCos(ab)
 
     2.2) Lei dos Senos -> A/sen(bc) = B/sen(ac) = C/sen(ab)
+
+3) Método das Projeções
+    Decomposição Vetorial.
 
                                                         Eletrostática
 
@@ -54,3 +58,23 @@ A equação da Lei de Coulomb descreve a força elétrica entre duas cargas atra
     ε representa a Permissividade do Meio, que é a quantidade de cargas que pode ser armazenada em um determinado volume.
 
     Quando trabalhamos com vácuo, adotamos a constante K como 9,0 x 10^9. Quando falamos do ar, adotamos o mesmo valor devido a baixa variação nos valores. Outros meios como a água e o papel, devemos calcular a constante a partir da equação descrita e de acordo com sua própria permissividade, chamada de permissividade relativa.
+
+    Forças de Campo:
+
+        - Força Gravitacional
+
+        - Força Magnética
+
+        - Força Elétrica
+
+    O campo gera, em torno de si, um campo que é expresso em vetor com um módulo, direção e sentido.
+
+    E = F(el) / q -> Campo Elétrico
+
+        E = K | Q | / d²
+
+    Uma carga positiva gera um campo de repulsão.
+
+    Uma carga negativa gera um campo de atração.
+
+    Um campo elétrico não é modificado por outros agentes ou cargas de prova inseridos neles. O campo depende somente da carga geradora. Diferente da força elétrica, que depende de 2 agentes para que exista.
