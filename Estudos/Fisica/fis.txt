@@ -59,7 +59,7 @@ A equação da Lei de Coulomb descreve a força elétrica entre duas cargas atra
 
     Quando trabalhamos com vácuo, adotamos a constante K como 9,0 x 10^9. Quando falamos do ar, adotamos o mesmo valor devido a baixa variação nos valores. Outros meios como a água e o papel, devemos calcular a constante a partir da equação descrita e de acordo com sua própria permissividade, chamada de permissividade relativa.
 
-    Forças de Campo:
+Forças de Campo:
 
         - Força Gravitacional
 
@@ -78,3 +78,14 @@ A equação da Lei de Coulomb descreve a força elétrica entre duas cargas atra
     Uma carga negativa gera um campo de atração.
 
     Um campo elétrico não é modificado por outros agentes ou cargas de prova inseridos neles. O campo depende somente da carga geradora. Diferente da força elétrica, que depende de 2 agentes para que exista.
+
+Linhas de força são uma representação de modo que sua tangente em qualquer ponto aponte no sentido do vetor do campo elétrico resultante.
+
+    As linhas de força nunca se cruzam.
+    Quanto maior o afastamento entre as linhas, menor  a intensidade do campo elétrico.
+
+    A densidade superficial de carga é maior em regiões pontiagudas.
+
+    O campo elétrico no interior de um condutor esférico é 0.
+
+    O campo elétrico na superfície de um condutor esférico é metade do campo elétrico em um estado infinitamente próximo.
