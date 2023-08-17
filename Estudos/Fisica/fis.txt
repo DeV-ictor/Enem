@@ -25,7 +25,7 @@ Princípio da atração e repulsão:
 
 Princípio da conservação de carga:
 
-    A total de carga que um sistema tem será igual a total de carga que ele terá depois.
+    O total de carga que um sistema tem será igual a total de carga que ele terá depois.
 
     Qa + Qb + Qc = Qa' + Qb' + Qc'
 
