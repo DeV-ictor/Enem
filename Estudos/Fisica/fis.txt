@@ -69,7 +69,7 @@ Forças de Campo:
 
     O campo gera, em torno de si, um campo que é expresso em vetor com um módulo, direção e sentido.
 
-    E = F(el) / q -> Campo Elétrico
+    E = F(el) / q -> Campo Elétrico (puntiformes)
 
         E = K | Q | / d²
 
@@ -81,11 +81,45 @@ Forças de Campo:
 
 Linhas de força são uma representação de modo que sua tangente em qualquer ponto aponte no sentido do vetor do campo elétrico resultante.
 
-    As linhas de força nunca se cruzam.
-    Quanto maior o afastamento entre as linhas, menor  a intensidade do campo elétrico.
+    - As linhas de força nunca se cruzam.
 
-    A densidade superficial de carga é maior em regiões pontiagudas.
+    - Quanto maior o afastamento entre as linhas, menor  a intensidade do campo elétrico.
 
-    O campo elétrico no interior de um condutor esférico é 0.
+    - A densidade superficial de carga é maior em regiões pontiagudas.
 
-    O campo elétrico na superfície de um condutor esférico é metade do campo elétrico em um estado infinitamente próximo.
+    - O campo elétrico no interior de um condutor esférico é 0.
+
+    - O campo elétrico na superfície de um condutor esférico é metade do campo elétrico em um estado infinitamente próximo.
+
+Densidade Superficial de Carga:
+
+    σ = Q / A
+
+Energia Potencial Elétrica é calculada a partir da expressão: 
+
+    E = K . Q . q / d (puntiformes)
+
+Potencial Elétrico é calculado a partir da expressão:
+
+    V = E (potencial) / q
+        V = K . Q / d
+
+        V = K . Q / R (condutor esférico)
+
+
+    - O potencial elétrico dentro de um condutor é constante.
+
+    - Condutores postos em contato terão o mesmo potencial elétrico, ainda que cargas diferentes.
+
+    - O potencial elétrico diminui ao longo da linha de força.
+
+O trabalho da força elétrica é dado por:
+
+    -ΔE(p)
+        T = q (Va - Vb)
+
+    - O trabalho não depende da trajetória.
+
+    - Trabalho > 0 representa movimento espontâneo e Trabalho < 0 representa movimento forçado.
+
+    - Trabalho ao longo de superfícies equipotenciais é igual a 0.
