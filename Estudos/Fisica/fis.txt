@@ -95,6 +95,10 @@ Densidade Superficial de Carga:
 
     σ = Q / A
 
+Densidade Volumétrica de Carga:
+
+    σ = Q / V
+
 Energia Potencial Elétrica é calculada a partir da expressão: 
 
     E = K . Q . q / d (puntiformes)
@@ -128,3 +132,5 @@ A diferença de potencial (DDP) pode ser calculada a partir da expressão:
 
 U = E . d
     d equivale a distância entre as superfícies equipotenciais.
+
+Um condutor eletrizado encontra-se em EQUOLÍBRIO ELETROSTÁTICO quando não houver fluxo ordenado de elétrons livres em seu interior. Nos pontos internos e na superfície do condutor em equilíbrio eletrostático, o potencial elétrico é constante e seu valor é denominado potencial elétrico do condutor.
