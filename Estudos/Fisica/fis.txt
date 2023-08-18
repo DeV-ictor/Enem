@@ -123,3 +123,8 @@ O trabalho da força elétrica é dado por:
     - Trabalho > 0 representa movimento espontâneo e Trabalho < 0 representa movimento forçado.
 
     - Trabalho ao longo de superfícies equipotenciais é igual a 0.
+
+A diferença de potencial (DDP) pode ser calculada a partir da expressão:
+
+U = E . d
+    d equivale a distância entre as superfícies equipotenciais.
