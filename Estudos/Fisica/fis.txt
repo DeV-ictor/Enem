@@ -1,3 +1,10 @@
+                                                        Unidades
+
+Trabalho e Energia Elétrica = Joules (J)
+Tensão Elétrica ou D.D.P = Volt (V)
+Corrente Elétrica = Ampére (A)
+Potência Elétrica = Watt
+
                                                         Análise Vetorial
 
 1) Método Poligonal
@@ -132,5 +139,39 @@ A diferença de potencial (DDP) pode ser calculada a partir da expressão:
 
 U = E . d
     d equivale a distância entre as superfícies equipotenciais.
+    E equivale ao campo elétrico.
 
 Um condutor eletrizado encontra-se em EQUOLÍBRIO ELETROSTÁTICO quando não houver fluxo ordenado de elétrons livres em seu interior. Nos pontos internos e na superfície do condutor em equilíbrio eletrostático, o potencial elétrico é constante e seu valor é denominado potencial elétrico do condutor.
+
+                                                        Eletrodinâmica
+
+A carga elementar (e) equivale a 1,6 x 10^-19 Coulombs.
+
+A carga elétrica de um corpo pode ser calculada a partir da expressão:
+
+    Q = n . e 
+        n equivale a diferença entre o número de prótons e elétrons.
+
+Corrente Elétrica é caracterizada como um fluxo ordenado de cargas. Adotamos que o sentido convencional é o contrário ao fluxo de cargas.
+
+A intensidade de uma corrente elétrica é medida em Ampéres (A), calculada a partir da expressão:
+
+    i = ΔQ / Δt 
+        A carga é calculada em Coulombs, enquanto o tempo é em segundos.
+
+    Numericamente, a área calculada a partir de um gráfico (i.t) é igual ao valor da carga total, Q.
+
+    A Tensão Elétrica ou D.D.P (Diferença de Potencial, U) é calculada a partir da expressão:
+
+        U = T / q 
+            Cuja unidade é dada em volt, V.
+
+    A Potência Elétrica pode ser calculada também pelas expressões:
+
+        P = ΔE/Δt
+
+            ou
+
+        P = U . i 
+
+            Cuja unidade é dada em Watt, W.
