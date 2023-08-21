@@ -1,9 +1,11 @@
                                                         Unidades
 
+Carga = Coulomb (C)
 Trabalho e Energia Elétrica = Joules (J)
 Tensão Elétrica ou D.D.P = Volt (V)
 Corrente Elétrica = Ampére (A)
-Potência Elétrica = Watt
+Potência Elétrica = Watt (W)
+Resistência = Ohm (Ω)
 
                                                         Análise Vetorial
 
@@ -175,3 +177,22 @@ A intensidade de uma corrente elétrica é medida em Ampéres (A), calculada a p
         P = U . i 
 
             Cuja unidade é dada em Watt, W.
+
+O consumo de energia elétrica é calculado pela expressão:
+
+    ΔE = P . Δt
+
+        Cuja unidade é o Quilowatt-hora, Kwh.
+
+1 Kwh = 3,6 x 10^6 Joules.
+
+A resistência elétrica de um resistor é definida como uma resistência ao fluxo de elétrons e pode ser calculada através da expressão:
+
+    R = U/i
+        Cuja unidade é dada em Ohm, Ω.
+
+Resistor Ôhmico obedece a Primeira Lei de Ohm, que afirma que R é constante em determinados intervalos de tensão elétrica (U).
+
+Podemos, além das outras maneiras mostradas anteriormente, calcular a Potência também através das expressões:
+
+    P = R . i² ou P = U² / R
