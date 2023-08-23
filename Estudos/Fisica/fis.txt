@@ -196,3 +196,36 @@ Resistor Ôhmico obedece a Primeira Lei de Ohm, que afirma que R é constante em
 Podemos, além das outras maneiras mostradas anteriormente, calcular a Potência também através das expressões:
 
     P = R . i² ou P = U² / R
+
+A 2º Lei de Ohm trata da resistividade associada ao tipo de material. Podemos calcular a resistência, nesse sentido, a partir da expressão:
+
+    R = ρ . l / A 
+
+        Em que ρ equivale a resistividade associada ao material, l é o comprimento e A é referente a área da secção transversal.
+
+    Vale destacar que a resistência varia com a temperatura. Quanto maior a temperatura, maior ρ e consequentemente maior resistência.
+
+Os fusíveis e disjuntores atuam como protetores do circuito elétrico. Quando passa uma corrente elétrica acima do permitido, eles desligam todo o circuito a fim de protegê-los.
+
+Podemos dizer que temos uma associação em série (seja de resistores) quando temos apenas um caminho para os elétrons.
+
+    Nesse sentido, a perda total de energia (apenas energia, a carga se mantém) será a somatória da perda de energia no Resistor¹, Resistor² e Resistor³, por exemplo:
+        U(t) = U¹ + U² + U³
+
+    Nessa mesma situação, temos também o que chamamos de Resistência Equivalente. A Resistência Equivalente é a soma das resistências dos resistores. Por exemplo:
+        R(eq) = R¹ + R² + R³ 
+
+Temos uma associação em paralelo quando temos mais de um caminho para os elétrons.
+
+    Nessa situação, temos que a corrente elétrica final será a mesma que a do começo do circuito, no entanto, sua distribuição será diferente ao longo do circuito dependendo das resistências.
+        i = i¹ + i² + i³
+
+    Em um sistema com associação de resistores em paralelo a D.D.P será a mesma em todos os resistores. Assim como na associação em série, podemos calcular também a Resistência Equivalente através da expressão: 
+
+        1/R(t) = 1/R¹ + 1/R² + 1/R³
+    
+    Caso a resistência seja a mesma para todos os resistores, basta dividir a resistência pelo número de resistores.
+
+    Quando temos dois resistores com resistências diferentes associados em paralelo, podemos calcular a Resistência Equivalente através do produto pela soma das resistências de cada um. Exemplo:
+
+        R(eq) = R¹ x R² / R¹ + R²
