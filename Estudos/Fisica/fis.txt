@@ -193,7 +193,7 @@ A resistência elétrica de um resistor é definida como uma resistência ao flu
 
 Resistor Ôhmico obedece a Primeira Lei de Ohm, que afirma que R é constante em determinados intervalos de tensão elétrica (U).
 
-Podemos, além das outras maneiras mostradas anteriormente, calcular a Potência também através das expressões:
+Podemos, além das outras maneiras mostradas anteriormente, calcular a Potência também através das expressões, sobretudo Potência Dissipada:
 
     P = R . i² ou P = U² / R
 
@@ -229,3 +229,26 @@ Temos uma associação em paralelo quando temos mais de um caminho para os elét
     Quando temos dois resistores com resistências diferentes associados em paralelo, podemos calcular a Resistência Equivalente através do produto pela soma das resistências de cada um. Exemplo:
 
         R(eq) = R¹ x R² / R¹ + R²
+
+Também podemos ter um outro tipo de associação de resistores, chamado associação mista, que nada mais é do que resistores associados em série e resistores associados em paralelo em um mesmo circuito.
+
+    Para calcular a Resistência Equivalente, devemos calcular a resistência paralela de determinado trecho e em sequência calcular a a resistência em série. É necessário interpretar o circuito para entender as correntes elétricas.
+
+A força eletromotriz (E) é referente ao que é produzido por uma bateria, por exemplo.
+
+    No entanto, parte dessa produção é dissipada. Então, calculamos o que é fornecido a partir da Equação Característica:
+
+        U = E - r . i 
+
+Quando o U = 0, temos a corrente máxima, também chamada de corrente de curto-circuito, calculada por:
+
+        i = E / r
+
+    A força eletromotriz associada em série pode ser calculada da mesma forma que resistores em série, ou seja, basta somá-las.
+
+        E(eq) = E¹ + E² + E³
+
+    Para uma associação de geradores em paralelo, a força eletromotriz equivalente se mantém. Ou seja, 3 baterias de 1,5V associadas em paralelo adotamos que a força eletromotriz equivalente é igual a 1,5V. No entanto, para calcular a resistência, dividimos a resistência interna pelo número de baterias/geradores.
+
+        R(eq) = r / N
+            Em que N representa o número de resistores.
