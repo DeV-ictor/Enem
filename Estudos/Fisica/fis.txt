@@ -234,6 +234,14 @@ Também podemos ter um outro tipo de associação de resistores, chamado associa
 
     Para calcular a Resistência Equivalente, devemos calcular a resistência paralela de determinado trecho e em sequência calcular a a resistência em série. É necessário interpretar o circuito para entender as correntes elétricas.
 
+A Lei de Pouilett afirma que:
+
+    E - r . i = R . i
+
+         portanto:
+
+            i = E / R + r
+
 A força eletromotriz (E) é referente ao que é produzido por uma bateria, por exemplo.
 
     No entanto, parte dessa produção é dissipada. Então, calculamos o que é fornecido a partir da Equação Característica:
@@ -244,7 +252,7 @@ Quando o U = 0, temos a corrente máxima, também chamada de corrente de curto-c
 
         i = E / r
 
-    A força eletromotriz associada em série pode ser calculada da mesma forma que resistores em série, ou seja, basta somá-las.
+    A força eletromotriz de geradores associados em série podem ser calculado da mesma forma que resistores em série, ou seja, basta somá-las.
 
         E(eq) = E¹ + E² + E³
 
@@ -252,3 +260,15 @@ Quando o U = 0, temos a corrente máxima, também chamada de corrente de curto-c
 
         R(eq) = r / N
             Em que N representa o número de resistores.
+
+Receptores elétricos transformam energia elétrica em energia não elétrica, sendo não necessariamente calor, como no caso do resistor.
+
+A Equação Característica dos receptores elétricos é dada por:
+
+    U = E' + r' . i
+
+        Em que, E' representa a Força Contra Eletromotriz, que é a energia que de fato é utilizada para cumprir com a finalidade do equipamento. r' . i representa a fração que é perdida em outros processos.
+
+Amperímetro é utilizado para medir corrente elétrica. Deve ser ligado em série e apresentar resistência nula.
+
+Voltímetro é utilizado para medir tensão elétrica. Deve ser ligado em paralelo e apresentar resistência infinita.
