@@ -272,3 +272,16 @@ A Equação Característica dos receptores elétricos é dada por:
 Amperímetro é utilizado para medir corrente elétrica. Deve ser ligado em série e apresentar resistência nula.
 
 Voltímetro é utilizado para medir tensão elétrica. Deve ser ligado em paralelo e apresentar resistência infinita.
+
+Uma ponte de Wheatsone em equilíbrio é caracterizada dessa forma quando apresenta DDP entre dois pontos, A e B distintos, igual a 0 e consequentemente a corrente também igual a 0.
+
+    Utilizamos a relação:
+
+        R1 x R4 = R2 x R3
+
+    para calcular a resistência variante de algum dos pontos.
+
+    Utilizamos também uma relação semelhante para um outro caso específico conhecido como "ponte de fios", em que ao invés de 4 resistências, temos 2 resistências e um fio resistível com comprimento diferentes (devido a variação do posicionamento do voltímetro). Nesse caso, utilizados a relação:
+
+        R1 x l2 = R2 x l1
+
