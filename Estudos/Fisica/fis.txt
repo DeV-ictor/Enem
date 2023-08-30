@@ -285,3 +285,10 @@ Uma ponte de Wheatsone em equilíbrio é caracterizada dessa forma quando aprese
 
         R1 x l2 = R2 x l1
 
+A Lei dos Nós, também chamada de primeira lei de Kirchhoff, indica que a soma das correntes que chegam em um nó é igual a soma das correntes que saem.
+
+    i¹ + i² = i³
+
+A Lei das Malhas é uma consequência da conservação da energia. Ela indica que quando percorremos uma malha em um dado sentido, a soma algébrica das diferenças de potencial (DDP ou tensão) é igual a zero.
+
+    R4 . i1 + E1 + R1 . i1 - R2 . i2 - E2 + R3 . i1 = 0
