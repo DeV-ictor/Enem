@@ -6,6 +6,7 @@ Tensão Elétrica ou D.D.P = Volt (V)
 Corrente Elétrica = Ampére (A)
 Potência Elétrica = Watt (W)
 Resistência = Ohm (Ω)
+Capacitância = Farad (F)
 
                                                         Análise Vetorial
 
@@ -292,3 +293,29 @@ A Lei dos Nós, também chamada de primeira lei de Kirchhoff, indica que a soma 
 A Lei das Malhas é uma consequência da conservação da energia. Ela indica que quando percorremos uma malha em um dado sentido, a soma algébrica das diferenças de potencial (DDP ou tensão) é igual a zero.
 
     R4 . i1 + E1 + R1 . i1 - R2 . i2 - E2 + R3 . i1 = 0
+
+Capacitores (planos) são elementos do circuito que têm a função de armazenar cargas.
+
+    Os capacitores possuem uma característica denominada Capacitância, expressa pela relação:
+
+        C = Q / U 
+            
+            ou seja, a quantidade de carga pela DDP a qual está sujeito.
+
+    Capacitores aparecem expressos no circuito como duas barras de mesmo tamanho.
+
+    A unidade de medida da capacitância é o Farad (F).
+
+    A capacitância pode ser analisada a partir de outra relação associada a composição dos seus componentes, por exemplo, o material que constitui o capacitor. Essa relação é expressa como:
+
+        C = ε A / d
+
+            Em que ε representa a permissividade do meio, A representa a área e d representa a distância entre as placas dos capacitores
+
+    A energia potencial elétrica pode ser calculada através das seguintes expressões:
+
+     Ep = Q . U / 2
+
+     Ep = C . U² / 2
+
+     Ep = Q² / 2 . C 
