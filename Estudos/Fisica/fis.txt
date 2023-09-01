@@ -7,6 +7,7 @@ Corrente Elétrica = Ampére (A)
 Potência Elétrica = Watt (W)
 Resistência = Ohm (Ω)
 Capacitância = Farad (F)
+Permissividade do Meio = Farad por Metro (F/m)
 
                                                         Análise Vetorial
 
@@ -241,9 +242,11 @@ A Lei de Pouilett afirma que:
 
          portanto:
 
-            i = E / R + r
+            i = E / R + r - Gerador-Resistor
 
-A força eletromotriz (E) é referente ao que é produzido por uma bateria, por exemplo.
+            ΣE - ΣE' / ΣR - Gerador-Receptor-Resistor
+
+A força eletromotriz (E) é referente ao que é produzido por uma bateria, por exemplo. O sentido da corrente elétrica de um gerador é do negativo ao positivo.
 
     No entanto, parte dessa produção é dissipada. Então, calculamos o que é fornecido a partir da Equação Característica:
 
@@ -262,7 +265,7 @@ Quando o U = 0, temos a corrente máxima, também chamada de corrente de curto-c
         R(eq) = r / N
             Em que N representa o número de resistores.
 
-Receptores elétricos transformam energia elétrica em energia não elétrica, sendo não necessariamente calor, como no caso do resistor.
+Receptores elétricos transformam energia elétrica em energia não elétrica, sendo não necessariamente calor, como no caso do resistor. O sentido da corrente elétrica de um receptor é do positivo ao negativo.
 
 A Equação Característica dos receptores elétricos é dada por:
 
@@ -308,7 +311,7 @@ Capacitores (planos) são elementos do circuito que têm a função de armazenar
 
     A capacitância pode ser analisada a partir de outra relação associada a composição dos seus componentes, por exemplo, o material que constitui o capacitor. Essa relação é expressa como:
 
-        C = ε A / d
+        C = ε . A / d
 
             Em que ε representa a permissividade do meio, A representa a área e d representa a distância entre as placas dos capacitores
 
@@ -318,4 +321,29 @@ Capacitores (planos) são elementos do circuito que têm a função de armazenar
 
      Ep = C . U² / 2
 
-     Ep = Q² / 2 . C 
+     Ep = Q² / 2 . C
+
+     Capacitores associados em série possuem a mesma quantidade de carga (Q) e o DDP (U) total é a somatória da DDP em cada um dos capacitores, portanto:
+
+        Q1 = Q2 = Q3 = Q4
+
+        e
+
+        U(ab) = U1 + U2 + U3
+
+        A capacitância equivalente de capacitores em série pode ser calculado através da expressão:
+
+            1/C(eq) = 1/C1 + 1/C2 + 1/C3
+
+        A capacitância equivalente para dois capacitores:
+
+            C(eq) = C¹ x C² / C¹ + C²
+            
+        E para capacitores com a mesma capacitância:
+
+            C(eq) = C / N
+                Em que N representa o número de capacitores.
+
+    Capacitores associados em paralelo, matematicamente, são calculados da mesma forma que resistores em série, ou seja, a somatória de todas as capacitâncias:
+
+        C(eq) = C1 + C2 + C3
