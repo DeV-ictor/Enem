@@ -624,3 +624,12 @@ Passo a passo:
     Δε = ε(maior) - ε(menor)
 
         para descobrir apenas a DDP.
+
+                                                            
+Temos 2 tipos de eletrólise:
+
+    1) Eletrólise Ígnea
+
+    2) Eletrólise Aquosa
+
+    
