@@ -608,4 +608,19 @@ Pilha de Daniell:
 
     Se um cobre sofre redução e apresenta força eletromotriz de 0,34V, caso, em uma outra reação ele sofra oxidação, sua força eletromotriz apenas terá a carga oposta, ou seja, -0,34V. Então, para um mesmo metal temos sempre a força eletromotriz, independente da semi reação, igual em módulo, alternando apenas a carga, negativa e positiva.
 
-Cálculo de 
+Cálculo de ε (fem):
+
+Passo a passo:
+
+    1) Semi reações (maior ε como redução)
+
+    2) Igualar o número de elétrons através de MMC
+
+    3) Equação global
+
+        Através desse método, obtemos todas as informações acerca da reação.
+
+
+    Δε = ε(maior) - ε(menor)
+
+        para descobrir apenas a DDP.
