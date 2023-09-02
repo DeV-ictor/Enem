@@ -663,4 +663,3 @@ Destaque para as reações da água:
     Red: 2H+(aq) + 2e- -> H2 (g)
 
     Oxi: 4OH -> O2(g) + 2H2O + 4e-
-    
