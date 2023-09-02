@@ -625,11 +625,42 @@ Passo a passo:
 
         para descobrir apenas a DDP.
 
-                                                            
+
+Diferentemente do que ocorre nas pilhas, nas eletrólises o cátodo é o polo negativo e o ânodo é o polo positivo.
+
+Também nas eletrólises, o cátion reduz e o ânion oxida.
+
 Temos 2 tipos de eletrólise:
 
     1) Eletrólise Ígnea
 
     2) Eletrólise Aquosa
 
+A eletrólise ígnea ocorre com composto iônico fundido, ou seja, precisamos de calor.
+
+Primeiramente, o composto iônico é fundido e logo dissociado. Quando a corrente elétrica passa por esse meio, os íons liberados sofrem descarga.
+Como mencionado, o cátion sofre redução e o ânion sofre oxidação.
+
+Posteriormente, precisamos igualar o número de elétrons.
+
+Tendo as semi reações, com os elétrons já igualados, basta montar a equação global.
+
+
+Na eletrólise aquosa, além das semi reações, teremos também a autoprotólise da água. Com isso, é necessário analisar a ordem de preferência de descarga para saber quais cátions e ânions reagirão.
+
+    Ordem de Preferência de Descarga:
+
+Cátions: 1A, 2A, Al3+ < H+ < Todos os outros cátions
+
+Ânions: Ânions Oxigenados (SO4²-) < OH- < Ânions não oxigenados (Cl-)
+
+Posteriormente, vamos montar as semi reações e equilibrar o número de elétrons e de íons em todas as reações (dissociação, autoprotólise, oxidação e redução). 
+
+Somamos e chegamos a reação global, a qual pode nos dizer também o caráter do meio.
+
+Destaque para as reações da água:
+
+    Red: 2H+(aq) + 2e- -> H2 (g)
+
+    Oxi: 4OH -> O2(g) + 2H2O + 4e-
     
