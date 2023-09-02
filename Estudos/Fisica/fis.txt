@@ -344,6 +344,6 @@ Capacitores (planos) são elementos do circuito que têm a função de armazenar
             C(eq) = C / N
                 Em que N representa o número de capacitores.
 
-    Capacitores associados em paralelo, matematicamente, são calculados da mesma forma que resistores em série, ou seja, a somatória de todas as capacitâncias:
+    Capacitores associados em paralelo, matematicamente, são calculados da mesma forma que resistores em série, ou seja, a partir da somatória de todas as capacitâncias:
 
         C(eq) = C1 + C2 + C3
