@@ -587,5 +587,25 @@ Pilha -> reação química gerando uma corrente elétrica.
 
 Eletrólise -> aplicação de corrente elétrica gerando uma reação química.
 
-Ânodo é o eletrodo no qual ocorre a oxidação e é o polo negativo.
-Cátodo é o eletrodo no qual ocorre a redução e é o polo positivo.
+Pilha de Daniell:
+
+    A Pilha de Daniell é composta por um eletrodo negativo (ânodo) que cede elétrons para o eletrodo positivo chamado de cátodo. O ânodo é uma placa de zinco mergulhada em uma solução de sulfato de zinco, enquanto que o cátodo é uma placa de cobre mergulhada em uma solução de cobre.
+
+        Ânodo é o eletrodo no qual ocorre a oxidação e é o polo negativo.
+        Cátodo é o eletrodo no qual ocorre a redução e é o polo positivo.
+
+    O Zinco oxida liberando elétrons e gerando uma DDP. Posteriormente os elétrons tenderão a migrar para a solução de íons de cobre, gerando um fluxo de elétrons. A partir desses elétrons, o sulfato na superfície do metal se reduz, tendo um aumento de massa.
+
+    Equação Global: Zn(s) + Cu2+(aq) -> Zn2+ + Cu(s)
+
+    A tensão total é a soma das forças eletromotrizes de cada uma das semi-reações, então dado que a DDP na oxidação é de 0,76V e a DDP na redução é de 0,34V, a tensão da pilha será de 1,10V.
+
+    Porém, ainda temos que cuidar do íon espectador, que nesse caso é o sulfato (SO4), pois durante esse processo temos um acúmulo de cargas positivas em uma solução e acúmulo de cargas negativas em outra. Se isso ocorre, todo o sistema da pilha quebra devido ao que chamamos de Balanço de Cargas. Então, para evitar esse problema, colocamos uma ponte salina, formado por íons de potássio e de cloro, em contato com as soluções. Dessa forma, a solução que tiver um acúmulo de cargas negativas receberá cátions K+, e a solução que tiver acúmulo de cargas positivas, receberá ânions Cl- e consequentemente, mantendo o balanço de cargas.
+
+    Após todo o processo, a barra de zinco que sofreu oxidação, apresenta aspectos de corrosão. Enquanto que a barra de cobre, que sofreu redução, apresenta deposição.
+
+        Balanço de cargas: As soluções devem ser eletricamente neutras, ou seja, a concentração de cargas positivas deve ser igual a concentração de cargas negativas.
+
+    Se um cobre sofre redução e apresenta força eletromotriz de 0,34V, caso, em uma outra reação ele sofra oxidação, sua força eletromotriz apenas terá a carga oposta, ou seja, -0,34V. Então, para um mesmo metal temos sempre a força eletromotriz, independente da semi reação, igual em módulo, alternando apenas a carga, negativa e positiva.
+
+Cálculo de 

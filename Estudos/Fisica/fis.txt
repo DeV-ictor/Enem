@@ -7,7 +7,7 @@ Corrente Elétrica = Ampére (A)
 Potência Elétrica = Watt (W)
 Resistência = Ohm (Ω)
 Capacitância = Farad (F)
-Permissividade do Meio = Farad por Metro (F/m)
+Permissividade do Meio (ε) = Farad por Metro (F/m)
 
                                                         Análise Vetorial
 
