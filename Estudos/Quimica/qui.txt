@@ -663,3 +663,61 @@ Destaque para as reações da água:
     Red: 2H+(aq) + 2e- -> H2 (g)
 
     Oxi: 4OH -> O2(g) + 2H2O + 4e-
+
+
+Relação fundamentais dentro dos cálculos de eletroquímica:
+
+Q = i . Δt
+
+    A carga (Q) é dada em Coulombs, corrente elétrica (i) em ampéres e tempo, em segundos.
+
+1F = 96.500C (9,65 . 10⁴) = 6.10²³ e-
+    
+    ou seja, 1 Farad (F) equivale a 96.500 Coulombs (C) que também equivale a 1 mol de elétrons (6.10²³).
+
+        1) Calcular Q
+        2) Redução do Íon
+        3) Estequiometria
+
+
+                                                        Química Orgânica
+
+Química orgânica estuda os compostos formados predominantemente por carbono e hidrogênio e suas estruturas, propriedades e reatividades.
+
+Os principais elementos da química orgânica são:
+
+    Carbono, Hidrogênio, Oxigênio, Nitrogênio, Fósforo e Enxofre (CHONPS)
+
+Postulados de Couper e Kekulé:
+
+    1) O carbono é tetravalente, ou seja, ele pode fazer 4 ligações.
+        
+        ligações simples são compostas por σ;
+        ligações duplas são compostas por um σ e um π;
+        ligações triplas são compostas por um σ e dois π, sendo a σ a ligação central.
+
+    2) As 4 ligações do carbono são equivalentes, são sempre as mesmas independente da posição.
+
+    3) O carbono forma cadeias
+
+Hibridação ou hibridização do carbono é a característica que o permite fazer um rearranjo eletrônico em sua estrutura e consequentemente fazer 4 ligações.
+
+Processo de hibridização do carbono:
+
+    1) Estado fundamental, apenas 2 pares desemparelhados.
+
+    2) Estado ativo, consome mais energia desemparelhando seu subnível a fim de alcançar menos energia e mais estabilidade posteriormente.
+
+    3) Estado hibridizado, 4 pares desemparelhados, mais estável e com a possibilidade de realizar 4 ligações.
+
+Possíveis hibridizações do carbono:
+
+    sp3: 4 ligações do tipo σ - tetraédrica
+
+    sp2: 3 ligações do tipo σ e 1 uma ligação do tipo π - trigonal
+
+    sp: 2 ligações do tipo π e duas ligações do tipo σ - linear
+
+O raio da ligação π é mais fraca que o da ligação σ, que é a que está na direção do eixo internuclear. Portanto, a tendência é a ligação π quebrar.
+
+O carbono não realiza uma ligação quádrupla devido a forte repulsão eletrônica que torna esse tipo de ligação inviável.
