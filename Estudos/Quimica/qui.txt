@@ -721,3 +721,62 @@ Possíveis hibridizações do carbono:
 O raio da ligação π é mais fraca que o da ligação σ, que é a que está na direção do eixo internuclear. Portanto, a tendência é a ligação π quebrar.
 
 O carbono não realiza uma ligação quádrupla devido a forte repulsão eletrônica que torna esse tipo de ligação inviável.
+
+                                                        Classificações dos Carbonos e Cadeias Carbônicas
+
+O carbono pode ser classificado quanto a:
+
+    1) Número de ligações com outros carbonos:
+        1.1) Nulário, ligado a nenhum outro átomo de carbono;
+        1.2) Primário, ligado a um átomo de carbono;
+        1.3) Secundário, ligado a dois átomos de carbono;
+        1.4) Terciário, ligado a três átomos de carbono;
+        1.5) Quaternário, ligado a quatro átomos de carbono.
+
+    2) Hibridação:
+        2.1) sp, 2 ligações do tipo π e duas ligações do tipo σ - linear
+        2.2) sp2, 3 ligações do tipo σ e 1 uma ligação do tipo π - trigonal
+        2.3) sp3, 4 ligações do tipo σ - tetraédrica
+
+Cadeia de carbonos principal: apresenta a maior sequência de átomos de carbono.
+As cadeias carbônicas podem ser classificadas quanto a:
+
+    1) Ramificações
+        1.1) Normal, não sobra qualquer ramo de carbono fora da cadeia principal.
+        1.2) Ramificada, sobra algum ramo de carbono fora da cadeia principal.
+
+    2) Insaturações (ligações duplas ou triplas entre carbono)
+        2.1) Saturadas, apenas ligações simples.
+        2.2) Insaturadas, ligações duplas ou triplas na cadeia carbônica.
+
+    3) Fechamento da cadeia
+        3.1) Aberta, acíclica ou alifática
+        3.2) Fechada ou cíclica
+
+    4) Presença de heteroátomos (diferente de carbono)
+        4.1) Homogênea, sem heteroátomos na cadeia principal.
+        4.2) Heterogênea, apresenta heteroátomos na cadeia principal.
+
+Aromaticidade é uma característica referente a presença de anel aromático.
+
+O efeito de ressonância do anel aromático é caracterizado pela deslocalização dos pares eletrônicos π (pi) das ligações duplas do anel aromático, exercendo um efeito igual em todas as regiões da estrutura. O efeito de ressonância dá estabilidade à molécula. Este deslocamento é representado por um círculo no centro do anel.
+
+Utilizamos a regra de Huckel para determinar se um arranjo cíclico é aromático.
+    Regra de Huckel: 4n + 2 = nº de elétrons π
+    Caso n seja um inteiro, será determinado como um anel aromático.
+
+Classificações quanto à aromaticidade:
+
+    5) Presença de anel benzênico ou anel aromático
+        5.1) Aromática, apresenta anel benzênico 
+        5.2) Não aromática, não apresenta anel benzênico
+
+    6) Núcleos 
+        6.1) Mononuclear, presença de apenas um anel benzênico
+        6.2) Polinuclear, presença de dois ou mais anéis benzênicos
+
+    7) Posições dos núcleos
+        7.1) Polinuclear condensada, quando os núcleos estão juntos.
+        7.2) Polinuclear isolada, quando os núcleos estão separados.
+
+Carbono quiral: deve ser obrigatoriamente sp3 e estar ligado a 4 elementos ou grupos diferentes.
