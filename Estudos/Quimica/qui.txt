@@ -780,3 +780,74 @@ Classificações quanto à aromaticidade:
         7.2) Polinuclear isolada, quando os núcleos estão separados.
 
 Carbono quiral: deve ser obrigatoriamente sp3 e estar ligado a 4 elementos ou grupos diferentes.
+
+                                                        Nomenclatura Geral da Química Orgânica
+
+Estrutura de composição da nomenclatura:
+
+    Ramificação + Prefixo + Infixo + Sufixo
+
+1) Nomenclatura quanto ao número de ramificações - ramificação
+    
+    Quanto à presença de ramificações. Deve-se numerar apenas quando necessário, ou seja, se houver outras possibilidades de ramificação.
+
+    Quando apresenta apenas um carbono na ramificação, utiliza o radical "metil".
+    Quando apresenta dois, "etil"
+    Quando apresenta três, "isopropil"
+    E "fenil" para anel benzênico.
+
+2) Nomenclatura quanto ao número de carbonos na cadeia principal - prefixo
+
+    1 - Met
+    2 - Et
+    3 - Prop
+    4 - But
+    5 - Pent
+    6 - Hex
+    7 - Hept
+    8 - Oct
+    9 - Non
+    10 - Dec
+    20 - Eicodec
+    
+3) Quanto ao número de insaturações - infixo
+
+    3.1) C-C, ligação simples. Infixo "AN".
+
+    3.2) C = C, ligação dupla. Infixo "EN".
+
+    3.3) C ≡ C, ligação tripla. Infixo "IN".
+
+4) De acordo com o grupo funcional - sufixo
+
+    4.1) Só C e H, hidrocarboneto. Sufixo "O".   
+
+    4.2) C (saturado, sp3) - OH (ligado a hidroxila), álcool. Sufixo "OL". 
+
+Passo a Passo para nomeação:
+
+    1) Cadeia Principal
+    2) Numerar
+    3) Nomear
+
+Regra da Prioridade:
+
+    1) Grupo Funcional
+    2) Insaturação
+    3) Ramificação
+
+Fórmula Geral dos Hidrocarbonetos
+
+    1) Alcanos, C-C. CnH2n + 2
+    2) Alcenos, C=C. CnH2n
+    3) Alcinos, C≡C. CnH2n - 2
+    4) Alcadienos, 2(C=C). CnH2n - 2
+    5) Cicloalcanos, C-C (cadeia cíclica). CnH2n
+    6) Cicloalcenos, C=C (cadeia fechada). CnH2n - 2
+
+Relacionando fórmula geral com massa molar
+
+    Fórmula do hidrocarboneto específico = Massa Molar
+
+        Exemplo: CnH2n + 2 = x
+            Em que x = massa molar proposta.
