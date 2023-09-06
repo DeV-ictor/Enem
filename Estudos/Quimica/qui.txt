@@ -724,6 +724,8 @@ O carbono não realiza uma ligação quádrupla devido a forte repulsão eletrô
 
                                                         Classificações dos Carbonos e Cadeias Carbônicas
 
+CUIDADO! Ao mover ramificações, elas não podem assumir o caráter de cadeia principal.
+
 O carbono pode ser classificado quanto a:
 
     1) Número de ligações com outros carbonos:
@@ -851,3 +853,43 @@ Relacionando fórmula geral com massa molar
 
         Exemplo: CnH2n + 2 = x
             Em que x = massa molar proposta.
+
+                                                        Funções Orgânicas - Álcool, Fenol e Enol
+
+Grupos funcionais
+
+    1) Álcool:
+
+        Caracterizado pela ligação entre um carbono saturado (sp3) e uma hidroxila (OH). Sufixo "OL".
+
+    2) Fenol:
+
+         Classificado como fenol quando temos um anel benzênico ligado DIRETAMENTE a uma hidroxila.
+
+    3) Enol:
+
+         Quando temos um carbono sp2 ligado DIRETAMENTE a uma hidroxila.
+                                                    
+                                                    Funções Orgânicas - Aldeído e Cetona
+
+Grupos Funcionais:
+
+    1) Aldeídos
+
+         Quando temos uma carbonila (C=O) primária ligada a um ou nenhum átomo de carbono. Sufixo "AL".
+
+    2) Cetona
+
+         Quando temos uma carbonila secundária ligada a dois átomos de carbono. Sufixo "ONA". 
+
+                                                        Funções Orgânicas - Ácidos Carboxílicos
+
+Grupos Funcionais:
+
+        1) Ácido Carboxílico
+             
+             Quando temos uma carbonila (C=O) ligada a uma hidroxila. Destaque para: R-COOH. Sufixo "OICO".
+
+Fenil: cadeia principal ligada diretamente a um anel benzênico.
+
+Benzil: cadeia principal ligada a um anel benzênico por meio de um carbono intermediário.
