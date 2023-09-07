@@ -878,7 +878,7 @@ Grupos Funcionais:
 
          Quando temos uma carbonila (C=O) primária ligada a um ou nenhum átomo de carbono. Sufixo "AL".
 
-    2) Cetona
+    2) Cetonas
 
          Quando temos uma carbonila secundária ligada a dois átomos de carbono. Sufixo "ONA". 
 
@@ -893,3 +893,43 @@ Grupos Funcionais:
 Fenil: cadeia principal ligada diretamente a um anel benzênico.
 
 Benzil: cadeia principal ligada a um anel benzênico por meio de um carbono intermediário.
+
+                                                        Isomeria Plana
+
+Compostos de mesma fórmula molecular que exibem alguma diferença estrutural.
+
+Temos 5 casos na isomeria plana:
+
+    1) Metameria
+
+        Mesma fórmula molecular, porém muda a posição de um heteroátomo.
+
+        Por exemplo, no caso do metoxipropano e do etoxietano.
+
+    2) Tautomeria
+
+        Isomeria dinâmica onde duas espécies de mesma fórmula molecular coexistem em equilíbrio dinâmico (reação reversível)
+
+        Por exemplo, no caso da ceto-enólica. Temos uma cetona, que após um rearranjo da ligação pi e do oxigênio, transforma-se em enol e vice-versa.
+
+    3) Função
+
+        Possuem mesma fórmula molecular mas diferem nas funções (grupos funcionais).
+
+        Por exemplo, no caso da pronanona e propanal.
+
+    4) Cadeia
+
+        Possuem mesma forma molecular mas diferem no tipo de cadeia.
+
+        Por exemplo, no caso do pentano e metilbutano.
+
+    5) Posição
+
+        Possuem a mesma fórmula molecular mas diferem na posição de uma ramificação, insaturação ou grupo funcional.
+
+        5.1) Ramificação, mesma fórmula e posição da ramificação diferente. (Lembrando que não pode perder o caráter de ramificação)
+
+        5.2) Insaturação, mesma fórmula e posição da insaturação diferente.
+
+        5.3) Grupo Funcional, mesma fórmula e posição do grupo funcional diferente.
