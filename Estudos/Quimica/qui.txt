@@ -933,3 +933,47 @@ Temos 5 casos na isomeria plana:
         5.2) Insaturação, mesma fórmula e posição da insaturação diferente.
 
         5.3) Grupo Funcional, mesma fórmula e posição do grupo funcional diferente.
+
+                                                        Isomeria Espacial
+
+Temos dois tipos de isomeria espacial:
+
+1) Isomeria geométrica
+
+    Também conhecida como isomeria cis-trans.
+
+    Temos dois blocos mais comuns onde é possível haver isometria geométrica, que são os blocos dos compostos saturados e dos ciclo saturados.
+
+    Para essa isomeria ocorrer, não podemos ter dois ligantes ou grupos iguais a um mesmo átomo de carbono e não pode haver livre rotação entre esses carbonos.
+
+    Os isômetros podem ser classificados quanto a isômeros cis e isômeros trans.
+
+    Após traçar o eixo internuclear dos carbonos, caso os ligantes de maior prioridade, ou seja, de maior massa molar, estiverem no mesmo plano, então teremos um isômero cis. Caso estejam em planos opostos, teremos um isômero trans. 
+
+    Essa isomeria infere bastante na polaridade da molécula.
+
+2) Isomeria óptica
+
+    É um fenômeno caracterizado pela presença do carbono quiral (sp3 com 4 ligantes diferentes)
+
+    O carbono quiral será uma imagem especular não sobreponível.
+
+    Dentro da isomeria óptica, temos duas classificações denominadas de dextrógiro e levógiro. Essas classificações partem do seguinte experimento:
+
+        1) Temos uma fonte de luz natural.
+        2) Polarizamos essa luz através de uma polarímetro
+        3) E por fim, colocamos o isômero na frente dessa luz polarizada e observamos seu desvio.
+
+    Caso o desvio da luz seja para a direita, o isômero será dextrógiro. Caso o desvio seja a para a esquerda, o isômero será levógiro.
+
+    Utilizamos a regra de Van't Hoff para determinar a quantidade de isômeros ópticos possíveis para um carbono quiral.
+
+        nº de isômeros ópticos total = 2ⁿ
+
+            Em que n equivale ao número de carbonos quirais.
+
+    Podemos calcular também a quantidade de isômeros opticamente inativos, que é quando uma substância apresenta isômeros que não desviam o plano da luz polarizada. Nesse caso dizemos que temos isômeros opticamente INATIVOS, que nada mais são do que uma mistura equimolar entre os isômeros dextrógiro e levógiro, denominada mistura racêmica. Para isso, utilizamos a expressão:
+
+        nº de isômeros ópticos total = 2ⁿ ⁻ ¹ ou  2ⁿ/2
+
+    Um composto meso ou isômero meso é um isômero inativo por compensação interna.
