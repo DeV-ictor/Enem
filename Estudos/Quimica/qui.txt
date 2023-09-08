@@ -977,3 +977,62 @@ Temos dois tipos de isomeria espacial:
         nº de isômeros ópticos total = 2ⁿ ⁻ ¹ ou  2ⁿ/2
 
     Um composto meso ou isômero meso é um isômero inativo por compensação interna.
+
+                                                        Reações Orgânicas - Adição e Eliminação
+
+1) Reações de Adição
+
+O padrão das reações de adição em reações orgânicas é dois reagentes formando um produto.
+
+Geralmente as reações de adição funciona mediante a quebra da ligação pi.
+
+    1.1) Hidrogenação: Alceno reagindo com hidrogênio gasoso, normalmente na presença de um metal catalisador. A cada 1 mol de ligações pi quebradas, é necessário 1 mol de H2 para serem hidrogenadas.
+
+    1.2) Halogenação: Diferentemente da hidrogenação, nesse caso temos uma cadeia carbônica insaturada reagindo com um halogênio, com destaque para Cl2 e Br2.
+
+    1.3) Adição de Hidrácidos: Na adição de hidrácidos temos uma cadeia carbônica reagindo com um hidrácido. Dentro desse tipo de reação, utilizamos duas regras: regra de Markovnikov e Karasch-Mayo.
+
+    A regra de Markovnikov afirma que o hidrogênio entra no carbono mais hidrogenado (que realiza ligações pi).
+
+    A regra de Karasch-Mayo é utilizada para um caso específico dentro das reações de adição de hidrácidos. É a reação entre uma cadeia carbônica e HBr (ácido bromídrico) na presença de um peróxido orgânico. Nesse tipo de reação, o hidrogênio entra no carbono menos hidrogenado.
+
+    1.4) Hidratação de Alcenos: Acontece mediante a adição de H2O, seguindo a regra de Markovnikov.
+
+2) Reações de Eliminação 
+
+Um reagente principal orgânico que vai eliminar um grupo. Nesse tipo de reação, muitas vezes temos a formação de uma ligação pi.
+
+    2.1) Desalogenação: Essa reação acontecerá mediante a eliminação de halogênios de uma cadeia carbônica. Será necessário zinco (Zn) e álcool como catalisadores. Teremos a formação do ZnX2 (Zinco + Halogênio)
+
+    2.2) Desidro-halogenação: Nesse tipo de reação, teremos a formação de uma hidrácido. Funciona mediante a eliminação do halogênio e de um hidrogênio de um carbono vizinho que seja o menos hidrogenado, de acordo com a regra de Saytzeff.
+
+        Regra de Saytzeff: O hidrogênio tende a sair do carbono menos hidrogenado.
+
+    2.3) Desidratação de álcools: Temos dois tipos de desidratação, com diferença principalmente nas condições de temperatura. Teremos a formação de H2O.
+
+    O primeiro tipo de desidratação depende de uma temperatura mais alta (170ºC) e portanto, acontecerá dentro da molécula, ou seja, intramolecular e depende apenas de uma molécula.
+
+    O segundo tipo é de acordo com uma temperatura mais baixa (140ºC), acontecerá ENTRE moléculas, portanto será uma desidratação intermolecular. Será necessário duas moléculas.
+
+                                                        Reações Orgânicas - Substituição
+
+1) Substituição em alcanos:
+
+    Tendência de saída do hidrogênio ligado a:
+
+        HC≡C > HC=C > HC-c > HC
+
+    1.1) Nitração (HNO3 = HO - NO2):
+
+        Reação orgânica de substituição em que um ou mais átomos de hidrogênio do composto orgânico é substituído por um grupo nitro do ácido nítrico. Forma água com subproduto.
+
+    1.2) Sulfonação (H2SO4 = OH - HSO3)
+
+        Reação orgânica de substituição em que um ou mais átomos de hidrogênio do composto orgânico são substituídos por um grupo sulfônico do ácido sulfúrico. Forma água como subproduto.
+
+    1.3) Halogenação (X2, geralmente Cl ou Br):
+
+        Reação orgânica de substituição em que um ou mais átomos de hidrogênio do composto orgânico é substituído por um halogênio, geralmente cloro ou bromo. Forma um hidrácido como subproduto.
+
+2) Substituição em compostos aromáticos:
+
