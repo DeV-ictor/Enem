@@ -172,3 +172,5 @@ Propriedades de Logaritmo:
     6) Em qualquer base, o logaritmo do quociente de dois números reais e positivos é igual à diferença entre os logaritmos desses números.
 
     7) Mudança de base
+
+                                                        PA e PG
