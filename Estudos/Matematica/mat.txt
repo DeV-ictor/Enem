@@ -154,3 +154,21 @@ Atenção ao 0 na primeira casa.
 É o cálculo de possibilidades. Por exemplo, para saber qual a chance de cair a sexta face de um dado ao lançá-lo.
 
 A probabilidade é calculada a partir da razão entre o número de chances favoráveis e valor total.
+
+                                                        Logaritmo
+
+Propriedades de Logaritmo:
+
+    1) Log de um número na mesma base é sempre 1.
+
+    2) Expoente do logarimando sai e multiplica toda a estrutura. Podemos aplicar essa propriedade no logaritmo de uma raiz, pois, podemos escrever uma raiz na forma de expoente fracionário.
+
+    3) Expoente da base sai e divide toda a estrutura.
+
+    4) Log de 1 em qualquer base é 0.
+
+    5) Em qualquer base, o logaritmo do produto de dois ou mais números positivos é igual à soma dos logaritmos de cada um desses números.
+
+    6) Em qualquer base, o logaritmo do quociente de dois números reais e positivos é igual à diferença entre os logaritmos desses números.
+
+    7) Mudança de base
