@@ -174,3 +174,43 @@ Propriedades de Logaritmo:
     7) Mudança de base
 
                                                         PA e PG
+
+Progressão aritmética é uma sequência obtida a partir da soma de um mesmo número, chamado de razão, ao seu antecessor.
+
+Para descobrir a razão de uma PA, pegue um dos números da sequência e subtraia do seu antecessor.
+
+Quando a razão da PA é maior que 0 (> 0), é classificada como crescente. Quando é menor que 0 (< 0), decrescente. E quando a razão é igual a 0, é chamada de constante.
+
+Termo geral da PA:
+
+    an = a₁ + (n -1) . R
+
+        Em que a₁ representa o primeiro termo da sequência, n representa o termo desejado e R, a razão.
+
+Soma da PA 
+
+    Sn = (a₁ + an) . n / 2
+
+        Em que a₁ representa o primeiro termo da sequência e n representa o último termo.
+
+Progressão geométrica é uma sequência obtida a partir da multiplicação de um mesmo número, chamado de razão, pelo seu antecessor.
+
+Para descobrir a razão de uma PA, pegue um dos números da sequência e divida pelo seu antecessor.
+
+Quando a razão da PG é maior que 1 (> 1), é classificada como crescente. Quando é menor que 1 (< 1), decrescente. E quando a razão é igual a 0, é chamada de constante.
+
+Termo geral da PG:
+
+    an = a₁ . q ⁿ ⁻  ¹
+
+        Em que a₁ é o primeiro termpo da PG, q é a razão e n é o termo desejado.
+
+Soma da PG Infinita:
+
+    S = a₁ / 1 - q
+
+Soma da PG Finita:
+
+    S = a₁ . (qⁿ - 1) / q - 1
+
+        Em que a₁ é o primeiro termpo da PG, q é a razão e n é a quantidade de termos que desejamos serem somados. 
