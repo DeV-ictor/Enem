@@ -268,5 +268,3 @@ Cosseno: 1º e 4º Quadrantes Positivos.
 Tangente: 1º e 3º Quadrantes Positivos.
 
 Adição e Subtração de Arcos:
-
-    
