@@ -214,3 +214,59 @@ Soma da PG Finita:
     S = a₁ . (qⁿ - 1) / q - 1
 
         Em que a₁ é o primeiro termpo da PG, q é a razão e n é a quantidade de termos que desejamos serem somados. 
+
+                                                        Trigonometria
+
+Teorema de Pitágora: H² = a² + b²
+
+Relações Métricas no Triângulo Retângulo:
+
+    1) Ah = BC
+    2) C² = AM
+    3) B² = AN
+    4) h² = MN
+    5) A = M + N
+
+Razões Trigonométricas:
+
+    Seno = CO / H
+
+    Cosseno = CA / H
+
+    Tangente = CO / CA
+
+Ângulos Notáveis:
+
+       30     45      60
+
+Sen:  1/2    √2/2     √3/2
+
+Cos: √3/2    √2/2      1/2
+
+Tag: √3/3      1      √3
+
+Relação Fundamental da Trigonometria:
+
+    sen²X + cos²X = 1
+
+Outras Relações Trigonométricas:
+
+    cot(x) = cos(x) / sen(x) ou 1/tg(x) - Cotangente
+
+    sec(x) = 1 / cos(x) - Secante
+
+    csc(x) = 1 / sen(x) - Cossecante
+
+Círculo Trigonométrico: 
+
+    O círculo trigonométrico funciona no sentido anti-horário.
+
+Seno: 1º e 2º Quadrantes Positivos.
+
+Cosseno: 1º e 4º Quadrantes Positivos.
+
+Tangente: 1º e 3º Quadrantes Positivos.
+
+Adição e Subtração de Arcos:
+
+    
