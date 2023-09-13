@@ -217,6 +217,10 @@ Soma da PG Finita:
 
                                                         Trigonometria
 
+Transformação de graus para radianos: πRad = 180
+
+A soma dos ângulos internos de um triângulo é 180º graus.
+
 Teorema de Pitágora: H² = a² + b²
 
 Relações Métricas no Triângulo Retângulo:
@@ -261,10 +265,48 @@ Círculo Trigonométrico:
 
     O círculo trigonométrico funciona no sentido anti-horário.
 
-Seno: 1º e 2º Quadrantes Positivos.
+    Seno: 1º e 2º Quadrantes Positivos.
 
-Cosseno: 1º e 4º Quadrantes Positivos.
+    Cosseno: 1º e 4º Quadrantes Positivos.
 
-Tangente: 1º e 3º Quadrantes Positivos.
+    Tangente: 1º e 3º Quadrantes Positivos.
 
 Adição e Subtração de Arcos:
+
+    Seno da soma - sen (a + b):
+                    sen(a) . cos(b) + sen(b) . cos(a)
+    
+    Seno da diferença - sen (a - b):
+                    sen(a) . cos(b) - sen(b) . cos(a)
+
+    Cosseno da soma - cos (a + b)
+                    cos(a) . cos(b) - sen(b) . sen(a)
+
+    Cosseno da diferença - cos (a - b)
+                    cos(a) . cos(b) + sen(b) . sen(a)
+
+    Tangente da soma - tg (a + b):
+                    tg(a) + tg(b) / 1 - tg(a) . tg(b)
+
+    Tangente da diferença - tg (a - b):
+                    tg(a) - tg(b) / 1 + tg(a) . tg(b)
+
+    Podemos utilizar os ângulos notáveis através das fórmulas descritas para descobrir outros ângulos.
+
+Lei dos Senos e Cossenos:
+
+    1) Lei dos Senos geralmente apresenta uma estrutura na qual te dá dois ângulos e o valor de um dos lados.
+
+    O lado sobre o ângulo oposto ao lado. Segue a fórmula:
+
+        a/sen(a) = b/sen(b) = c/sen(c) = 2R
+
+    Percebe-se através da fórmula que podemos relacionar com um triângulo inscrito em uma circunferência.
+
+    2) Lei dos Cossenos diferentemente da lei dos senos, geralmente oferece dois lados e um ângulo.
+
+    Fórmula da lei dos cossenos:
+
+                                a² = b² + c² - 2 . b . c . cos(θ)
+
+    a é o lado oposto ao ângulo indicado, b e c são os lados adjacentes ao ângulo.
