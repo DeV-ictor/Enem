@@ -178,3 +178,29 @@ Doenças causadas por parasitas:
     5) Aracnídeos
 
         Demodex, sarna, carrapato.
+
+Características e Prevenções:
+
+    Ascaridíase: Famosa "lombriga", transmissão mecânica, ou seja, poeira ou insetos podem levar esses ovos ao contato de humanos ou ingerir alimentos infectados. Os possíveis sintomas são: enjoo, vômito, inchaço abdominal (distensão) e dor abdominal, hemorragias e/ou outros problemas de nutrição. Saneamento básico é o método mais eficaz de prevenção.
+
+    Ancilostomose: Os sintomas incluem exantema no local de entrada da larva e, algumas vezes, dor abdominal ou outros sintomas gastrointestinais durante a infecção inicial. Mais tarde, pode-se desenvolver deficiência de ferro por causa de perda crônica de sangue. A ancilostomíase é uma das principais causas de anemia por deficiência de ferro. Tratar cães e gatos contra ancilostomídeos e evitar contato direto da pele com areia de praia potencialmente infestada.
+
+    Elefantíase: Causada por um parasita transmitido pela picada de um mosquito, levando a uma inflamação no sistema linfático, fazendo com que o paciente desenvolva um grande inchaço. Acúmulo anormal de líquido nas pernas e nos braços e outros pontos. A melhor forma de prevenção é o combate tanto ao vetor, o mosquito C. quinquefasciatus, quanto às suas larvas com a utilização de inseticidas e saneamento ambiental.
+
+    Enterobiose: É uma doença que afeta o sistema digestivo, principalmente intestinos, que se tornam inflamados e infeccionados devido à presença de um verme. O principal sintoma da enterobíase é a coceira ao redor do ânus causada pelo depósito de ovos do verme. Bons hábitos de higiene podem evitar a contaminação pela doença.
+ 
+    Teníase: A teníase é causada pela ingestão de carne bovina ou suína mal cozida que contenha ovos do parasita. Em casos graves ou crônicos, os sintomas podem incluir dor de barriga, perda de apetite, perda de peso e dor de estômago. Bons hábitos de higiene e ingerir carnes bem cozidas ou bem assadas podem prevenir a teníase.
+
+    Esquitossomose: O hospedeiro intermediário são moluscos. Após todo o ciclo e originadas as cercárias, elas procuram seus hospedeiros definitivos, os seres humanos, por meio de penetração ativa. Possíveis sintomas: alergias, febre de Katayama. Eventualmente vacina como tratamento e saneamento básico como prevenção.
+
+    Amebíase: A amebíase é uma infecção do intestino grosso e, por vezes, do fígado e outros órgãos, que é causada pela ameba. Caso haja sintomas, podem ser leves e incluir cólicas e diarreia. Evitar comer alimentos não cozidos, incluindo saladas, legumes e verduras e evitar consumir água e gelo potencialmente contaminados.
+
+    Giardíase: A giardíase se espalha por alimentos ou água contaminada ou por contato pessoal. É mais comum em áreas com más condições de saneamento e água contaminada. Os sintomas podem incluir diarreia aquosa alternando com fezes gordurosas. Ingestão somente de água filtrada, saneamento básico, bons hábitos de higiene e higienizar frutas, legumes e verduras.
+ 
+    Malária: A malária é uma doença infecciosa causada por um parasito do gênero Plasmodium, que é transmitido para humanos pela picada de fêmeas infectadas dos mosquito-prego. Os sintomas mais comuns são calafrios, febre e sudorese. As principais medidas de prevenção são o uso de mosquiteiros, roupas que protejam pernas e braços, telas em portas e janelas e uso de repelentes.
+
+    Leishmaniose: De modo geral, essas enfermidades se dividem em leishmaniose tegumentar americana, que ataca a pele e as mucosas, e leishmaniose visceral, que ataca órgãos internos. A transmissão é por meio de mosquito. O uso de repelentes, evitar os horários e ambientes onde esses vetores possam ter atividade, a utilização de mosquiteiros de tela fina e, dentro do possível, a colocação de telas de proteção nas janelas são medidas de prevenção recomendadas.
+
+    Toxoplasmose: A toxoplasmose resulta de infecção com um parasita comum encontrado em fezes de gato e alimentos contaminados. Pode causar graves complicações para gestantes e pessoas com o sistema imunológico debilitado. Os sintomas incluem dor muscular, febre e dor de cabeça, que podem durar semanas. Evite comer alimentos crus,não prove a carne crua durante a preparação, coma verduras e legumes sempre bem lavados e cuidado com fezes de gato, de modo geral.
+
+    Doença de Chagas: A doença de Chagas é comum em locais onde o inseto barbeiro é encontrado. A doença pode ser leve, causando inchaço e febre, ou pode durar muito tempo. Se não for tratada, pode causar insuficiência cardíaca congestiva. Evitar que o inseto “barbeiro” forme colônias dentro das residências, por meio da utilização de inseticidas residuais por equipe técnica habilitada.
