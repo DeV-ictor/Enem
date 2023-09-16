@@ -204,3 +204,85 @@ Características e Prevenções:
     Toxoplasmose: A toxoplasmose resulta de infecção com um parasita comum encontrado em fezes de gato e alimentos contaminados. Pode causar graves complicações para gestantes e pessoas com o sistema imunológico debilitado. Os sintomas incluem dor muscular, febre e dor de cabeça, que podem durar semanas. Evite comer alimentos crus,não prove a carne crua durante a preparação, coma verduras e legumes sempre bem lavados e cuidado com fezes de gato, de modo geral.
 
     Doença de Chagas: A doença de Chagas é comum em locais onde o inseto barbeiro é encontrado. A doença pode ser leve, causando inchaço e febre, ou pode durar muito tempo. Se não for tratada, pode causar insuficiência cardíaca congestiva. Evitar que o inseto “barbeiro” forme colônias dentro das residências, por meio da utilização de inseticidas residuais por equipe técnica habilitada.
+
+                                                        Citologia
+
+Citologia nada mais é que o estudo da célula. O primeiro a enxergar os microorganismos foi o Leeuwenhoek. Posteriormente, em 1665, Robert Hooke analisou um tecido vegetal e observou a sua parede celular. Posteriormente, Robert Brow observou o corpúsculo. Por fim, Schleiden e Schwann deram início a teoria celular. "Todo ser vivo é constituído por célula". A teoria celular afirma também que a célula é a menor unidade vida e que células sempre surgem de uma outra já existente.
+
+As células eucariontes são mais complexas que as células procariontes. A grande diferença entre as duas é que as células eucariontes possui muitas organelas e as procariontes não possui organelas. As células procariontes não possuem carioteca e os seus ribossomos não podem ser considerados organelas pois não estão envoltos por membrana. O material genético, nas células procariontes, estão dispersos na célula, enquanto na célula eucarionte o material genético está contido no núcleo. Somente as bactérias e cianobactérias apresentam células procariontes.
+
+O plasmídeo é responsável pela degradação de metais pesados e pela resistência a antibióticos.
+
+Os organismos que apresentam apenas uma célula são chamados de organismos unicelulares e os organismos que possuem mais de uma célula são chamados de pluricelulares ou multicelulares. 
+
+Os organismos unicelulares podem realizar reprodução assexuada ou sexuada. Podem ser procariontes ou eucariontes, autótrofos ou heterótrofos.
+
+Os organismos multicelulares são eucariontes, podendo ser autótrofos ou heterótrofos, reproduzir assexuadamente ou sexuadamente. As principais vantagens são a diferenciação celular, maior tamanho e eficiência energética, adaptação a outros ambientes e maior autonomia ao meio ambiente.
+
+A principal diferença entre célula eucarionte animal e célula eucarionte vegetal é que a vegetal possui parede celular, vacúolo e cloroplastos.
+
+
+    Membrana Plasmática: Está presente em todas as células e é lipoproteica. É semipermeável e portanto apresenta permeabilidade seletiva, ou seja, seleciona o que entra e o que sai. As principais funções da membrana plasmática são: revestimento, reveste toda a célula; proteção; e seleção, conforme dito acima. A membrana plasmática é uma bicamada de fosfolipídios. O fosfolipídios apresentam cabeça polar, hidrofílica, e cauda apolar, hidrofóbica. Na membrana também está contida proteínas integrais pelas quais podem passar substâncias por um canal protêico. Há outras proteínas também, chamadas de proteínas periféricas, que não atravessam a membrana plasmática e sua função principalmente é atuar como uma enzima, ou seja, permitem algumas reações a nível celular. O colestoral também está contido na membrana plasmática para oferecer maior rigidez. Na parte de cima da membrana está o glicocálice, que é considerado um envoltório externo da membrana. Quando esse glicocálice está associado a proteína, é chamado de glicoproteína e quando está associado a lipídio, é chamado de glicolipídio. Sua principal função é reconhecimento celular. O citoesqueleto oferece movimento celular, definir a forma da célula. Mas não faz parte da membrana plasmática.
+
+    Como já referido, a membrana plasmática tem como uma de suas funções a seletividade e a passagem de substâncias. Essa passagem, ou esse transporte, pode acontecer de 4 maneiras: 
+
+        1) Transporte Passivo, sem gasto de energia (ATP):
+
+        Em ambos os processos de difusão quem passa é o soluto, enquanto no processo de osmose quem passa é o solvente.
+
+        *meio hipotônico, isotônico e hipertônico.
+
+            1.1) Difusão simples, o soluto passa diretamente pela bicamada de fosfolipídios. Passa do meio hipertônico para o hipotônico.
+
+            1.2) Difusão facilitada, o soluto passa pelas proteínas integrais, também do hipertônico para o hipotônico.
+
+            1.3) Osmose, o solvente passa tanto pela bicamada de fosfolipídios quanto pelas proteínas e passa do meio hipotônico para o hipertônico.
+
+                1.3.1) Osmose em célula animal:
+
+                    Solução Hipotônica: água entra, célula estoura.
+
+                    Solução Isotônica: água entra e sai, célula não muda.
+
+                    Solução Hipertônica: água sai, célula murcha.
+
+                1.3.2) Osmose em célula vegetal:
+
+                    Solução Hipotônica: água entra, célula fica túrgida, porém a parede celular impede de estourar.
+
+                    Solução Isotônica: água entra e sai, célula não muda.
+
+                    Solução Hipertônica: água sai, célula murcha mas continua presa a parede celular, processo chamado de plasmólise.
+
+        2) Transporte Ativo:
+
+            O transporte ativo ocorre por proteínas, chamadas de ATPases, envolve o gasto de energia (ATP), é contra um gradiente de concentração e é um processo contínuo.
+
+            As funções do transporte ativo consistem em:
+
+                Respiração Celular;
+                Síntese de Proteína;
+                Gerar um potencial eletroquímico, fundamental para a contração muscular e impulsos nervosos.
+
+            2.1) Bomba de Na+ e K+
+
+                A bomba força a entrada do sódio e a saída do potássio e durante esse ciclo é gasto energia, uma molécula de ATP que ao final é transforma em ADP + P, que é reutilizada para a produção do ATP novamente. A proteína, que apresenta determinados sítios, em seu estágio inicial estará aberta para dentro da célula e cada um dos sítios vão se ligar a um sódio durante sua passagem pela proteína. A molécula de ATP libera energia para a ATPase que irá se abrir para fora da célula e os íons de sódio saem para o meio externo e nesse mesmo momento o outro lado da proteína se liga a íons de potássio por meio de outros sítios. O fosfato que foi gerado ao longo do ciclo, quando é liberado, a proteína novamente se abre para dentro da célula, liberando os íons de potássio e reiniciando o ciclo. Importante destacar que o sódio retorna ao meio intracelular devido a tendência a homeostase, e isso ocorre por meio de transporte passivo, ou seja, sem gasto de energia.
+
+                Devido ao sódio retornar ao meio intracelular respeitando a tendência a homeostase, também é liberado, por exemplo, um íon de cálcio para o meio extracelular. Esse processo é considerado como um transporte ativo secundário, devido a depência indireta do ATP envolvido no transporte primário, que é a bomba de sódio e potássio.
+
+                O exemplo descrito acima da saída do íon de cálcio é considerando contransporte ou antiporte, pois um entra e outro sai. 
+                No entanto, temos um outro tipo, chamado de simporte, no qual, por exemplo, uma molécula de glicose entra junto com o íon de sódio.
+
+        4) Transporte por vesículas:
+
+            4.1) Endocitose
+
+                4.1.1) Fagocitose
+ 
+                4.1.2) Pinocitose
+
+            4.2) Exocitose
+              
+                4.2.1) Secreção
+
+                4.2.2) Excreção
