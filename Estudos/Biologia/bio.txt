@@ -275,14 +275,28 @@ A principal diferença entre célula eucarionte animal e célula eucarionte vege
 
         4) Transporte por vesículas:
 
-            4.1) Endocitose
+        O transporte por vesículas é um tipo especial de transporte ativo, ou seja, haverá gasto de energia. O transporte por vesículas é utilizado para englobar grandes partículas e portanto deforma a membrana plasmática.
+
+            4.1) Endocitose, entrada para a célula.
 
                 4.1.1) Fagocitose
+
+                        A fagocitose ocorre a emissão de pseudópodes. Envolve a entrada de partículas sólidas, inteiras.
  
                 4.1.2) Pinocitose
 
-            4.2) Exocitose
-              
+                        Sem pseudópodes. A membrana plasmática engloba partículas dissolvidas. A maioria das células eucarióticas fazem pinocitose.
+
+                4.1.3) Endocitose por receptores
+
+                        Receptores identificam determinadas substâncias e enviam eles para dentro das células.
+
+            4.2) Exocitose, eliminação de substâncias da célula.
+               
                 4.2.1) Secreção
 
+                        Envolve a saída de substâncias produzidas pela célula, que são úteis ao funcionamento do organismo.
+
                 4.2.2) Excreção
+
+                        Eliminação do "lixo" da célula, como resíduos de bactérias fagocitadas. Esse processo também é conhecido como clasmócitose ou defecação celular.
