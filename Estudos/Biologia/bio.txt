@@ -124,6 +124,20 @@ Níveis de organização em ecologia:
 
     Biosfera corresponde a todos os ecossistemas do planeta.
 
+Aeróbios x Anaeróbios:
+
+    É uma classificação quanto ao uso ou a sobrevivência dos organismos em relação ao gás oxigênio.
+
+    1) Aeróbios: Dependem do oxigênio. Realizam respiração celular.
+
+    2) Anaeróbios: Não sobrevivem na presença de oxigênio. Realizam fermentação, produção de energia na ausência de O2.
+
+    3) Anaeróbios Facultativos: Sobrevivem com ou sem oxigênio. Respiração celular e fermentação.
+
+    4) Aerotolerantes: não usam o oxigênio mas toleram a sua presença.
+
+    5) Microaerófilos: sobrevivem em baixa concentração de oxigênio.
+
                                                         Evolução
 
 Evolução é um processo no qual ocorrem mudanças nos seres vivos ao longo do tempo, levando frequentemente ao surgimento de novas espécies. Temos 3 teorias importantes no estudo da evolução:
@@ -354,3 +368,25 @@ Mitose x Meiose:
         Na metáfase I, os cromossomos estão aos pares, pois na anáfase I serão puxados os cromossomos inteiros e não as cromátides. Os cromossomos homólogos vão para lados opostos. Posteriormente a telófase para reorganização da célula e intercinese, período de divisão entre a meiose I e meiose II. No entanto, são duas células já com a metade do número de cromossomos, porém ainda duplicados. Portanto, ocorrerá uma nova etapa, chamada Meiose II, muito semelhante ao processo de mitose.
 
         Na meiose II, aos invés dos cromossomos serem separados, serão separadas as cromátides-irmãs, como na anáfase da mitose. E no final, formarão-se 4 células n.
+
+Síntese Protêica:
+
+    É o processo no qual um gene do nosso DNA sofre uma leitura, tem a formação do RNA mensageiro, o RNAm sai do núcleo e encontra o ribossomo, dentro do qual há o rna ribossômico e interage também com o RNAt (transportador) e forma a proteína.
+
+    O composto orgânico mais abundante no nosso corpo e são formadas a partir de uma informação contida no gene. A síntese protêica é dividida em duas partes:
+
+        1) Transcrição, ocorre no núcleo, no qual um gene é transcrito em RNAm.
+
+        Uma grande enzima chamada de RNA polimerase vai se ligar ao nosso DNA até encontrar uma região chamada de Região Promotora. Essa região indica que um gene está começando. Quando a RNA polimerase encontra a região promotora, ela abre o DNA e uma das fitas desse DNA servirá como fita molde, a qual será percorrida pela enzima e coletando bases nitrogenadas que estão livres no núcleo e unindo ao RNAm. A enzima seguirá lendo o gene até encontrar uma sequência de término, uma sequência específica de nucleotídeos, que indica que ali acaba o gene. O RNA polimerase se desgruda, a fita de RNAm vai livremente para o núcleo e o DNA se fecha.
+
+        O RNAm que está no núcleo ainda está maturo, portanto precisa sofrer um outro processo para que fique maturo e então seguir para o citoplasma da célula. Esse amadurecimento é dado por um processo chamado de processamento do RNAm ou splicing. Quando ocorre o amadurecimento do RNAm, os íntrons são eliminados, ficando apenas os éxons. Quando os éxons se reorganizam, eles podem formar proteínas diferentes, portanto os íntrons possuem função reguladora. Agora esse RNAm sai do núcleo para interagir com o RNAr e RNAt para dar início ao último processo, chamado de tradução.
+
+        2) Tradução, é a interação do RNAm com o RNAr e RNAt para a formação da proteína.
+
+        A cada 3 bases nitrogenadas, ou seja, 1 códon codificará 1 aminoácido. Muitas questões abordam o código genético como degenerativo (ou redundante), isso significa que diferentes códons podem codificar o mesmo aminoácido.
+
+        O RNAt possui na parte de cima um aminoácido e na parte de baixo um anticódon, que vai se ligar a um códon do RNAm. O ribossomo possui dois sítios, sítio A e sítio P, na parte superior, onde estarão contidos os RNAt que farão a tradução do RNAm.
+
+        O processo ocorre da seguinte forma: 
+
+        Um RNAt já alocado no sítio P se ligará ao primeiro códon e em seguida será alocado no sítio A um segundo RNAt. Lembrando sempre de respeitar a compatibilidade dos nucleotídeos. Após alocados ambos os RNAt, os aminoácidos na parte superior ligarão-se entre si e o RNAt desocupa o sítio P, enquanto o outro RNAt sairá do sítio A e ocupará o P, dando espaço para um outro RNAt que realizará o mesmo processo. Esse ciclo repete-se até encontrar algum dos códons específicos que indicará o fim do processo de tradução. Vale lembrar que a ligação entre os aminoácidos é chamada de ligação peptídica.
