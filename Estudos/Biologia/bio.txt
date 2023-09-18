@@ -315,7 +315,7 @@ Organelas Citoplasmáticas:
 
     6) Complexo de Golgi: Recebe, modifica e envia as secreções para o meio extracelular por meio de vesículas secretoras. Forma os lisossomos e o acrossoma.
 
-    7) Peroxissomo: Quebra a água oxigenada (H2O2) com a enzima catalase. Auxilia na formação da bainha de mielina.
+    7) Peroxissomo: Quebra a água oxigenada (H2O2) com a enzima catalase. Auxilia na formação da bainha de mielina. Auxiliam também na detoxificação de substâncias tóxidas.
 
     8) Mitocôndrias: Respiração celular.
 
