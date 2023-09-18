@@ -300,3 +300,57 @@ A principal diferença entre célula eucarionte animal e célula eucarionte vege
                 4.2.2) Excreção
 
                         Eliminação do "lixo" da célula, como resíduos de bactérias fagocitadas. Esse processo também é conhecido como clasmócitose ou defecação celular.
+
+Organelas Citoplasmáticas:
+
+    1) Ribossomos: Presente em ambos os tipos de célula. Síntese de proteínas.
+
+    2) Retículo Endoplasmático Liso: Síntese de lipídios e desintoxicação, como a metabolização do álcool.
+ 
+    3) Réticulo Endoplasmático Rugoso: Apresenta ribossomos aderidos em sua parede. Síntese de proteínas para o meio extracelular e produção de enzimas digestivas que atuam nos lisossomos.
+
+    4) Lisossomo: Digestão intracelular.
+
+    5) Núcleo: Centro de controle da célula, armazena o material genético.
+
+    6) Complexo de Golgi: Recebe, modifica e envia as secreções para o meio extracelular por meio de vesículas secretoras. Forma os lisossomos e o acrossoma.
+
+    7) Peroxissomo: Quebra a água oxigenada (H2O2) com a enzima catalase. Auxilia na formação da bainha de mielina.
+
+    8) Mitocôndrias: Respiração celular.
+
+    9) Vácuolo: Presente em células vegetais (também em células animais, mas sem tanta importância como na célula vegetal). Armazena substâncias e regulação osmótica.
+
+    10) Plastos: Também chamados de plastídeos. Divididos em cromoplastos e leucoplastos. Os cloroplastos, responsáveis pela fotossíntese, é um tipo de cromoplasto presente nas células vegetais.
+
+    11) Citoesqueleto: Não é uma organela. Apresenta 3 tipos, os microtúbulos, filamentos intermediários e microfilamentos. Responsáveis, de maneira geral, pela sustentação, deformação da membrana plasmática e movimentos celulares
+
+    12) Citoplasma: É o espaço intracelular que, nas células eucariontes, representa a região entre a membrana plasmática e o envoltório nuclear.
+
+Intérfase:
+
+    Périodo em qual a célula não está se dividindo. É altamente regulada, impedindo a divisão com erros. A intérfase é dividida em 3 fases:
+
+        1) G1: Saiu da mitose e entra em G1. Ocorre o crescimento da célula e aumento do número de organelas. As células estão intensamente sintetizando proteínas e RNA. Os cromossomos ainda não estão duplicados. Existe um ponto de checagem para verificar as condições da célula se está apta para ir para a próxima fase. 
+        
+        Os neurônios, por exemplo, que são células altamente especializadas não realizam duplicação de material genético e portanto dizemos que as células estão em G0. No caso dos neurônios, estarão eternamente em G0, porém outras células, como os fibroblastos, podem sair da fase G0 e realizar o ciclo celular para, por exemplo, a renovação de um tecido conjuntivo ou ósseo e retornam para G0 quando estiver tudo em ordem.
+
+        2) S: A fase S é a mais longa do ciclo celular e é onde haverá a duplicação do DNA e a finalização da duplicação dos centríolos.
+
+        3) G2: Fase que antecede a mitose e há outro ponto de checagem que verificará a integridade e replicação do DNA. Caso haja algum erro, a célula pode reparar o erro ou realizar apoptose, que é a morte programada da célula.
+
+Mitose x Meiose:
+
+    São os tipos de divisão celular. Devemos lembrar da fase em que nossas células não se dividem, chamada de intérfase.
+
+    1) Mitose: A mitose é responsável pelo crescimento, regeneração e/ou renovação. A mitose ocorre nas células somáticas. Equacional, se divide em duas células completamente iguais.
+
+        Na prófase os cromossomos estão se condensando. Na metáfase, os cromossomos já duplicados (após intérfase, antes da mitose) e alinhados na placa equatorial da célula (centro). Na anáfase, são separadas as cromátides-irmãs. Posteriormente há a telófase, na qual a célula se reorganiza e por fim ocorre a citocinese, separando as células e originando duas novas células idênticas.
+
+    2) Meiose: Em animais formam os gametas. Reducional, pois reduz a metade o número dos cromossomos. (2n = n . 4)
+
+        Na profáse I, é subdivida em 5 processos: leptóteno, zigoténo, paquíteno, diploténo e diacinese. É uma movimentação que ocorre para haver a troca de material genético entre os cromossomos homólogos. Essa troca se dá no paquíteno, é chamada de crossing-over. O crossing-over tem sua importância no aumento da variabilidade genética. 
+
+        Na metáfase I, os cromossomos estão aos pares, pois na anáfase I serão puxados os cromossomos inteiros e não as cromátides. Os cromossomos homólogos vão para lados opostos. Posteriormente a telófase para reorganização da célula e intercinese, período de divisão entre a meiose I e meiose II. No entanto, são duas células já com a metade do número de cromossomos, porém ainda duplicados. Portanto, ocorrerá uma nova etapa, chamada Meiose II, muito semelhante ao processo de mitose.
+
+        Na meiose II, aos invés dos cromossomos serem separados, serão separadas as cromátides-irmãs, como na anáfase da mitose. E no final, formarão-se 4 células n.
