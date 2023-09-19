@@ -138,6 +138,14 @@ Aeróbios x Anaeróbios:
 
     5) Microaerófilos: sobrevivem em baixa concentração de oxigênio.
 
+Bioenergética:
+
+    Fermentação: A fermentação é um processo pelo qual a matéria orgânica é parcialmente degradada e a energia química nela armazenada é liberada e utilizada na produção de moléculas de ATP
+
+    Quimiossíntese: É um processo em que compostos inorgânicos são utilizados como fonte de energia para a produção de compostos orgânicos.
+
+    Fotossíntese: A fotossíntese é um processo pelo qual a planta e outros organismos, como algas, convertem a energia solar em energia química e utilizam-na para a produção de moléculas orgânicas.
+
                                                         Evolução
 
 Evolução é um processo no qual ocorrem mudanças nos seres vivos ao longo do tempo, levando frequentemente ao surgimento de novas espécies. Temos 3 teorias importantes no estudo da evolução:
@@ -390,3 +398,126 @@ Síntese Protêica:
         O processo ocorre da seguinte forma: 
 
         Um RNAt já alocado no sítio P se ligará ao primeiro códon e em seguida será alocado no sítio A um segundo RNAt. Lembrando sempre de respeitar a compatibilidade dos nucleotídeos. Após alocados ambos os RNAt, os aminoácidos na parte superior ligarão-se entre si e o RNAt desocupa o sítio P, enquanto o outro RNAt sairá do sítio A e ocupará o P, dando espaço para um outro RNAt que realizará o mesmo processo. Esse ciclo repete-se até encontrar algum dos códons específicos que indicará o fim do processo de tradução. Vale lembrar que a ligação entre os aminoácidos é chamada de ligação peptídica.
+
+Fisiologia:
+
+    Fisiologia corresponde ao estudo do funcionamento dos órgãos e sistemas que regem o funcionamento do organismo. Alguns dos sistemas que compõem o organismo são:
+
+        1) Sistema Nervoso:
+
+            O sistema nervoso é dividido em duas áreas: Sistema Nervoso Central (SNC) e Sistema Nervoso Periférico (SNP).
+
+            Dentro do SNC, temos o encéfalo, composto pelo cérebro, cerebelo e tronco, além da medula espinal. No SNP, temos os nervos e os gânglios.
+
+            O SNC é protegido pelo crânio e vértebras, além de 3 membranas, chamadas de meninges. As membranas são a dura-máter, mais externa, a aracnóide, do meio e a pia-máter, mais interna.
+
+            Compondo o encéfalo, temos o cérebro, responsável pela interpretação, pela memória, pensamento e respostas motoras. O cerebelo tem função de equilíbrio e de coordenação muscular. O tronco encefálico tem função de conecção, como por exemplo entre o cérebro e medula espinal. Além de funções como controlar a pressão arterial, a respiração e frequência cardíaca.
+
+            A medula espinal tem função de condução dos impulsos nervosos e também pelo ato reflexo.
+
+            Compondo o SNP, temos os gânglios, que é uma reunião de corpos celulares, local onde ocorre a sinapse. Os nervos são feixes de axônios e são revestidos por tecidos conjuntivos. Os nervos podem ser classificados de nervos cranianos (saem do crânio) ou espinais (saem da espinha).
+
+            Tanto os gânglios quanto os nervos são neurônios, que podem ser classificados como neurônio motor (ou eferente, vai para o órgão), sensitivo (ou aferente, vai para o SNC) e também neurônios mistos, que vai e vem.
+
+            O SNP pode ser subdividido ainda em somático ou autônomo. Somático, responsável pelos movimentos voluntários. Autônomo, pelos movimentos involuntários. A porção autônoma pode ainda ser dividida em simpática e parassimpática. Os nervos simpáticos partem do tórax e lomar e liberam noradrenalina, enquanto os parassimpáticos partem do tronco encefálico e da região sacral e liberam acetilcolina.
+
+            O ato reflexo é um importante mecanismo de defesa que funciona através da recepção da mensagem pelos nervos sensitivos, na medula espinal a resposta é mandada diretamente para os nervos motores, tendo o intermédio dos nervos associativos ou não.
+
+        2) Sistema Endócrino:
+
+           É responsável pela produção de hormônios. Os hormônios são mensageiros químicos, atuam nas células, órgãos e/ou glândulas (trópicos).
+
+           As glândulas que produzem são as glândulas endócrinas. Os hormônios podem ter origem protêica ou origem lipídica e são altamente específicos.
+
+           As glândulas do sistema endócrino são:
+
+            - hipófise:  regula várias outras glândulas, dividida em duas partes: neuroipófise, que armazena hormônios do hipotálamo e adenoipófise, que produz hormônios.
+
+            A adenoipófise é quem produz o GH (somatotropina), o hormônio do crescimento, que estimula o crescimento.
+
+            - hipotálamo: produz ocitocina, importante no parto.
+
+            - tireóide: produz T4 e T3, que atuam no metabolismo. bócio.
+
+            - paratireóide: paratormônio, aumenta o cálcio no sangue.
+
+            - adrenais: possui porção cortical e porção medular. Na porção medular, produz a adrenalina.
+
+            - pâncreas: produção de insulina, que diminui a glicose no sangue, e de glucagon, aumenta a glicose no sangue.
+
+            - pineal: produz melatonina, que regula o ciclo circadiano.
+
+            - timo: produz timosina e timopoietina, , que atuam na produção de linfócitos,
+
+            - fígado: libera somatomedina, atua sob o hormônio do crescimento.
+
+            - rim: renina e diiproxicolecalciferol, pressão arterial, absorção de cálcio e calcificação dos ossos.
+
+            - coração: fator natriurético (ANF), atua nos rins.
+
+            - estômago: gastrina, induz a produção do suco gástrico.
+
+            - duodeno: secretina e colecistocinina, suco pancreático e bile e outras enzimas pancreáticas, respectivamente. juntos com a enterogastrina inibem a movimentação do estômago.
+
+            - testículo: testosterona, espermatogênese e caracteres masc.
+
+            - ovário: estrógeno, caracteres fem. e crescimento do endométrio. Também a progesterona, conserva o endométrio desenvolvido.
+
+            - placenta: gonadrotopina coriônica (HCG), mantém a gravidez.
+
+            Retroalimentação é o processo em que glândulas atuam sobre outras. Pode ser classificada como: retroalimentação positiva, estimula a produção de mais hormônios e retroalimentação negativa, inibe a produção desses hormônios.
+
+        3) Sistema Digestório:
+
+            É responsável pela digestão. Retira e absorve os nutrientes dos alimentos e elimina o resto.
+
+            O sistema é composto por: boca, faringe, esôfago, estômago, intestino delgado (duodeno, jejuno e íleo), intestino grosso, reto e ânus.
+
+            Glândulas anexas: salivares (parótidas, sublinguais e submandibulares), pâncreas e fígado.
+
+            A digestão acontece de duas formas: mecânica (trituração e misturação) e química (por meio de enzimas).
+
+                1) Boca (pH +- 7,0): O processo de digestão começa na boca. Na boca, a digestão ocorre de forma mecânica, pela mastigação, e química, pela insalivação. Na boca é digerido apenas açúcares.
+
+                    1.1) Língua: responsável pelo paladar (insalivação), tato e deglutinação.
+
+                    1.2) Glândulas Salivares: produzem a saliva, que atua na lubrificação por meio do muco que a compõe, proteção e a enzima amilase salivar, que converte amido em maltose.
+
+                2) Faringe: Comunica a boca ao esôfago. No processo de deglutinação a epiglote fecha.
+
+                3) Esôfago: Liga a faringe ao estômago. Realiza movimentos peristálticos.
+
+                4) Estômago: Acontece tanto a digestão mecânica, quanto digestão química. Temos 3 secreções no estômago:
+
+                    4.1) Células Parietais, secretam ácido clorídrico.
+                    4.2) Células Mucosas, secretam muco, que atuam na proteção.
+                    4.3) Células Principais, enzimas digestivas, como a pepsina, que digerem proteínas, transformando-as em peptídeos (porções menores de aminoácidos). É liberada na forma de pepsinogênio, inativas, e são ativadas pelo HCl. 
+
+                É liberada também no estômago a renina, que atua na coagulação da caseína, proteína presente no leite, que permite a pepsina agir mais sobre a caseína.
+
+                5) Intestino Delgado (duodeno, jejuno e íleo): Primeiro temos o duodeno, que representa os primeiros 30cm do intestino delgado. É onde são liberados o suco entérico, o suco pancreático (produzido pelo pâncreas), bicarbonato de cálcio (liberado no suco pancreático, para neutralizar a acidez e basificar o quimo) e sais biliares, como a bili, que atuam na emulsificação da gordura. O jejuno e o íleo correspondem a aproximadamente 6m, possui espeficações, chamadas de vilosidades (formadas por microvilosidades), que aumentam a absorção de nutrientes.
+
+                6) Intestino Grosso: Possui aproxidamente 1,5m. Possui função de absorção de água e sais minerais, formando o bolo fecal. Também no intestino grosso, nós temos a microbiota intestinal, que produzem substâncias importantes como a tiamina, riboflavina e vitaminas.
+
+                7) Reto: Parte final do intestino grosso. Tem função de armazenar o bolo fecal.
+
+                8) Ânus: Esfíncter anal, "segura" as fezes.
+            
+            O controle da digestão são algumas substâncias que são liberadas ao longo da digestão.
+
+
+        4) Sistema Circulatório:
+
+
+
+        5) Sistema Respiratório:
+
+
+
+        6) Sistema Imunológico:
+
+
+
+        7) Sistema Urinário:
+
+            
