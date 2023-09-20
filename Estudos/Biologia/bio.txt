@@ -477,47 +477,156 @@ Fisiologia:
 
             A digestão acontece de duas formas: mecânica (trituração e misturação) e química (por meio de enzimas).
 
-                1) Boca (pH +- 7,0): O processo de digestão começa na boca. Na boca, a digestão ocorre de forma mecânica, pela mastigação, e química, pela insalivação. Na boca é digerido apenas açúcares.
+                3.1) Boca (pH +- 7,0): O processo de digestão começa na boca. Na boca, a digestão ocorre de forma mecânica, pela mastigação, e química, pela insalivação. Na boca é digerido apenas açúcares.
 
-                    1.1) Língua: responsável pelo paladar (insalivação), tato e deglutinação.
+                    3.1.1) Língua: responsável pelo paladar (insalivação), tato e deglutinação.
 
-                    1.2) Glândulas Salivares: produzem a saliva, que atua na lubrificação por meio do muco que a compõe, proteção e a enzima amilase salivar, que converte amido em maltose.
+                    3.1.2) Glândulas Salivares: produzem a saliva, que atua na lubrificação por meio do muco que a compõe, proteção e a enzima amilase salivar, que converte amido em maltose.
 
-                2) Faringe: Comunica a boca ao esôfago. No processo de deglutinação a epiglote fecha.
+                3.2) Faringe: Comunica a boca ao esôfago. No processo de deglutinação a epiglote fecha.
 
-                3) Esôfago: Liga a faringe ao estômago. Realiza movimentos peristálticos.
+                3.3) Esôfago: Liga a faringe ao estômago. Realiza movimentos peristálticos.
 
-                4) Estômago: Acontece tanto a digestão mecânica, quanto digestão química. Temos 3 secreções no estômago:
+                3.3.4) Estômago: Acontece tanto a digestão mecânica, quanto digestão química. Temos 3 secreções no estômago:
 
-                    4.1) Células Parietais, secretam ácido clorídrico.
-                    4.2) Células Mucosas, secretam muco, que atuam na proteção.
-                    4.3) Células Principais, enzimas digestivas, como a pepsina, que digerem proteínas, transformando-as em peptídeos (porções menores de aminoácidos). É liberada na forma de pepsinogênio, inativas, e são ativadas pelo HCl. 
+                    3.4.1) Células Parietais, secretam ácido clorídrico.
+                    3.4.2) Células Mucosas, secretam muco, que atuam na proteção.
+                    3.4.3) Células Principais, enzimas digestivas, como a pepsina, que digerem proteínas, transformando-as em peptídeos (porções menores de aminoácidos). É liberada na forma de pepsinogênio, inativas, e são ativadas pelo HCl. 
 
                 É liberada também no estômago a renina, que atua na coagulação da caseína, proteína presente no leite, que permite a pepsina agir mais sobre a caseína.
 
-                5) Intestino Delgado (duodeno, jejuno e íleo): Primeiro temos o duodeno, que representa os primeiros 30cm do intestino delgado. É onde são liberados o suco entérico, o suco pancreático (produzido pelo pâncreas), bicarbonato de cálcio (liberado no suco pancreático, para neutralizar a acidez e basificar o quimo) e sais biliares, como a bili, que atuam na emulsificação da gordura. O jejuno e o íleo correspondem a aproximadamente 6m, possui espeficações, chamadas de vilosidades (formadas por microvilosidades), que aumentam a absorção de nutrientes.
+                3.5) Intestino Delgado (duodeno, jejuno e íleo): Primeiro temos o duodeno, que representa os primeiros 30cm do intestino delgado. É onde são liberados o suco entérico, o suco pancreático (produzido pelo pâncreas), bicarbonato de cálcio (liberado no suco pancreático, para neutralizar a acidez e basificar o quimo) e sais biliares, como a bili, que atuam na emulsificação da gordura. O jejuno e o íleo correspondem a aproximadamente 6m, possui espeficações, chamadas de vilosidades (formadas por microvilosidades), que aumentam a absorção de nutrientes.
 
-                6) Intestino Grosso: Possui aproxidamente 1,5m. Possui função de absorção de água e sais minerais, formando o bolo fecal. Também no intestino grosso, nós temos a microbiota intestinal, que produzem substâncias importantes como a tiamina, riboflavina e vitaminas.
+                3.6) Intestino Grosso: Possui aproxidamente 1,5m. Possui função de absorção de água e sais minerais, formando o bolo fecal. Também no intestino grosso, nós temos a microbiota intestinal, que produzem substâncias importantes como a tiamina, riboflavina e vitaminas.
 
-                7) Reto: Parte final do intestino grosso. Tem função de armazenar o bolo fecal.
+                3.7) Reto: Parte final do intestino grosso. Tem função de armazenar o bolo fecal.
 
-                8) Ânus: Esfíncter anal, "segura" as fezes.
+                3.8) Ânus: Esfíncter anal, "segura" as fezes.
             
             O controle da digestão são algumas substâncias que são liberadas ao longo da digestão.
 
 
         4) Sistema Circulatório:
 
+            O sistema circulatório, também chamado de sistema cardiovascular, é dividido em sistema circular sanguíneo e sistema circular linfático.
 
+                As funções do sistema cardiovascular é o transporte de gases, transporte de nutrientes, transporte de resíduos, transporte de hormônios, transporte de calor e transporte de células de defesa.
+
+                O sistema cardiovascular é formado pelo coração, por vasos sanguíneos e pelo sangue.
+
+                    4.1) Coração: Tem principal função de bombear o sangue. Apresenta 4 cavidades, 2 átrios e 2 ventrílocos. Essa característica é fundamental pois o sangue arterial, oxiemoglobina, não mistura com o sangue venoso, carboemoglobina. 
+
+                        O coração é formado pelo pericárdio, que tem função de proteger o órgão. E no espaço pericárdico tem o líquido pericárdico que evita o atrito do coração com outros órgão próximos. O endocárdio também tem função protetora. E o miocárdio é a camada média da parede do coração.
+
+                        O coração é irrigado pela artéria coronária e após circular por todos os tecidos do coração, volta pela veia coronária.
+
+                        O fluxo sanguíneo inicia-se na veia cava superior e inferior e desembocam no átrio direito, posteriormente é empurrado para o ventríloco direito e em sequência empurrado novamente pelo tronco pulmonar ou artéria pulmonar esquerda e artéria pulmonar direita. As valvas (tanto as do lado direito, quanto do lado esquerdo) impedem que o sangue retorne. Após o sangue sofrer a hematose nos pulmões, ele retorna pelas veias pulmonares e desembocam no átrio esquerdo e posteriormente no ventríloco esquerdo, onde, por fim, será bombeado para a artéria aorta. (VCIS -> AD -> VD -> TP -> P (H)-> VP -> AE -> VE -> Aorta)
+                    
+                    4.2) Vasos sanguíneos: São compostos pelas artérias, veias e pelos capilares.
+
+                        4.2.1) Artérias: são os vasos sanguíneos que estão saindo do coração, têm uma parede muscular muito grossa. Carregam sangue arterial, porém existe uma artéria que carrega sangue venoso, a artéria pulmonar. Ramificam-se a ponto de formarem arteríolas que se ligam aos capilares, pra que então haja as trocas gasosas.
+
+                        4.2.2) Capilares: desembocam em vênulas e as vênulas desembocam nas veias, que chegam ao coração. São extremamente finos e é onde ocorre a troca de nutrientes e a troca gasosa entre o sangue e todas células do corpo.
+
+                        4.2.3) Veias: são os vasos sanguíneos que estão indo em direção ao coração. Não necessitam de parede muscular muito espessa, mas apresentam valvas ou válvulas que impedem que o sangue retorne. Carregam sangue venoso na maior parte do tempo. As veias pulmonares carregam sangue arterial.
+
+                    4.3) Sangue: Apresenta a parte líquida, denominada de plasma, e os elementos figurados, que são os glóbulos vermelhos, glóbulas brancos e plaquetas.
+
+                    Sístole: contração. Díastole: relaxamento.
 
         5) Sistema Respiratório:
 
+            Sua função é realizar as trocas gasosas, processo chamado de hematose.
 
+            As vias respiratórias iniciam-se nas cavidades nasais, por onde entra o ar, segue para faringe, laringe, traqueia, pulmões, onde passar por ramificações denominadas brônquios e bronquíolos (mais ramificados) até chegar nos alvéolos, onde ocorre a hematose.
 
-        6) Sistema Imunológico:
+                5.1) Cavidades nasais: Por onde o ar entra e é filtrado, por meio dos pelos e muco, e aquecido.
 
+                5.2) Faringe: Levar o ar até a laringe.
 
+                5.3) Laringe: Tem a presença das pregas vocais, que emitem sons. E a epiglote é uma "válvula" que fecha na digestão e relaxa fora desse processo para permitir a respiração.
 
-        7) Sistema Urinário:
+                5.4) Traqueia: Leva o ar até os brônquios. Na parede da traqueia também tem cílios e células caliciformes que atuam como mecanismo de defesa. Importante destacar os anéis cartilaginosos que não permitem a traqueia fechar, caso haja, por exemplo, uma irritação.
 
-            
+                5.5) Brônquios: Sucede a primeira ramificação da traqueia. Só tem a função de carregar o ar.
+
+                5.6) Bronquíolos: Sucede a primeira ramificação dos brônquios.
+
+                5.7) Alvéolos: São espécies de "sacos" que possuem capilares que realizam hematose, troca gasosa, por meio de difusão.
+
+            Inspiração: O diafragma contrai, os músculos intercostais contraem, diminui a pressão e o ar entra.
+
+            Expiração: O diafragma relaxa, músculos intercostais relaxam, aumenta a pressão e o ar sai.
+
+            Grande parte do oxigênio é carregada pela hemoglobina. Essa ligação da hemoglobina com o oxigênio é chamada de oxiemoglobina, que é bastante instável.
+
+            25% do CO2 é transportado na hemoglobina, formando a carboemoglobina. A maior parte do CO2 é carregado no plasma, na forma de íons carbono, que originam o ácido carbônico, tornando o sangue mais ácido.
+
+            A regulação da respiração é parcialmente voluntária. Quanto maior a acidez do sangue, mais estimulado o bulbo é pra respirar. Também na aorta, temos receptores que identificam a baixa concentração de O2.
+
+            Em presença de ar rarefeito, onde o oxigênio é mais disperso, pessoas que naturalmente habitam esses locais produzem mais hemácias.
+
+            O monóxido de carbono (CO) tem alta afinidade com sangue e forma uma ligação estável com a hemoglobina, portanto deve-se evitar locais que apresentem alta concentração de CO.
+
+        6) Sistema Urinário:
+
+            Tem função de produzir, armazenar e eliminar a urina. Isso permite:
+
+            - Regular o volume de água;
+            - Controlar o balanço eletrolítico;
+            - Regular o pH;
+            - Conservar nutrientes;
+            - Excreção de resíduos do metabolismo;
+            - Regular a pressão arterial.
+
+            É composto por dois rins, dois ureteres e uma bexiga.
+
+                6.1) Rim: produção da urina
+
+                6.2) Ureter: condução da urina dos rins até a bexiga.
+
+                6.3) Bexiga: armazenamento temporário da urina.
+
+                6.4) Uretra: condução da urina da bexiga para fora do corpo.
+
+        7) Sistema Imunológico:
+
+            O sistema imunológico tem a função de defender nosso organismo contra possíveis invasores e caso algum microorganismo ou outro malfeitor consiga invadir, neutralizá-los. É dividido em inato e adaptativo.
+
+                7.1) Imunidade Inata:
+
+                    É inespecífica e não se altera. Está presente desde o nascimento.
+
+                    7.1.1) Barreiras: são divididas em barreiras físicas, químicas e biológicas. Como barreira física, temos a pele e mucosas. Muco, lágrimas, salivas e ácido clorídrico no estômago são algumas defesas químicas. E por biológica, entende-se por microbiota, que são bactérias em equilíbrio com o nosso corpo e impede a instalação de outros patógenos.
+
+                    7.1.2) Fagocitose: entre as células de defesa, temos os neutrófilos, monócitos e eosinófilos, que são responsáveis por fazer fagocitose.
+
+                    7.1.3) Interferons: são "mensageiros" que comunicam as células vizinhas quando estão sob ataque para aumentar as resistências celulares.
+
+                    7.1.4) Sistema complemento: são várias proteínas que são secretas que liberam reações em cascata, entre elas, por exemplo, gerando uma inflamação.
+
+                    7.1.5) Inflamação: favorece a chegada de células de defesa. Durante a inflamação ocorre a liberação da histamina, portanto o local pode ficar avermelhado, inchado, porém aumenta a permeabilidade do plasma e células de defesa no local.
+
+                7.2) Imunidade Adaptativa: 
+
+                    Específica e com alteração.
+
+                    7.2.1) Imunidade Humoral: mediada por linfócitos B, que se diferenciam-se em plasmócitos, para a produção de anticorpos e marcam os antígenos, facilitando a fagocitose.
+
+                    7.2.2) Imunidade Celular: mediada por linfócitos T, que diferenciam-se em auxiliares e citotóxicos. Os auxiliares reconhecem os antígenos, ou seja, é responsável pela identificação de antígenos. Os citotóxicos destroem a célula infectada.
+
+                    7.2.3) Memória Imunológica: característica fundamental do sistoma imunológico adaptativo. Os anticorpos produzidos guardam as características dos antígenos para combatê-los em outros momento caso invadam novamente o organismo. Os linfócitos B e T produzem dois tipos de células: efetoras e de memória. As efetoras são as células de defesa e mecanismos já citados. As de memórias duram anos ou até a vida inteira. A memória imunológica possui uma resposta secundária que é muito mais rápida e mais forte.
+
+Imunologia:
+
+    Soro x Vacina)
+
+        O soro é um método de remediação/neutralização. A vacina é um método de prevenção.
+
+        O soro apresenta imunização passiva. É por meio de via artificial. É constituído por anticorpos. Possui resposta imediata e temporária. O soro combate venenos e toxinas.
+
+        A vacina apresenta imunização ativa. É por meio de via artificial. É constituído por antígenos. Possui resposta posterior e duradoura. Vacinas combatem vírus e bactérias.
+
+    Imunização passiva x ativa x natural x artificial)
+
+        
