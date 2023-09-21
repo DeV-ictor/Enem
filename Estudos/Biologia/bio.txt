@@ -619,6 +619,12 @@ Fisiologia:
 
 Imunologia:
 
+    Imunização passiva x ativa x natural x artificial)
+
+        Na imunização ativa o indivíduo produz seu próprio anticorpo. A imunização ativa natural consiste em entrar em contato com o antígeno para a criação de anticorpos. A imunização ativa também pode ser artificial, que envolve o mesmo contato com antígeno, porém de maneira artificial, como no uso de vacinas.
+        
+        Na imunização passiva o indivíduo recebe os anticorpos. A imunização passiva natural pode se dar na amamentação pelo leite materno na infância ou na placenta. A imunização passiva artificial consiste no uso de soros para combater os antígenos.
+
     Soro x Vacina)
 
         O soro é um método de remediação/neutralização. A vacina é um método de prevenção.
@@ -626,7 +632,3 @@ Imunologia:
         O soro apresenta imunização passiva. É por meio de via artificial. É constituído por anticorpos. Possui resposta imediata e temporária. O soro combate venenos e toxinas.
 
         A vacina apresenta imunização ativa. É por meio de via artificial. É constituído por antígenos. Possui resposta posterior e duradoura. Vacinas combatem vírus e bactérias.
-
-    Imunização passiva x ativa x natural x artificial)
-
-        
