@@ -399,7 +399,7 @@ Síntese Protêica:
 
         Um RNAt já alocado no sítio P se ligará ao primeiro códon e em seguida será alocado no sítio A um segundo RNAt. Lembrando sempre de respeitar a compatibilidade dos nucleotídeos. Após alocados ambos os RNAt, os aminoácidos na parte superior ligarão-se entre si e o RNAt desocupa o sítio P, enquanto o outro RNAt sairá do sítio A e ocupará o P, dando espaço para um outro RNAt que realizará o mesmo processo. Esse ciclo repete-se até encontrar algum dos códons específicos que indicará o fim do processo de tradução. Vale lembrar que a ligação entre os aminoácidos é chamada de ligação peptídica.
 
-Fisiologia:
+                                                        Fisiologia
 
     Fisiologia corresponde ao estudo do funcionamento dos órgãos e sistemas que regem o funcionamento do organismo. Alguns dos sistemas que compõem o organismo são:
 
@@ -617,7 +617,7 @@ Fisiologia:
 
                     7.2.3) Memória Imunológica: característica fundamental do sistoma imunológico adaptativo. Os anticorpos produzidos guardam as características dos antígenos para combatê-los em outros momento caso invadam novamente o organismo. Os linfócitos B e T produzem dois tipos de células: efetoras e de memória. As efetoras são as células de defesa e mecanismos já citados. As de memórias duram anos ou até a vida inteira. A memória imunológica possui uma resposta secundária que é muito mais rápida e mais forte.
 
-Imunologia:
+                                                        Imunologia
 
     Imunização passiva x ativa x natural x artificial)
 
@@ -632,3 +632,53 @@ Imunologia:
         O soro apresenta imunização passiva. É por meio de via artificial. É constituído por anticorpos. Possui resposta imediata e temporária. O soro combate venenos e toxinas.
 
         A vacina apresenta imunização ativa. É por meio de via artificial. É constituído por antígenos. Possui resposta posterior e duradoura. Vacinas combatem vírus e bactérias.
+
+                                                        Genética
+
+Genética é a ciência que estuda a hereditariedade, os genes e sua transmissão.
+
+A hereditariedade são as características que são passadas as próximas gerações por meio de reproduções.
+
+Um conjunto de bases nitrogenadas é um gene, ou seja, um gene é uma porção do DNA.
+
+Cromossomos homólogos são o mesmo conjunto de genes. Nesses cromossomos tem um local onde estão os genes, chamado de locus gênico e para cada gene, temos dois alelos, representados, por exemplo por A, a. Portanto, quando falamos de genes alelos, falamos de alelos do mesmo locus.
+
+Quando falamos de homozigoto, falamos que os alelos são iguais. Vale destacar que muitas vezes é utilizado o termo "puro" para se referir aos alelos homozigotos. E quando falamos heterozigotos, dizemos que os alelos são diferentes, chamados por Mendel de híbridos.
+
+Genótipo é a constituição genética do indivíduo, imutável. E o fenótipo são as características que podem ser identificáveis, visíveis e mutáveis. O fenótipo depende do genótipo e do ambiente.
+
+Quando falamos em dominante, nos referimos ao alelo dominante, ou seja, o alelo que domina o outro, representa por uma letra maiúscula. Pode se expressar tanto por homozigose quanto por heterozigose.
+
+E recessivo é o alelo que é dominado por outro alelo, representado pela letra minúscula. Temos um outro conceito denominado "codominância", quando os dois alelos se expressam.
+
+Quando temos uma dominância incompleta ou intermediária significa que nenhuma dos alelos se expressam. E dominância completa quando um alelo se expressa.
+
+Alelos múltiplos é quando temos 3 ou mais alelos por locus.
+
+Gene letal é quando ele causa a morte do indivíduo.
+
+Pleiotropia é quando um gene tem mais de uma característica.
+Epistasia é quando um gene inibe o outro.
+Polimeria são vários genes para uma característica.
+
+Herança autossômica é toda herança que vem dos cromossomos autossômicos.
+Herança ligado ao sexo é qualquer herança ligada ao cromossomo X ou Y.
+Herança Holândrica está ligada ao Y.
+
+O cruzamento teste é quando fazemos um teste entre cruzamentos para descobrir um genótipo.
+
+O heredograma é a representação gráfica de um parentesco.
+
+Endogamia é o cruzamento entre parentes. A chance da cosanguinidade, de algum alelo recessivo se expressa é muito maior.
+
+Ploidia é o conjunto de cromossomos de uma espécie. Haplóide quando possui um conjunto, diplóide quando possui dois conjuntos e triplóide quando possui três conjuntos. 
+
+O cariótipo é uma representação gráfica dos cromossomos e a partir desse cariótipo podemos detectar alterações nos cromossomos.
+
+Epigenética é um ramo da genética que estuda mecanismos que regulam a genética.
+
+Genoma é o conjunto de todos os genes de uma espécie.
+
+Retrocruzamento é o cruzamento de um indivíduo cujos pais eram um homozigoto dominante e um homozigoto recessivo (entre F1).
+
+Quadro de Punnet.
