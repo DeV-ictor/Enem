@@ -1,6 +1,6 @@
 Matemática: aritmética, porcentagem, geometria plana e espacial, razão/proporção, estatística, combinatória e probabilidade, logaritmo, PA e PG, trigonometria, análise de gráficos.
 
-Física: energia e transformações, circuitos elétricos, ondulatória (equação fundamental), calorimetria, potência térmica, leis de Newton.
+Física: energia e transformações, circuitos elétricos, cinemática escalar,ondulatória (equação fundamental), calorimetria, potência térmica, leis de Newton.
 
 Biologia: ecologia, genética, fisiologia animal e humana, citologia, evolução, parasitologia e programas de saúde.
 
