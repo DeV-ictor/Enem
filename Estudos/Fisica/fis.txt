@@ -397,3 +397,5 @@ O movimento pode ser progressivo, quando a velocidade é positiva e está no sen
         v =  ΔS + Δx / Δt
 
         Em que x se refere a um objeto ou móvel, como o caso de um trem. Um exemplo de aplicação seria calcular o tempo com que um trem de comprimento x atravessa um ponte de determinado espaço.
+
+A velocidade relativa diz respeito à diferença de velocidade entre dois corpos. Por exemplo, se dois carros estão andando com velocidade constante e na mesma direção e sentido, a distância entre eles será sempre a mesma.
