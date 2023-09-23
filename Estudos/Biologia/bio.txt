@@ -653,7 +653,7 @@ E recessivo é o alelo que é dominado por outro alelo, representado pela letra 
 
 Quando temos uma dominância incompleta ou intermediária significa que nenhuma dos alelos se expressam. E dominância completa quando um alelo se expressa.
 
-Alelos múltiplos é quando temos 3 ou mais alelos por lócus.
+Polialelia é quando temos mais de dois alelos para uma característica ou por lócus gênico, como no caso do nosso tipo sanguíneo pelo sistema ABO. Temos os alelos Iᴬ, Iᴮ e i. Também chamada de alelos múltiplos.
 
 Gene letal é quando ele causa a morte do indivíduo.
 
