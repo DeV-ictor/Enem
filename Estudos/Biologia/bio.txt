@@ -641,7 +641,7 @@ A hereditariedade são as características que são passadas as próximas geraç
 
 Um conjunto de bases nitrogenadas é um gene, ou seja, um gene é uma porção do DNA.
 
-Cromossomos homólogos são o mesmo conjunto de genes. Nesses cromossomos tem um local onde estão os genes, chamado de locus gênico e para cada gene, temos dois alelos, representados, por exemplo por A, a. Portanto, quando falamos de genes alelos, falamos de alelos do mesmo locus.
+Cromossomos homólogos são o mesmo conjunto de genes. Nesses cromossomos tem um local onde estão os genes, chamado de lócus gênico e para cada gene, temos dois alelos, representados, por exemplo por A, a. Portanto, quando falamos de genes alelos, falamos de alelos do mesmo lócus.
 
 Quando falamos de homozigoto, falamos que os alelos são iguais. Vale destacar que muitas vezes é utilizado o termo "puro" para se referir aos alelos homozigotos. E quando falamos heterozigotos, dizemos que os alelos são diferentes, chamados por Mendel de híbridos.
 
@@ -653,7 +653,7 @@ E recessivo é o alelo que é dominado por outro alelo, representado pela letra 
 
 Quando temos uma dominância incompleta ou intermediária significa que nenhuma dos alelos se expressam. E dominância completa quando um alelo se expressa.
 
-Alelos múltiplos é quando temos 3 ou mais alelos por locus.
+Alelos múltiplos é quando temos 3 ou mais alelos por lócus.
 
 Gene letal é quando ele causa a morte do indivíduo.
 
@@ -671,7 +671,7 @@ O heredograma é a representação gráfica de um parentesco.
 
 Endogamia é o cruzamento entre parentes. A chance da cosanguinidade, de algum alelo recessivo se expressa é muito maior.
 
-Ploidia é o conjunto de cromossomos de uma espécie. Haplóide quando possui um conjunto, diplóide quando possui dois conjuntos e triplóide quando possui três conjuntos. 
+Ploidia é o conjunto de cromossomos de uma espécie. Haplóide quando possui um conjunto, diplóide quando possui dois conjuntos e poliplóide quando possui três conjuntos ou mais.
 
 O cariótipo é uma representação gráfica dos cromossomos e a partir desse cariótipo podemos detectar alterações nos cromossomos.
 
@@ -682,3 +682,86 @@ Genoma é o conjunto de todos os genes de uma espécie.
 Retrocruzamento é o cruzamento de um indivíduo cujos pais eram um homozigoto dominante e um homozigoto recessivo (entre F1).
 
 Quadro de Punnet.
+
+Genótipo x Fenótipo:
+
+    Genótipo é a constituição genética do indivíduo. Na prática, é representado pelas letras (AA, Aa, aa). É herdado pelos seus genitores e não varia com o tempo, exceto pelas mutações.
+    
+    O fenótipo são todas as características morfológicas, fisiológicas e comportamentais de um indivíduo. Na prática, seriam as características visíveis, como a cor da pele, a cor do olho, as proteínas produzidas, etc. O fenótipo é variável, pois nosso corpo responde a características do meio ambiente. Podemos dizer, portanto, que o fenótipo é uma junção do genótipo mais a influência do ambiente, ou seja, fenótipo =  genótipo + ambiente.
+
+1º Lei de Mendel:
+
+    Também chamada de lei da segregação dos fatores. Esses "fatores" referidos por Mendel é o que conhecemos hoje como gene, ou melhor, um par de fatores formam um gene. Mendel iniciou seus estudos com ervilhas que apresentam 7 características distintas. Ele estudava uma característica por vez, ou seja, monoibridismo, quando uma característica é determinada por um par de alelos. Durante seu longo período de estudo, Mendel denominou como Geração Pura aquelas ervilhas que originavam sempre as mesmas características, ou seja, homozigotos.
+
+    O experimento de Mendel consistiu, basicamente, em:
+
+        Mendel reproduziu as ervilhas de geração pura (homozigotos, VV e vv) entre si, na primeira etapa, P.
+
+        Na segunda etapa, F1, Mendel reproduziu as ervilhas originadas do cruzamento anterior entre si, processo denominado de retrocruzamento, e as ervilhas que nascerão a partir desse retrocruzamento foram denominadas híbrigas (heterozigotos, Vv).
+
+        Na terceira etapa, F2, Mendel observou a proporção de ervilhas que surgiram com cada uma das duas características. Proporção essa de 3/4 amarelas (VV, Vv, Vv) para 1/4 de verdes (vv) e determinou o seguinte:
+
+            - A característica verde está "encoberta" em F1 (recessivo);
+            - O que manifesta em F1 é dominante;
+            - 2 fatores, 1 para cada gameta; 
+            - Fecundação une os fatores.
+
+        "Os fatores (alelos) que condicionam uma característica segregam-se na formação dos gametas. De modo que o pai doa um fator e a mão doa o outro para a formação de seus descendentes".
+
+2ª Lei de Mendel:
+
+    Também chamada de segregação independente. Na 2ª Lei de Mendel são analisadas duas ou mais características ao mesmo tempo. E é importante que os genes ocupem CROMOSSOMOS DIFERENTES. Para saber quantos gametas diferentes cada indivíduo produz, podemos utilizar a fórmula 2ⁿ, em que n equivale ao número de alelos heterozigotos.
+
+    Na proporção fenotípica, pôde-se observar nove sementes amarelas lisas, três sementes amarelas rugosas, três sementes verdes lisas e uma semente verde rugosa. Isso configura a proporção fenotípica padrão da Segunda Lei de Mendel, 9:3:3:1, no cruzamento entre heterozigotos.
+
+    Essa proporção fenotípica se mantém para cruzamento entre heterozigotos.
+
+    Podemos utilizar o método da ramificação para descobrir QUAIS são os gametas diferentes.
+
+Sistema ABO :
+
+    Fenótipos para o sistema ABO: A, B, AB, O.
+
+    Genótipo para tipo A: (Iᴬ, Iᴬ), (Iᴬ, i);
+    Genótipo para tipo B: (Iᴮ, Iᴮ), (Iᴮ, i);
+    Genótipo para tipo AB: (Iᴬ, Iᴮ);
+    Genótipo para tipo O: (i, i).
+
+        Aglutinogênio: são substâncias encontradas nas hemácias.
+
+    Aglutinogênio para tipo A: A
+    Aglutinogênio para tipo B: B
+    Aglutinogênio para tipo AB: A e B
+    Aglutinogênio para tipo O: não tem.
+
+        Aglutinina: são anticorpos presentes no plasma que atuam contra determinados aglutinogênios.
+
+    Aglutinina para tipo A: Anti - B
+    Aglutinina para tipo B: Anti - A
+    Aglutinina para tipo AB: não produz.
+    Aglutinina para tipo A: Anti - A e Anti - B.
+
+        Dominância = Iᴬ = Iᴮ > i
+
+    Falso "O": também chamado de Efeito Bombaim, mesmo o indivíduo possuindo os alelos Iᴬ e Iᴮ , continua apresentando tipo O devido a ausência da enzima H.
+
+Sistema Rh:
+
+    Fenótipos para o sistema Rh: Rh+ e Rh-.
+
+    Genótipos para Rh+: Heterozigoto;
+    Genótipo para Rh-: homozigoto recessivo.
+
+    Dominância: R > r
+
+    Pessoas que possuem Rh+ não produzem anticorpos anti-Rh e portanto podem receber sangue tanto de Rh+ quanto Rh-. Pessoas que possuem Rh- negativo, ou seja, homozigoto recessivo produzem anticorpos anti-Rh e portanto só podem receber sangue de Rh-.
+
+    Eritroblastose fetal: também chamada de doença hemolítica do recém-nascido, ocorre quando a mãe apresenta Rh- e o bebê Rh+, geralmente em uma segunda gestação. Caso a mãe tenha tido contato com sangue Rh+ anteriormente, como em uma transfusão sanguínea em que tenha recebido sangue +, pode ocorrer da criança desenvolver a doença mesmo em uma gestação devido a mãe já ter produzido anticorpos.
+
+Sistema MN:
+
+    Ocorre em codominância e não existe rejeição.
+
+    Fenótipo M - Genótipo M
+    Fenótipo N - Genótipo N
+    Fenótipo MN - Genótipo MN
