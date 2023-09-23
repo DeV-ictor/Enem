@@ -347,3 +347,33 @@ Capacitores (planos) são elementos do circuito que têm a função de armazenar
     Capacitores associados em paralelo, matematicamente, são calculados da mesma forma que resistores em série, ou seja, a partir da somatória de todas as capacitâncias:
 
         C(eq) = C1 + C2 + C3
+
+                                                        Energia e suas transformações
+
+A energia mecânica é composta pela energia mecânica e pela energia cinética.
+
+A energia cinética está associada ao movimento, utilizamos a fórmula:
+
+    E(c) = m . v² / 2
+
+    A energia é dada em Joules (J), a massa é dada em quilogramas (kg) e a velocidade em metros por segundo (m/s).
+
+A  energia potencial gravitacional está associada a altura. Sua equação se dá por:
+
+        E(pg) = m . p . h 
+    
+    A energia é também dada em Joules (J), a massa é dada em quilogramas (kg), a aceleração da gravidade é dada em metros por segundo (m/s²) e a altura é dada em metros (m).
+
+Para relacionar essas energias, podemos pensar em uma bola sendo jogada de um topo de um prédio. Conforme a bola cai, ela adquire energia cinética. Porém pra ela adquirir energia cinética, precisaria primeiramente de uma fonte. Essa fonte seria a energia potencial gravitacional. Ou seja, a bola no topo do prédio possui a máxima energia potencial e a mínima energia cinética e no momento antes da bola tocar o chão ela possui a mínima energia potencial e a máxima energia cinética. Após o impacto essa energia é dissipada no formato de outras energias, como energia sonora e energia térmica.
+
+
+
+Podemos relacionar ainda um outro tipo de energia, a energia elástica, calculada pela expressão:
+
+    E(pel) = k . x² / 2
+
+    Em que k é a constante elástica e depende do material (podemos estabelecer que quanto mais rígido, maior o valor de k) e x é a deformidade sofrida por ele. A energia é dada em Joules, a constante elástica é dada em Newton por metro (N/m) e a deformidade do elástico é dada em metro (m).
+
+Pode ser necessário ainda descobrir a constante elástica do material. Para casos assim, utilizamos a lei de Hooke:
+
+    F = -k . x
