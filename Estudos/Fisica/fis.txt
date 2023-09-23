@@ -366,8 +366,6 @@ A  energia potencial gravitacional está associada a altura. Sua equação se d�
 
 Para relacionar essas energias, podemos pensar em uma bola sendo jogada de um topo de um prédio. Conforme a bola cai, ela adquire energia cinética. Porém pra ela adquirir energia cinética, precisaria primeiramente de uma fonte. Essa fonte seria a energia potencial gravitacional. Ou seja, a bola no topo do prédio possui a máxima energia potencial e a mínima energia cinética e no momento antes da bola tocar o chão ela possui a mínima energia potencial e a máxima energia cinética. Após o impacto essa energia é dissipada no formato de outras energias, como energia sonora e energia térmica.
 
-
-
 Podemos relacionar ainda um outro tipo de energia, a energia elástica, calculada pela expressão:
 
     E(pel) = k . x² / 2
@@ -377,3 +375,25 @@ Podemos relacionar ainda um outro tipo de energia, a energia elástica, calculad
 Pode ser necessário ainda descobrir a constante elástica do material. Para casos assim, utilizamos a lei de Hooke:
 
     F = -k . x
+
+                                                        Cinemática
+
+Velocidade Escalar Média é o cálculo do espaço pelo tempo, ou seja, quanto tempo determinado objeto ou partícula precisa para percorrer um determinado espaço ou distância. É calculada a partir da expressão:
+
+    V(m) = ΔS / Δt
+
+    A velocidade média é dada em km/h, o espaço é dado em km e o tempo em hora. Pode ser cobrado muitas vezes a velocidade média em m/s, metros por segundo. Para converter km/h em m/s basta dividir por 3,6 e o contrário, basta multiplicar. Importante destacar que em um determinado percurso, o tempo de parada também deverá ser incluso no cálculo de velocidade média.
+
+Movimento Uniforme = Retilíneo, velocidade constante.
+
+    Equação horária do espaço (SORVETE) = S = S₀ + v . t
+
+    Em que o espaço é dado em metros, a velocidade é dada em ms/s e o tempo é dado em segundos.    
+
+O movimento pode ser progressivo, quando a velocidade é positiva e está no sentido da trajetória, e pode ser negativo, quando a velocidade é negativa e está no sentido oposto da trajetória.
+
+    Para calcular ultrapassagens podemos utilizar a fórmula:
+
+        v =  ΔS + Δx / Δt
+
+        Em que x se refere a um objeto ou móvel, como o caso de um trem. Um exemplo de aplicação seria calcular o tempo com que um trem de comprimento x atravessa um ponte de determinado espaço.
