@@ -376,7 +376,7 @@ Pode ser necessário ainda descobrir a constante elástica do material. Para cas
 
     F = -k . x
 
-                                                        Cinemática
+                                                        Cinemática - MRU
 
 Velocidade Escalar Média é o cálculo do espaço pelo tempo, ou seja, quanto tempo determinado objeto ou partícula precisa para percorrer um determinado espaço ou distância. É calculada a partir da expressão:
 
@@ -407,3 +407,51 @@ A velocidade relativa diz respeito à diferença de velocidade entre dois corpos
     Caso 1: mesmo sentido -> V(r) = V(a) - V(b)
 
     Caso 2: sentidos opostos -> V(r) = V(a) + V(b)
+
+                                                        Cinemática - MUV
+
+Diferente do MRU, no MUV, a velocidade não é constante.
+
+    1) Aceleração escalar média:
+
+        O cálculo da aceleração escalar média se dá por:
+
+            a(m) = Δv / Δt
+
+    2) Classificação dos movimentos:
+
+        Movimento acelerado: aumento da velocidade
+
+        Movimento retardado: diminuição da velocidade
+
+    3) MUV:
+
+        Apresenta aceleração constante.
+
+            Função horária da velocidade: V = V₀ + a . t
+
+            Função horária do espaço para MUV (Sorvetão): 
+
+                S = S₀ + V₀t + at² / 2
+
+            Torricelli: V² = V₀² + 2 . a . ΔS
+
+                                                        Cinemática - Queda Livre e Lançamento Vertical
+
+Importante lembrar sempre a influência da aceleração da gravidade, que equivale a 9,80665 m/s² e geralmente é aproximada a 10 m/s².
+
+    1) Queda Livre: Todas as fórmulas de MUV são válidas para o cálculo de queda livre. Um ponto importante é em relação ao sentido da aceleração. É conveniente adotarmos o sentido da trajetória para baixo, ou seja, positiva. Outro ponto importante a se destacar é que, como a velocidade inicial é 0, as fórmulas são mais simples.
+
+Relação de Galileu: 
+
+    2) Lançamento Vertical: 
+
+        2.1) No lançamento vertical para CIMA é conveniente adotar a trajetória para cima. Para calcular a altura máxima, podemos utilizar a adaptação da fórmula de Torricelli:
+
+            H(máx) = v₀² / 2 . g
+
+            Quando falamos de altura máxima, significa que a velocidade de um objeto no seu ponto máximo será 0, o que nos traz a essa adaptação.
+
+        Podemos encontrar o tempo de subida utilizando a função horário da velocidade.
+
+        O tempo de subida é igual ao tempo de descida.
