@@ -563,3 +563,160 @@ Relação de Galileu:
 3) Moitão: O moitão é um esquema que também apresenta vantagem mecânica e ainda oferece a vantagem de ocupar um espaço menor e a chance de ocorrer menos problemas. Ao analisar um moitão, deve-se analisar quantas forças temos atuando para cima. Então, em um sistema no qual temos 4 forças atuando pra cima, podemos concluir que o peso será 4 vezes menor para uma mesma força.
 
             F = P / 4
+
+4) Máquina de Atwood: Quando dois corpos estão suspensos por um fio inextensível e de massa desprezível, de modo que este fio esteja apoiado sobre uma roldana também de massa desprezível e ainda considerando que não há atrito entre a roldana e seu eixo, temos a configuração de uma máquina de Atwood. Considerando que ambos os corpos tenham as massas iguais, não haverá movimento.
+
+Caso as massas sejam distintas, temos que:
+
+    T - P = mₐ . a
+
+    Pₐ - T = mₐ . a
+
+    Através das duas situações podemos montar um sistema de equações para encontrar a aceleração do conjunto. Com a aceleração do conjunto podemos concluir a força de tração.
+
+                                                        Dinâmica - Plano Inclinado
+
+1) Sem Atrito: É conveniente analisar as forças resultantes que atuam sobre o corpo e decompor o peso.
+
+Para o cálculo da aceleração, nós temos que:
+
+    a = g . sen(â)
+
+    Px = P . sen(â)
+
+    Py = P . cos(â)
+
+2) Com Atrito: Para análise, vamos dividir em duas situações:
+
+    2.1) Iminência do escorregamento: O corpo está prestes a se movimentar, mas continua em repouso. Nessa situação temos que:
+
+        F(at) = Px
+
+        N = Py
+
+        Me = tg(â)
+
+    2.2) Deslocando: Se a velocidade for constante, temos que:
+
+        F(r) = Px - F(at)
+
+        Considerando a trajetória pra baixo, se a aceleração for positiva, Px > F(at). Se a aceleração for negativa, Px < F(at).   
+
+                                                        Dinâmica - Elevadores
+
+1) Elevador sem aceleração: Temos duas situações possíveis para um elevador com aceleração nula:
+
+    - O elevador está parado ou;
+    - O elevador está em MRU.
+
+    Para esse sistema, temos que o P = T ou o P = N.
+
+2) Elevador com aceleração para baixo: Possíveis situações:
+
+    - O elevador estará descendo acelerando ou;
+    - Estará subindo freando.
+
+    Para esse sistema, temos que P > T ou o P > N.
+
+3) Elevador com aceleração pra cima: Possíveis situações:
+
+    - O elevador está subindo acelerando ou;
+    - Estará descendo freando.
+
+    Para esse sistema, temos que P < T ou o P < N.
+
+4) Elevador em queda livre:
+
+    Para esse sistema, temos que T = 0 e N = 0. E F(r) = P.
+
+                                                        Dinâmica - Força de Atrito
+
+1) Atrito Estático: O atrito é estático quando não há movimento relativo entre as superfícies. Nem sempre o atrito é desfavorável ao movimento do corpo. Temos uma força de atrito estático máximo quando a F(at) = F e P = N. 
+
+    A força de atrito estático máximo é calculado por:
+
+        F(at) = Me . N
+
+            Em que Me é o coeficiente de atrito estático.
+
+2) Atrito Dinâmico: 
+
+    A força de atrito dinâmico é calculado por:
+
+        F = Md . N
+
+            Em que Md é o coeficiente de atrito cinético ou dinâmico.
+    
+    É importante ressaltar que a força de atrito estático é superior ao coeficiente de atrito dinâmico.
+
+                                                        Dinâmica - Força de Arrasto
+
+A força de resistência dos fluidos é calculada por: 
+
+    F = K . Vⁿ
+
+        Em que K é uma constante que depende do fluido e n é uma constante associada ao fluido e ao corpo.
+
+A força de arrasto é a força de resistência que o ar apresenta.
+
+    F(ar) = K . V²
+
+    K é calculado por:
+
+        K = 1/2 ρ(ar) . A . C
+
+            Em que ρ(ar) é a densidade do ar, A é a área de referência do corpo e C é o coeficiente de arrasto.
+
+3) Atrito no MC:
+
+    Carro numa curva:
+   
+        F(r) = F(atE)
+
+    Atrito com parede vertical:
+
+        F(r) = N
+
+                                                        Dinâmica - Movimento Circular
+
+Aceleração tangencial:
+
+    a(t) = a (escalar)
+
+Aceleração centrípeta (movimento curvo):
+
+    a(c) = V² / R
+
+Força resultante centrípeta:
+
+    F(r) = m . a(c)
+
+Força resultante tangencial:
+
+    F(r) = m . a(t)
+
+Força centrípeta em um globo da morte: 
+
+    F(r) = P + N
+
+Velocidade Mínima:
+
+    V = √R . g
+
+                                                        Dinâmica - Pêndulos
+
+1) Pêndulo Simples: 
+
+    1.1) Parado: P = T
+
+    1.2) Oscilando: Px = P . sen(â) e Py = P . cos(â)
+
+    1.3) Ponto mais baixo: F(r) = T - P
+
+2) Pêndulo Cônico:
+
+    Tx = F(rC)
+
+    Ty = P
+
+    tg = F(rC) / P
