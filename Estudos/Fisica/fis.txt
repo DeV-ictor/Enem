@@ -455,3 +455,111 @@ Relação de Galileu:
         Podemos encontrar o tempo de subida utilizando a função horário da velocidade.
 
         O tempo de subida é igual ao tempo de descida.
+
+                                                        Dinâmica - Conceitos Fundamentais
+
+1) Força:
+
+    Usamos força para:
+
+        - acelerar
+
+        - deformar 
+
+        - equilibrar                                            
+
+    Quando temos um corpo sob influência de mais de uma força, devemos calcular a força resultante.
+
+2) Principais Forças da Dinâmica:
+
+    2.1) Força Peso: É a força da gravidade. 
+
+        P = m . g
+
+    2.2) Força Normal: É uma força normal de interação entre superfícies.
+
+    2.3) Força de Tração: É relacionado a uma corda ou corrente.
+
+    2.4) Força Elástica: Força associada a deformação de uma mola ou elástico.
+
+                                                        Dinâmica - Leis de Newton
+
+1) Primeira Lei de Newton, Lei da Inércia: Um corpo tende a permanecer em seu estado de repouso ou de movimento retilíneo e uniforme se a resultante das forças que agem sobre ele for nula.
+
+2) Segunda Lei de Newton, Príncipio Fundamental da Dinâmica: A segunda lei de Newton afirma que a força resultante é igual a massa vezes a aceleração.
+
+    F(r) = m . a
+
+    1Kgf = 9,8N
+
+    Quanto maior a massa de um corpo, menor a aceleração. São grandezas inversamente proporcionais.
+
+    2.1) Equilíbrio de um corpo: um corpo está em equilíbrio quando a resultante das forças que atuam sobre ele é nula. A velocidade vetorial deve ser constante. Pode ser estático ou dinâmico.
+
+        2.1.1) Equilíbrio Estático: Estável, pode oscilar mas retorna ao estado de equilíbrio. Instável, oscila e não retorna ao estado de equilíbrio. Indiferente, todos os pontos induzem ao equilíbrio.
+
+        2.1.2) Equilíbrio Dinâmico: Apresenta velocidade constante no MRU, ou seja, velocidade vetorial constante.
+
+3) Terceira Lei de Newton, Princípio da Ação e Reação: Se um corpo A exerce uma força sobre outro corpo B, então este corpo B exerce sobre o corpo A uma força de mesmo módulo e mesma direção, mas de sentido oposto.
+
+    Para Ação-Reação não se equilibram pois estão aplicadas em corpos diferentes.
+
+    Força Peso e Força Normal não configuram Ação-Reação.
+
+                                                        Dinâmica - Associação de Molas e Força Elástica
+
+1) A força elástica é calculada pela Lei de Hooke:
+
+    F = K . x
+
+        K é a constante elástica do corpo e depende do material que o constitui e sua unidade padrão é o N/m. X é a deformação que a mola ou o elástico sofre.
+
+2) Associação de molas em série: Ao pensar em uma associação de molas, devemos entender que a F em todos os pontos será igual, independente da deformação e da constante elástica individual de cada um dos pontos. 
+
+    Podemos calcular uma mola equivalente através da expressão:
+
+        F = K(eq) . x(eq)
+
+    A deformação equivalente é calculada pela somas das deformações:
+
+        X(eq) = x₁ + x₂
+
+    E a constante elástica equivalente é a soma dos inversos de K:
+
+        1 / K(eq) = 1 / K₁ + 1 / K₂ ...
+
+3) Associação de molas em paralelo: Pensando em duas molas associadas em paralelo, mesmo que a deformação de ambas seja a mesma, se forem de materiais diferentes, a força será diferente.
+
+    Podemos calcular uma mola equivalente através da expressão:
+
+        F = K(eq) . x(eq)
+
+    Para calcular a força equivalente, basta somar as forças:
+
+        F(eq) = F₁ + F₂
+
+    E a constante elástica equivalente é a soma das constantes:
+
+        K(eq) = K₁ + K₂
+
+                                                        Dinâmica - Polias e Moitão
+
+1) Polias:
+
+    1.1) Polias Fixas: Para polias fixas, a força é igual ao peso.
+
+            F = P
+
+    1.2) Polias Móveis: Para 1 polia móvel, a força é igual a metade do peso. 
+
+            F = P / 2
+
+2) Talha Exponencial: Uma associação de polias móveis. Para cada polia móvel, o peso será a metade. Podemos generalizar essa equação na expressão:
+
+            F = P / 2ⁿ
+
+                Em que n é igual ao número de polias móveis.
+
+3) Moitão: O moitão é um esquema que também apresenta vantagem mecânica e ainda oferece a vantagem de ocupar um espaço menor e a chance de ocorrer menos problemas. Ao analisar um moitão, deve-se analisar quantas forças temos atuando para cima. Então, em um sistema no qual temos 4 forças atuando pra cima, podemos concluir que o peso será 4 vezes menor para uma mesma força.
+
+            F = P / 4
