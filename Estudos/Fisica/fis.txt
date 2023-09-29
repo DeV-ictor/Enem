@@ -822,3 +822,49 @@ A quantidade de movimento de um sistema é a soma vetorial.
     - Se a somatória das forças externas for igual a 0, a força resultante é 0. Logo, o impulso também é 0 e a quantidade de movimento também será 0. Isso implica também que a quantidade de movimento inicial é igual a quantidade de movimento final de um SISTEMA.
 
         Q(f) = Q(i)
+
+                                                        Dinâmica - Colisão
+
+1) Colisão (choque mecânico):
+
+    1.1) Fase de deformação:
+
+        - Momento da colisão;
+        - A energia cinética transforma-se em energia elástica
+
+    1.2) Fase de restituição:
+
+        - Após atingir a deformação máxima
+
+2) Colisão unidimensional:
+
+    - Ocorre sempre em uma mesma reta;
+
+3) Colisão bidimensional:
+
+    - Ocorre em duas dimensões;
+
+4) Coeficiente de restituição:
+
+    é definido como sendo:
+
+        e = V(af) / V (ap)
+
+5) Colisão elástica:
+
+    - a energia cinética se conserva, Ec(i) = Ec(f);
+    - e = 1
+    - ocorre a permuta de velocidades quando apresentam mesma massa.
+    - massas diferentes: se a V₁ = 0 e M₁ >> m₂ então V₁ = 0 e V₂ se conserva. Se a V₁ > 0 e M₁ >> m₂ então V₁ conserva a velocidade e V₂ terá o dobro da velocidade de V₁.
+
+6) Colisão inelástica:
+
+    - seguem juntos após a colisão, ou sejam, possuem a mesma velocidade;
+    - a energia cinética não é conservada;
+    - e = 0;
+    - Ec(f) < Ec(i).
+
+7) Colisão parcialmente elástica:
+
+    - a energia cinética não é conservada.
+    - e = 0
