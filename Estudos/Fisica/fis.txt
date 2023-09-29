@@ -720,3 +720,105 @@ Velocidade Mínima:
     Ty = P
 
     tg = F(rC) / P
+
+                                                        Dinâmica - Trabalho da Força
+
+1) Trabalho de uma força constante:
+
+    T = F . d . cos(â)
+
+        - Para cos 90 -> T = 0
+
+        - Para cos 190 -> T = - F . d
+
+        - Para cos 0 -> T = F . d
+
+2) Trabalho nulo:
+
+    - T(p) e T(n) = 0
+
+    - T(frC) = 0
+
+3) Trabalho de uma força variável:
+
+    - A área do gráfico (Fxd) é numericamente igual ao trabalho (T).
+
+4) Trabalho da força peso:
+
+    T(p) = m . g . h
+
+5) Trabalho da força elástica:
+
+    - T(e) = k . x² / 2
+
+    - T > 0, a mola está reduzindo a deformação. T < 0, a mola está aumentando a deformação.
+
+                                                        Dinâmica - Potência Mecânica
+
+1) Potência Média:
+
+    ΔT / Δt
+
+2) Rendimento (n):
+
+    n = E(u) / E(t)
+
+3) Força Constante:
+
+    P = F . V . cos(â)
+
+    - Importante lembrar que o ângulo é em relação a força e o deslocamento.
+
+4) Trabalho para potência variável:
+
+    A área do gráfico (Pxt) é numericamente igual ao trabalho (T).
+
+                                                        Dinâmica - Sistemas Dissipativos
+
+1) Forças Não Conservativas:
+
+    As forças não conservativas são aquelas cujos trabalhos dependem da trajetória.
+
+2) Sistemas Dissipativos:
+
+    Num sistema dissipativo a energia mecânica não se conserva.
+
+    A energia mecânica em um ponto A corresponde a energia mecânica em um ponto B MAIS o que foi perdido, dissipado.
+
+        E(mA) = E(mB) + E(dis)
+
+                                                        Dinâmica - Impulsiva
+
+1) Quantidade de Movimento: 
+
+    Q = m . v
+
+A quantidade de movimento de um sistema é a soma vetorial.
+
+    Q(f) = Q₁ + Q₂ + Q₃
+
+2) Variação da quantidade de movimento:
+
+    ΔQ = Q(f) - Q(i)
+
+3) Impulso de uma força constante:
+
+    I = F . Δt
+
+4) Impulso de uma força variável:
+
+    A área do gráfico (Fxt) é numericamente igual ao impulsp (I).
+
+5) Teorema do Impulso:
+
+    I(Fr) = ΔQ
+
+                                                        Dinâmica - Impulsiva
+                                                    
+1) Conservação da quantidade de movimento: 
+
+    - A soma vetorial das forças internas de um sistema é igual a 0.  
+
+    - Se a somatória das forças externas for igual a 0, a força resultante é 0. Logo, o impulso também é 0 e a quantidade de movimento também será 0. Isso implica também que a quantidade de movimento inicial é igual a quantidade de movimento final de um SISTEMA.
+
+        Q(f) = Q(i)
