@@ -844,11 +844,31 @@ A quantidade de movimento de um sistema é a soma vetorial.
 
     - Ocorre em duas dimensões;
 
+    3.1) Eixo X:
+
+        Q(ix) = Q(fx)
+
+        M₁ . V₁ + m₂ (-V₂) = M'₁ . V'₁ . cos(â₁) + M'₂ (-V'₂) . cos(â₂)
+
+    3.2) Eixo Y:
+
+        Q(iy) = Q(fy)
+
+        0 = M'₁ . V'₁ . sen(â₁) + M'₂ (-V'₂) . sen(â₂)
+
 4) Coeficiente de restituição:
 
     é definido como sendo:
 
         e = V(af) / V (ap)
+
+    contra o chão (unidimensional): 
+
+        e = (√h' / h'')
+
+    contra a parede (unidimensional):
+
+        e = V(f) / V(i)
 
 5) Colisão elástica:
 
@@ -867,4 +887,280 @@ A quantidade de movimento de um sistema é a soma vetorial.
 7) Colisão parcialmente elástica:
 
     - a energia cinética não é conservada.
-    - e = 0
+    - 0 < e < 1
+
+                                                        Termologia - Conceitos Fundamentais
+
+Calor é a energia térmica em trânsito que vai, espontaneamente, do de maior temperatura para o que tem menor temperatura.
+
+Temperatura é uma medida do grau de agitação térmica das partículas.
+
+A somatória da quantidade de calor trocada entre corpos em um sistema isolado é igual a 0.
+
+                                                        Termologia - Escalas Térmicas
+
+1) Celsius x Kelvin:
+
+    T = T(c) + 273
+
+2) Celsius x Fahrenheit:
+
+    T(c) / 5 = T(f) - 32 / 9
+
+                                                        Termologia - Dilatação Térmica
+
+- Dilatação unidimensional: dilatação do comprimento.
+
+- Dilatação bidimensional: dilatação da área.
+
+- Dilatação tridimensional: dilatação do volume.
+
+1) Dilatação térmica dos sólidos:
+
+    1.1) Dilatação linear: 
+
+            Δl = lₒ . e . ΔT
+
+    1.2) Dilatação superficial:
+
+            ΔA = Aₒ . B . ΔT
+
+                B = 2e
+
+    1.3) Dilatação volumétrica:
+
+            Δv = Vₒ . G . ΔT
+
+                G = 3e
+
+2) Dilatação térmica dos líquidos:
+
+    - Dilatação aparente: sem considerar a dilatação do recipiente.
+
+    - Dilatação real: considerando a dilatação do recipiente.
+
+    - coeficiente de dilatação térmica real:
+
+        G(l) = G(ap) + G(rec)
+
+                                                        Termologia - Calorimetria
+
+1) Capacidade térmica:
+
+    C = Q / ΔT
+
+        Q é dado em calorias (cal) e 1 cal equivale a 4,18J.
+
+2) Calor específico:
+
+    - não há a mudança de estado físico.
+
+    Q = m . c . ΔT
+
+3) Calor latente:
+
+    - há a mudança de estado físico.
+
+    Q = m . L
+
+        em que L é o calor latente.
+
+                                                        Termologia - Trocas de Calor
+
+1) Princípio da Igualdade das Trocas de Calor: 
+
+    - Sem mudança de fase
+
+    Corpos de diferentes temperaturas, colocados num calorímetro, trocam calor entre si até atingirem o equilíbrio térmico.
+
+    O calor cedido é igual ao calor recebido. Portanto, quando não há mudança de fase utilizamos:
+
+        m₁ . c₁ . ΔT₁ + m₂ . c₂ . ΔT₂ = 0, ou simplificando, 
+        
+            Q₁ + Q₂ = 0.
+
+            Em que Q corresponde ao calor específico, pois não há mudança de fase.
+
+    Quando temos mudança de fase, simplesmente ao invés de usar calor específico, usaremos calor latente, tendo:
+
+        Q₁ + m₂ . L₂ = 0
+
+            Q pode variar, dependendo se ambos sofreram mudança de fase ou somente um.
+
+                                                        Termologia - Propagação de Calor
+
+O fluxo de calor é calculado por:
+
+    F = K . A . ΔT / d 
+
+        ou F = Q / ΔT       
+
+1) Condução:
+
+    É um tipo de propagação de calor que acontece num meio material decorrente das agitações das moléculas.
+
+2) Convecção:
+
+    Ela recebe esse nome pois a transmissão do calor acontece por meio das correntes de convecção circulares que se formam por conta da diferente de densidade entre os fluidos.
+
+3) Irradiação:
+
+    Consiste na propagação de energia através de ondas eletromagnéticas. Ocorre mesmo no vácuo.
+
+    Efeito Estufa: Aumento na concentração de CO2 na atmosfera que impede que as ondas eletromagnéticas emitidas pela Terra sejam dispersas com eficiência, promovendo aumento da temperatura global.
+
+    Garrafa térmica (vaso de Dewar): A estrutura principal consiste em paredes de vidro espelhadas que impedem a propagação por irradiação e uma "parede" externa de vácuo que impede a propagação por convecção e por condução, já que ambas necessitam de matéria para se promoverem. 
+
+                                                        Termologia
+
+1) Gases ideais:
+
+    - partículas puntiformes;
+    - colisões elásticas;
+    - sem reação química.
+
+1) Transformações dos gases:
+
+    1.1) Transformação isobárica:
+
+            - Pressão constante.         
+
+    1.2) Transformação isovolumétrica:
+
+            - Volume constante.
+
+    1.3) Transformação isotérmica:
+
+            - Temperatura constante.
+
+    1.4) Transformação adiabática:
+
+            - Não há troca de calor com o meio externo.
+
+2) Equação Geral dos Gases:
+
+        P₁ . V₁ / T₁ = P₂ . V₂ / T₂
+
+    Pressão:
+
+        P = F / A
+
+    A temperatura é usada em Kelvin.
+
+3) Equação de Clapeyron:
+
+        P . V = n . R . T
+
+    Nas CNTP, R é a constante universal dos gases e seus principais valores podem ser: 0,082 (atm x L x mol-1 x K-1) ou 62,3 (mmHg x L x mol-1 x K-1) ou 8,31 (kPa x L x mol-1 x K-1)
+
+4) Equação de Laplace-Poisson:
+
+    Uma transformação é dita adiabática quando respeita essa equação.
+
+    A equação é descrita por:
+
+        P . Vᴳ = constante
+
+            G = Cᴾ/Cⱽ
+
+                Calor específico molar em pressão constante por calor específico molar em volume constante.
+
+                                                        Termologia - Trabalho
+
+1) Pressão Constante: 
+
+    T = P . ΔV ou T = n . R . ΔT
+
+    - Em um gráfico (PxV), o T é numericamente igual a área.
+
+2) Transformação Cíclica:
+
+    Ciclo horário: T > 0
+
+    Ciclo anti-horário: T < 0
+
+    Em uma transformação cíclica, a área interna em um gráfico (PxV) é numericamente igual ao trabalho (T).
+
+    Em uma transformação cíclica a variação de energia interna é igual a 0.
+
+                                                        Termologia - Energia Interna
+
+A energia interna (U) pode ser calculada pela fórmula:
+
+        U = 3/2 P . V para gás monoatômico.
+
+        U 5/2 P . V para gás diatômico. 
+
+Quando temos um caso em que é cedido energia a volume constante, podemos pensar que o objetivo geralmente é pra aumentar a energia interna.
+
+                                                        Termologia - Leis da Termodinâmica
+
+1) Primeira Lei da Termodinâmica:
+
+    Q = ΔU + T
+
+    - Não há variação de energia interna em uma transformação isotérmica. Portanto, podemos afirmar que a quantidade de calor será apenas o trabalho.
+
+        Q = T
+
+    Trabalho de uma transformação isotérmica:
+
+        T = n . R . T . ln (V₁/V₂)
+
+            Em que ln é o logaritmo neperiano.
+
+    - Não há variação do trabalho em uma transformação isométrica. Portanto, podemos afirmar que a quantidade de calor será apenas a variação da energia interna.
+
+        Q = U
+
+    Podemos calcular o calor específico molar em volume constante através da expressão:
+
+        Cⱽ = 3/2 . R
+
+    - Numa transformação isobárica, temos que o calor é convertido tanto em trabalho quanto em energia interna, portanto a expressão da primeira lei da termodinâmica se conserva.
+
+    Podemos calcular o calor específico molar a pressão constante através da expressão:
+
+        Cᴾ = 5/2 . R
+
+    - Numa transformação adiabática temos que:
+
+        ΔU = - T
+
+    - A temperatura cresce quanto mais afastado do eixo o ponto estiver.
+
+2) Segunda Lei da Termodinâmica:
+
+                                                        Termologia - Máquinas Térmicas
+
+1) Motor térmico:
+
+    Uma fonte quente diminui a densidade do ar e faz com que ele expanda, isso implica no aumento do trabalho. Posteriormente parte do ar quente é liberado ou resfriado em determinado ponto e a partir daí temos um ciclo e um motor térmico.
+
+        Qᶠ + T = Q'
+
+    A quantidade de energia que foi realmente utilizada para cumprir o objetivo. 
+
+        n = T / Q'
+
+2) Refrigerador:
+
+    Quando colocamos algo no refrigerador, o calor dissipado para as paredes do refrigerador é enviado para uma fonte quente, que normalmente é dissipado também para o meio externo. A fonte fria também continua perdendo calor.
+
+        Qᶠ + T = Q'
+
+     Eficiência:
+
+        E = Qᶠ / T
+
+                                                        Termologia - Ciclo de Carnot
+
+1)  O ciclo de Carnot descreve o máximo rendimento que um motor térmico pode alcançar. 
+
+    O ciclo de Carnot depende de duas isotermas que vão realizar transformações cíclicas por meio de transformações adiabáticas e transformações isotérmicas. Cada isoterma descreve uma das fontes, fonte quente, a de maior temperatura, e fonte fria.
+
+2) Rendimento para ciclo de Carnot:
+
+    Qᶠ / Q' = Tᶠ / T'
+
+    n = 1 - T' / Tᶠ
