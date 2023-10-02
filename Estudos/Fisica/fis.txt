@@ -1131,6 +1131,22 @@ Quando temos um caso em que é cedido energia a volume constante, podemos pensar
 
 2) Segunda Lei da Termodinâmica:
 
+    A segunda lei trata das condições para haver a conservação da energia, proposta na primeira lei.
+
+    - Kelvin-Planck: É impossível construir um motor térmico, que trabalha em ciclos, com rendimento de 100%.
+
+    - Clausius: É impossível construir um dispositivo que transfira, sem gasto de energia, calor de um corpo mais frio para outro corpo mais quente.
+
+    - Não é possível transformar, integralmente, energia térmica em energia mecânica. A entropia é uma grandeza que mede a parcela de energia que não será convertida em trabalho dinâmico.
+    
+    Para calcular a energia não aproveitável, utilizamos:
+
+        ΔE = T . S
+
+            Em que S corresponde a entropia, dada em J/K.
+
+            S = ΔQ / T, para processos isotérmicos.
+
                                                         Termologia - Máquinas Térmicas
 
 1) Motor térmico:
@@ -1164,3 +1180,101 @@ Quando temos um caso em que é cedido energia a volume constante, podemos pensar
     Qᶠ / Q' = Tᶠ / T'
 
     n = 1 - T' / Tᶠ
+
+                                                        Ondulatória - Conceitos Fundamentais
+
+1) Ondas: as ondas são pertubações que se propagam em um meio, transportando energia de um ponto a outro sem transporte de matéria.
+
+    1.1) Ondas sonoras:
+
+            A onda sonora se propaga em meios sólidos, líquidos e gasosos. Não se propaga no vácuo e sua velocidade é proporcional ao meio. A velocidade de propagação se dá por: sólido > líquido > gás.
+
+    1.2) Ondas luminosas:
+
+           A onda luminosa se propaga também em sólidos, líquidos e gases, desde que sejam transparentes para determinada radiação.
+
+2) Classificação da Ondas:
+
+    2.1) Direção de vibração:
+
+        2.1.1) Longitudinais, quando a propagação da oscilação é na mesma direção que foi gerada.
+
+        2.1.2) Transversal, a oscilação é gerada em uma direção e propagada em outra.
+
+    2.2) Dimensão:
+
+        2.2.1) Unidimensional, ocorre em uma direção, linear.
+
+        2.2.2) Bidimensional, ocorre em uma superfície.
+
+        2.2.3) Tridimensional, se propaga em todas as dimensões.
+
+    2.3) Natureza:
+
+        2.3.1) Mecânicas, necessita de um meio material pra se propagar.
+
+        2.3.2) Eletromagnéticas, podem se propagar no vácuo.
+
+                                                        Ondulatória
+
+1) Equação fundamental da ondulatória:
+
+        V = λ . f ou V = λ / T
+
+            O λ é a distância entre dois pontos iguais, como as cristas.
+
+    A frequência (f) representa o número de oscilações num dado intervalo de tempo.
+
+        f = n / T
+        
+        A unidade de [f] é o Hertz (Hz). 1 Hz equivale a 60 Rpm (rotações por minuto).
+
+        T equivale ao período, tempo gasto numa oscilação completa.
+
+            T = 1 / f ou f = 1 / T
+
+2) Ondas Eletromagnéticas:
+
+        A velocidade de propagação das ondas eletromagnéticas no vácuo equivale a 300.000 km/s.
+
+3) Espectro Eletromagnético:
+
+    Ondas de rádio < micro-ondas < infravermelho < luz visível (V, A, A, V, A, A, V) < ultravioleta < Raios X < Raios Gama
+
+    f(Hz) ---------------------------------------------------------->
+
+    Nosso corpo emite radiação infravermelho.
+
+                                                        Ondulatória - Equação de Taylor e Fenômenos
+
+ - Densidade linear: 
+
+        u = m / l
+
+1) Equação de Taylor:
+
+    A equação de Taylor descreve a velocidade com que uma onda se dá numa corda. É descrita como:
+
+        v = (√F / u)
+
+2) Reflexão e Refração:
+
+    Se houver uma diferença de velocidades entre os meios, parte de uma onda passa, que é a refratada, e parte volta, refletida. A frequência não muda.
+
+    2.1) Reflexão em cordas:
+    
+        A reflexão de ondas em cordas ocorre de duas maneiras:
+
+        - Reflexão com extremidade fixa, a onda volta e a fase é invertida.
+
+        - Reflexão com extremidade livre, a onda volta porém sem inverter a fase.
+
+    2.2) Refração em cordas:
+    
+        A refração de ondas em cordas ocorre de duas maneiras também:
+
+        - Refração da menos densa para mais densa, o pulso que volta, volta invertido, com mudança de fase. Enquanto pulso que segue, que é refratado, não muda de fase.
+
+        - Refração da mais densa para a menos densa, tanto o pulso refletido quanto o refratado não sofrem inversão de fase.
+
+4) Difração:
