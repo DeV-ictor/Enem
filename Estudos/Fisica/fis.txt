@@ -1269,7 +1269,21 @@ Quando temos um caso em que é cedido energia a volume constante, podemos pensar
 
         - Reflexão com extremidade livre, a onda volta porém sem inverter a fase.
 
-    2.2) Refração em cordas:
+    2.2) Leis da Reflexão:
+
+        A primeira lei afirma que o raio incidente, o raio refletido e a N estão no mesmo plano.
+
+        A segunda lei afirma que a medida do ângulo do raio incidente com a N é igual a medida do ângulo do raio refletido com a N.
+
+    2.3) Reflexão em ondas:
+
+        Ocorre inversão de fase do raio refletido.
+
+        Vale a relação:
+
+            v₁ / v₂ = λ₁ / λ₂ = senᵩ₁ / senᵩ₂
+
+    2.4) Refração em cordas:
     
         A refração de ondas em cordas ocorre de duas maneiras também:
 
@@ -1277,4 +1291,166 @@ Quando temos um caso em que é cedido energia a volume constante, podemos pensar
 
         - Refração da mais densa para a menos densa, tanto o pulso refletido quanto o refratado não sofrem inversão de fase.
 
+    2.5) Refração em ondas:
+
+        Não ocorre inversão de fase.
+
+    2.6) Índice de refração:
+
+        Calculado por:
+
+            n = c/v 
+
+                Em que c é a velocidade da luz no vácuo e v é a velocidade de propagação da luz no meio.
+
+            n  ʷ ᵃ ᵗ ᵉ ʳ > n ₐ ᵣ   
+        
 4) Difração:
+
+    É a propriedade que as ondas têm de contornar obstáculos.
+
+    Podemos explicar a difração através do Princípio de Huygens-Fresnel, que afirma que, todos os pontos de uma frente de onda se comportam como ondas secundárias que se propagam em todas as direções e com a velocidade da onda principal.
+
+5) Polarização de ondas:
+
+    Ocorre apenas em ondas transversais.
+
+    As ondas são polarizadas através do que chamamos de "polarizador".
+
+6) Ressonância:
+
+    A ressonância ocorre quando uma onda externa tem a mesma vibração que a vibração de algum outro corpo.
+
+    Exemplos de ressonância:
+
+        - Quebrar uma taça;
+        - Balanço;
+        - Rádios antigos.
+    
+    - Oscilações amortecidas, após determinado período, o sistema perde energia e para.
+
+    - Oscilações forçadas, quando o sistema oscila em uma frequência diferente da natural.
+
+7) Interferência:
+
+    Interferência é um fenômeno ondulatório resultado da superposição de duas ou mais ondas num mesmo ponto.
+
+    Pode ser construtiva ou destrutiva:
+
+        - Construtiva, as amplitudes das ondas são somadas entre si quando se encontram e depois seguem normalmente com a mesma amplitude inicial. Podemos simplificar que a interferência é construtiva quando a resultante dela for maior que as originárias.
+
+            a = a₁ + a₂
+
+        - Destrutiva, quando a resultante é menor que as originárias.
+
+            a = a₁ - a₂
+
+    7.1) Ondas estacionárias: são oscilações produzidas pela interferência entre ondas de frequência igual, que se propagam na mesma direção mas em sentidos opostos.
+
+        - Chamamos de nós os pontos das ondas estacionárias que apresentam interferência destrutiva todo o tempo.
+
+        - Adotamos o comprimento de onda como a distância entre três nós consecutivos.
+
+        - Adotamos como amplitude a distância total entre as interferências construtivas.
+
+    7.2) Interferência em ondas bidimensionais e tridimensionais: 
+
+        - Há uma interferência construtiva no encontro de duas cristas de ondas distintas;
+
+        - Há uma interferência destrutiva no encontro entre o vale de uma onda e a crista de outra;
+
+        - Há uma interferência construtiva no encontro de dois vales de ondas distintas.
+
+            d₁ - d₂ = N . λ / 2
+
+                Quando analisadas em mesma fase:
+
+                    Para N par, temos interferência construtiva.
+
+                    Para N ímpar, temos interferência destrutiva.
+
+                Em fases opostas, consideramos o oposto.
+
+    7.3) Interferência da luz:
+
+        É válida a mesma relação descrita acima:
+
+        d₁ - d₂ = N . λ / 2
+
+            Para N sendo múltiplos inteiros, interferência construtiva.
+
+            Para N sendo múltiplos associados a metade do comprimento de onda, interferência destrutiva.
+
+    7.4) Interferência da luz em película:
+
+        É semelhante ao que ocorre na interferência de ondas em fases opostas.
+
+            Para N par, temos interferência destrutiva.
+
+            Para N ímpar, temos interferência construtiva.
+
+                                                        Ondulatória - Acústica
+
+1) Conceitos Iniciais:
+
+    As ondas sonoras são mecânicas e longitudinais.
+
+    Espectro das ondas sonoras:
+
+    Infrassom < 20 Som Audível 20.000 < Ultrassom
+
+    f(Hz) ------------------------------------------------------------->
+
+        - Reforço: É quando o intervalo de tempo é praticamente nulo. O som fica mais intenso. 
+
+        - Reverberação: Prolongamento da sensação sonora. 0 < Δt < 0,1s
+
+        - Eco: Os sons são percebidos de forma distinta. Δt < 0,1s
+
+2) Timbre:
+
+    O timbre é uma característica sonora que nos permite distinguir um som de outro e que está associado a forma da onda.
+
+3) Altura:
+
+    Está relacionada a frequência do som. Quando dizemos baixo, em termos técnicos, dizemos que está grave. E por "alto", entendemos como som agudo.
+
+4) Intensidade Sonora:
+
+    Está associado ao que entendemos popularmente como altura do som. É o que conhecemos por volume sonoro.
+
+        I = P / A
+
+            [I] = W/m²
+
+5) Nível de Intensidade Sonora:
+
+    N = 10log(i/i₀)
+
+        [N] = decibel
+
+6) Equação de Lagrange:
+
+    fn = n / 2l (√F/u)
+
+7) Tubos Sonoros:
+
+    A maneira mais simples da corda vibrar se chama primeiro harmônico ou frequência fundamental. Essa onda terá comprimento de onda λ=L e frequência f=v/L.
+
+    Numa extremidade aberta sempre teremos um ventre e numa extremidade fechada teremos um nó.
+
+    Tubos fechados não possuem harmônicos pares.
+
+8) Efeito Doppler:
+
+    Sempre que houver deslocamento entre a fonte sonora e o ouvinte, vai haver o efeito doppler. A frequência do som percebida pelo ouvinte será diferente da emitida pela fonte. Quando a fonte se aproxima, o som fica mais aguda e quando se afasta, o som fica mais grave, para o ouvinte.
+
+        F(ap) = f(f) . V(s) ± V(o) / V(s) ± V(f)
+
+            F(ap) - frequência aparente;
+            F(f) - frequência da fonte;
+            V(s) - velocidade do som;
+            V(o) - velocidade do observador;
+            V(f) - velocidade da fonte.
+
+        Adota-se a trajetória positiva do observador PARA a fonte.
