@@ -51,3 +51,16 @@ Foucault afirma que existem instituições que forçam no ser humano uma determi
 O pensamento de Aristóteles é um pensamento que tende a ter uma finalidade. Tudo que existe, existe por uma causa. Para Aristóteles, existe um logos, uma lógica de funcionamento do cosmos. Para Aristóteles, a finalidade do ser humano é o bem supremo, a ideia de completude. E para alcançar essa finalidade nós precisamos da ética. A ética aristotélica é a ética da virtude. Ele acreditava que devemos agir de maneira virtuosa diante as situações, ou seja, devemos ponderar o que é certo e errado a ser feito em cada situação. Nesse sentido, ele utiliza o conceito de mesótese, que é um conceito de justa medida, um intermédio. Ele também acreditava que o hábito era a maneira de entender o ponto "correto" da virtude.
 
 Para substituir o pensamento aristotélico, abordamos a ética kantiana, que aborda sobre a ética do dever. Em um contexto de Iluminismo, da ascenção da ciência, a filosofia busca dialogar muito mais com a ciência e nesse sentido teremos uma ética universal, sempre válida. Diferente de Aristóteles, não existe uma análise subjetiva e sim o que é certo, é de fato certo.
+
+                                                        Revolução Científica
+
+Conceito utilizado para explicar o processo de transformação e ruptura no modo de observar e compreender a natureza, que se desenvolveu na Europa em meados do século XVII. Para Koyré, esse processo pode ser reduzido a duas funções fundamentais: a destruição do Cosmos e a geometrização do espaço.
+
+    1) Destruição do Cosmos: trouxe a destruição do Cosmos devido a ruptura com a teoria geocêntrica, de Claudio Ptolomeu, e apoiada pela Igreja. A teoria de Ptolomeu foi substituída pela teoria heliocêntrica de Nicolau Copérnico, que seria mais tarde reforçada por Galileu Galilei.
+
+    2) Geometrização do espaço: Galileu Galilei buscou assimilar o espaço físico ao espaço geométrico de Euclides, deixando para trás a ideia aristotélica de Cosmos.
+
+Através desses fundamentos, o Universo ganhou uma visão quantitativa ao invés da visão qualitativa que predominava. Não tratava-se mais de 
+explicar o "porquê" dos fenômenos acontecerem e sim "como" aconteciam.
+
+A partir disso, Galileu fundou a ciência ativa, que consistia em observar a realidade, fazer experimentações e submeter os resultados à comprovação, substituindo a ideia de ciência especulativa, que baseava-se nos sentidos e nos princípios.
