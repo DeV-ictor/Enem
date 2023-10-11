@@ -1,0 +1,891 @@
+                                                        Introdução de alguns conceitos
+
+A matéria representa tudo aquilo que ocupa lugar no espaço e tem massa. É constituída por átomos e de acordo com o modelo atômico de Rutherford-Bohr, os átomos são estruturados em núcleo, onde temos os prótons e nêutrons, de carga positiva e neutra, respectivamente, e em eletrosfera, onde localiza-se os elétrons, de carga negativa.
+
+A junção de átomos por meio de ligação covalente resulta em moléculas. No entanto, temos algumas exceções conhecidas como moléculas monoatômicas, como o He (Hélio).
+
+Isótopos apresentam a mesma massa.
+
+Coeficientes Estquiométricos representam a proporção.
+
+1 mol é representado pela constante de Avogadro, ou seja, 6,0 x 10²³ unidades.
+
+                                                         Grandezas
+
+A representa o número de massa.
+Z representa o número atômico.
+P representa o número de prótons.
+N representa o número de nêutrons.
+E representa o número de elétrons.
+
+Relações Fundamentais
+
+A = Z + N
+Z = P
+
+O número de A sempre será superior ao índice, que é o mesmo que o número atômico. Com exceção para o H (hidrogênio), que o número de A é o mesmo que o número atômico.
+
+O número de elétrons de um átomo neutro sempre será igual ao seu número de prótons.
+
+Porém, temos os íons. Que são átomos negativamente carregados, chamados de ânions e átomos positivamente carregados, chamados de cátions.
+
+Para casos mais comuns e introdutórios, os prótons são imutáveis, ou seja, o átomo apenas perde ou ganha elétrons.
+
+                                                        Distribuição Eletrônica
+
+A eletrosfera é dividida em 7 camadas, de K a Q, e essas camadas são dividas em 4 níveis, s p d f.
+
+O subnível s acomoda até 2 elétrons, o p 6 elétrons, o d 10 e o f 14.
+
+O diagrama de Pauling descreve a ordem crescente de energia dos subníveis.
+
+A camada de Valência é a última camada, ou seja, a mais distante do núcleo.
+
+A distribuição eletrônica deve apresentar sempre a máxima simetria orbital.
+
+1s2, 2s2, 2p6, 3s2, 3p6, 4s2, 3d10, 4p6, 5s2, 4d10, 5p6, 6s2, 4f14, 5d10, 6p6, 7s2, 5f14, 6d10, 7p6
+
+                                                        Ligações Químicas
+
+Teoria do Octeto: Os átomos realizam interações interatômicas a fim de adquirir maior estabilidade, possuindo 8 ou 2 elétrons (He) na camada de valência.
+
+As ligações químicas podem ocorrer de 3 formas: Covalentes, Iônicas e Metálicas.
+
+A ligação covalente ocorre entre ametal + ametal ou ametal + hidrogênio através do compartilhamento de elétrons.
+    Polar quando o compartilhamento é entre átomos com eletronegativades diferentese e apolar quando são iguais
+    Baixos níveis de PF e PE
+    Só ácidos em fase aquosa conduzem corrente elétrica
+    
+
+A ligação iônica ocorre metais e ametais ou hidrogênio através da transferência de elétrons.
+    Sólidos duros e quebradiços
+    Altos PF e PE
+    Conduzem corrente elétrica em fase aquosa ou fundidos
+    Possuem fórmula cristalina
+
+A ligação metálica ocorre entre metais através da perda de seus elétrons livres e tornando-se em íons positivos, cátions, imersos em elétrons. Os elétrons liberados formam o que conhecemos como "mar de elétrons", produzindo uma força que faz com que os átomos do metal permaneçam unidos.
+    Ótimos condutores elétricos e térmicos
+    Altos níveis de PF e PE
+    Dúcteis e maleáveis
+    Possuem brilho
+
+                                                        Geometria Molecular
+
+Modelo VSEPR - Repulsão dos Pares Eletrônicos da Camada de Valência
+
+Intensidade das repulsões:
+    Pi - Pi > Pi - Pc > Pc - Pc
+
+As 5 geometrias mais abordadas são: Linear, Angular, Trigonal, Piramidal e Tetraédrica.
+
+Linear
+    . Toda molécula biatômica será linear, como H2 ou O2.
+    . 2 pares de elétrons compartilhados no átomo central
+    . 180º
+
+Angular
+    . 2 pares compartilhados e 1 par isolado no átomo central
+    . 105º
+
+Trigonal
+    . 3 pares compartilhados no átomo central
+    . 120º
+
+Piramidal 
+    . 3 pares compartilhados e 1 par isolado no átomo central
+    . 109º28'
+
+Tetraédrica
+    . 4 pares compartilhados no átomo central
+    . 109º5'
+
+                                                        Polaridade das Moléculas
+
+Para determinar a polaridade, precisa-se primeramente, determinar a geometria da molécula. Determinada a geometria molecular, precisamos realizar uma análise vetorial. Se:
+
+    . A soma vetorial for 0, será apolar.
+    . Diferente de 0, ou seja, houver pelo menos um vetor resultante, será polar.
+
+    Obs: Caso sobre pares no átomo central, a molécula é polar. Caso contrário, deve-se fazer a análise vetorial.
+
+                                                        Forças Intermoleculares
+
+As interações moleculares ocorrem entre moléculas, como o próprio nome sugere. Dão-se de 3 maneiras:
+
+    Dipolo Induzido
+    Dipolo Permanente
+    Íon Dipolo
+
+A dipolo induzido ocorre entre moléculas apolares.
+    Induz a formação do dipolo para que posteriormente haja a interação.
+
+A dipolo permanente ocorre entre moléculas polares. 
+    Há naturalmente a formação dos polos e consequentemente a interação entre as moléculas. Vale destaque para as ligações de hidrogênio (H - FON) que são encaixadas como dipolo permanente.
+
+A íon dipolo ocorre entre uma molécula polar e um composto iônico.
+
+                                                        NOX 
+
+É a carga que um elemento químico recebe ao realizar uma ligação química.
+
+Regras para cálculo do NOX
+    1. H vale +1, com exceção para hidretos.
+    2. O vale -2, exceto para peróxidos e superóxidos.
+    3. Substância simples sempre será 0
+    4. A soma resultante deve ser nula.
+
+                                                        Funções Inorgânicas - Ácidos
+
+Conceito de Arrhenius: Ácidos liberam íons H+ (hidrônio) em fase aquosa (aq).
+
+Classificações:
+    
+    1) Hidrácidos (não tem O). Oxiácidos (tem O)
+
+    2) Quantidade de hidrônios:
+        2.1) 1 - Monoácido / Monoprótico
+        2.2) 2 - Diácido / Diprótico
+        2.3) 3 - Triácido / Triprótico
+        2.4) 4 - Tetrácido / Tetraprótico
+
+        obs.: 2 ou mais hidrônios são considerados poliácidos ou polipróticos.
+
+    3) Força dos ácidos (Relativo a facilidade de liberar hidrônios, quanto mais fácil, é considerado mais forte. Critério muitas vezes comparativo).
+        3.1) Hidrácidos
+            3.1.1) Fortes: HI > HBr > HCl
+            3.1.2) Moderado: HF
+            3.1.3) Fraco: H2S, HCN, HNC
+        
+        3.2) Oxiácidos (Número de O - Número de H)
+            3.2.1) Ácido Forte: Maior ou igual a 2.
+            3.2.2) Ácido Fraco: Menor ou igual a 1.
+
+        3.3) Valor de KA
+            3.3.1) Quanto maior o KA, maior a acidez.
+
+        3.4) Grau de ionização
+            3.4.1) Fraco: menor que 5%
+            3.4.2) Moderado: maior que 5% e menor que 50% 
+            3.4.3) Forte: maior que 50%
+
+Nomenclatura dos ácidos:
+
+    1) Hidrácidos
+        Ácido + parte do nome do elemento formador + ídrico.
+        Ácido Clorídrico, Ácido Bromídrico, etc.
+
+    2) Oxiácidos
+        Ácido + prefixo (PER [maior dos maiores] ou HIPO [menor dos menores]) + sufixo (ICO [maior NOX] ou OSO [menor NOX]). 
+
+                                                        Funções Inorgânicas - Bases
+
+Conceito de Arrhenius: Bases liberam íons OH- (Hidróxido, Hidroxila, Oxidrila) em fase aquosa (aq).   
+
+Classificações:
+
+1) Número de Hidroxilas:
+    1.1) 1 - Monobase
+    1.2) 2 - Dibase
+    1.3) 3 - Tribase
+    1.4) 4 - Tetrabase
+
+    obs.: 2 ou mais hidroxilas são considerados polibases.
+
+2) Forças das Bases (Facilidade em liberar íons hidroxilas)
+    2.1) Fortes - 1A e 2A, com exceção de Mg e Be
+    2.2) Fracas - Todas as demais
+
+Nomenclatura:
+
+1) Elementos com 1 NOX 
+    Hidróxido + nome do elemento
+
+2) Elementos com 2 NOX
+    2.1) NOX explícito no nome
+        Hidróxido + nome do elemento formador + nox em algarismo romano
+    2.2) NOX implícito no sufixo
+        Hidróxido + parte do elemento formador + sufixo ("ico" ou "oso").
+
+                                                        Funções Inorgânicas - Reações de Neutralização
+
+Ácido + Base origina Sal + Água em uma reação de dupla-troca, pois o ânion do ácido interage com o cátion da base e o ânion da base interage com o ânion do ácido. O Sal é sempre formado pelo cátion da base e pelo ânion do ácido.
+
+Classificações dos tipos de neutralização:
+
+1) Neutralização Total
+    O número de hidrônios é igual o número de hidroxilas. Gera um sal neutro.
+
+2) Neutralização Parcial
+    O número de hidrônios é diferente do número de hidroxilas. Gera um hidrogenossal ou hidroxissal.
+
+                                                        Funções Inorgânicas - Óxidos
+
+São compostos binários, onde o O é o elemento mais eletronegativo e o outro elemento é o elemento formador.
+
+A primeira classificação dos óxidos é em relação a ligação dos óxidos, dividido em:
+
+Covalentes -> Am + O ou H + O
+Iônicas -> M + O 
+
+Temos 7 tipos de óxidos:
+
+ÁCIDOS
+BÁSICOS
+NEUTROS
+ANFÓTEROS
+MISTOS (DUPLOS/SALINOS)
+PERÓXIDOS
+SUPERÓXIDOS
+
+Óxidos Ácidos são anidridos são oxiácidos desidratados, ou seja, sem a presença de água.
+São formados por ametais de NOX +4, +5 e +6.
+São capazes de neutralizar bases. Associa-se a chuva ácida.
+
+Óxidos Básicos são formados geralmente por elementos da família 1A e 2A, assumindo NOX +1 e +2.
+Óxidos Básicos comportam-se como bases. Quando hidratados, formam bases. Associa-se a calagem (correção do pH do solo).
+
+Óxidos Anfóteros comportam-se tanto como ácidos quanto como bases, dependendo do caráter do meio.
+
+Óxidos Neutros não reagem com a água. Seu grupo é formado APENAS pelo NO, CO e N2O. O NO é formado em tempestades e participam do processo de radical livre e do ciclo de nitrogênio. O CO é extremamente tóxico, é um produto de uma combustão incompleta. O N2O é um composto que pode ser utilizado como anestésico e potencializa a combustão.
+
+Óxidos Mistos apresentam forma geral E3O4 e são formados por óxidos distintos do mesmo elemento químico. O NOX do elemento formador, que é o NOX médio, é 8/3.
+
+Peróxidos apresentam NOX médio -1. Ação bactericida.
+
+Superóxidos apresentam NOX médio -1/2. Máscara dos bombeiros.
+
+                                                        Reações com Hidrogênio
+
+Síntese da água:
+
+2H2O + O2 -> 2H2O
+Proporção -> 2:1:2
+
+Síntese da Amônia:
+
+N2 + 3H2 -> 2NH3
+Proporção -> 1:3:2
+
+Balanceamento por tentativas MACHO (Metais, Ametais, Carbono, Hidrogênios e Oxigênios).
+
+O balanceamento deve apresentar os menores coeficientes estequiométricos inteiros.
+
+Síntese de Hidrácidos 
+
+H2 + X2 -> 2HX
+1:1:2
+
+X = Halogênio, família 7A
+
+                                                        Reações de Síntese de Hidrogênio Molecular
+
+2Metal Alcalino(s) + 2H2O(l) -> 2[MOH(aq)(Base)] + 1 H2(g)
+2:2:2:1
+Altamente exotérmico
+
+M(s) + xHCl(aq) -> MClx(aq) + x/2 H2(g)
+
+Fila de reatividade dos metais:
+
+Li > K > Ca > Na > Mg > Al > Zn > Cr > Fe > Ni > Sn > Pb > H > Cu > Hg > Ag > Au - Pt 
+
+                                                        Reação de Combustão de Compostos Orgânicos
+
+Forma Geral: CxHyOz + O2
+
+Serão sempre reações exotérmicas.
+
+Há 2 tipos de combustão:
+
+Completa -> Libera CO2 e H2O no produto.
+
+Incompleta -> Pode liberar CO ou [C(grafite) (fuligem)] 
+
+                                                        Reação de Pirólise
+
+Pirólise é qualquer decomposição térmica.
+
+Decomposição total ocorre quando resta apenas uma substância simples e decomposição parcial resta uma substância composta.
+
+                                                        Reação de Ustulação
+
+É a queima de sulfeto, S de carga 2-.
+
+Forma geral: MS + O2 -> Produto + SO2(g)
+
+Existem dois tipos de ustulação:
+
+Oxidativa, forma um óxido e geralmente acontece com metais menos nobres, ou seja, que vem antes do H na fila de reatividade.
+
+Redutiva, forma um metal em sua forma metálica e acontece com metais mais nobres.
+
+Fila de Reatividade:
+
+Li > K > Rb > Cs > Ba > Sr > Ca > Na > Mg > Al > Mn > Zn > Cr > Fe > Co > Ni > Pb > H > Cu > Hg > Ag > Pd > Pt > Au
+
+                                                        Estequiometria Simples
+
+Relações:
+
+Massa x Mol
+Massa x Massa
+Massa x Volume (CNTP)
+Massa x Volume
+
+                                                        Estequiometria com Pureza
+
+Pureza da amostra refere-se ao percentual da amostra que, de fato, participa da reação. 
+
+                                                        Estequiometria com Rendimento Reacional
+
+100% é o rendimento teórico, porém, na realidade geralmente sempre tem uma perda no processo. Essa perda é o desconto reacional. O rendimento reacional equivale ao que de fato foi gerado ao final do processo, considerando as perdas. 
+
+                                                        Estequiometria com Reagente Limitante e Reagente em Excesso
+
+                                                        Eletroquímica
+
+Pilha -> reação química gerando uma corrente elétrica.
+
+Eletrólise -> aplicação de corrente elétrica gerando uma reação química.
+
+Pilha de Daniell:
+
+    A Pilha de Daniell é composta por um eletrodo negativo (ânodo) que cede elétrons para o eletrodo positivo chamado de cátodo. O ânodo é uma placa de zinco mergulhada em uma solução de sulfato de zinco, enquanto que o cátodo é uma placa de cobre mergulhada em uma solução de cobre.
+
+        Ânodo é o eletrodo no qual ocorre a oxidação e é o polo negativo.
+        Cátodo é o eletrodo no qual ocorre a redução e é o polo positivo.
+
+    O Zinco oxida liberando elétrons e gerando uma DDP. Posteriormente os elétrons tenderão a migrar para a solução de íons de cobre, gerando um fluxo de elétrons. A partir desses elétrons, o sulfato na superfície do metal se reduz, tendo um aumento de massa.
+
+    Equação Global: Zn(s) + Cu2+(aq) -> Zn2+ + Cu(s)
+
+    A tensão total é a soma das forças eletromotrizes de cada uma das semi-reações, então dado que a DDP na oxidação é de 0,76V e a DDP na redução é de 0,34V, a tensão da pilha será de 1,10V.
+
+    Porém, ainda temos que cuidar do íon espectador, que nesse caso é o sulfato (SO4), pois durante esse processo temos um acúmulo de cargas positivas em uma solução e acúmulo de cargas negativas em outra. Se isso ocorre, todo o sistema da pilha quebra devido ao que chamamos de Balanço de Cargas. Então, para evitar esse problema, colocamos uma ponte salina, formado por íons de potássio e de cloro, em contato com as soluções. Dessa forma, a solução que tiver um acúmulo de cargas negativas receberá cátions K+, e a solução que tiver acúmulo de cargas positivas, receberá ânions Cl- e consequentemente, mantendo o balanço de cargas.
+
+    Após todo o processo, a barra de zinco que sofreu oxidação, apresenta aspectos de corrosão. Enquanto que a barra de cobre, que sofreu redução, apresenta deposição.
+
+        Balanço de cargas: As soluções devem ser eletricamente neutras, ou seja, a concentração de cargas positivas deve ser igual a concentração de cargas negativas.
+
+    Se um cobre sofre redução e apresenta força eletromotriz de 0,34V, caso, em uma outra reação ele sofra oxidação, sua força eletromotriz apenas terá a carga oposta, ou seja, -0,34V. Então, para um mesmo metal temos sempre a força eletromotriz, independente da semi reação, igual em módulo, alternando apenas a carga, negativa e positiva.
+
+Cálculo de ε (fem):
+
+Passo a passo:
+
+    1) Semi reações (maior ε como redução)
+
+    2) Igualar o número de elétrons através de MMC
+
+    3) Equação global
+
+        Através desse método, obtemos todas as informações acerca da reação.
+
+
+    Δε = ε(maior) - ε(menor)
+
+        para descobrir apenas a DDP.
+
+
+Diferentemente do que ocorre nas pilhas, nas eletrólises o cátodo é o polo negativo e o ânodo é o polo positivo.
+
+Também nas eletrólises, o cátion reduz e o ânion oxida.
+
+Temos 2 tipos de eletrólise:
+
+    1) Eletrólise Ígnea
+
+    2) Eletrólise Aquosa
+
+A eletrólise ígnea ocorre com composto iônico fundido, ou seja, precisamos de calor.
+
+Primeiramente, o composto iônico é fundido e logo dissociado. Quando a corrente elétrica passa por esse meio, os íons liberados sofrem descarga.
+Como mencionado, o cátion sofre redução e o ânion sofre oxidação.
+
+Posteriormente, precisamos igualar o número de elétrons.
+
+Tendo as semi reações, com os elétrons já igualados, basta montar a equação global.
+
+
+Na eletrólise aquosa, além das semi reações, teremos também a autoprotólise da água. Com isso, é necessário analisar a ordem de preferência de descarga para saber quais cátions e ânions reagirão.
+
+    Ordem de Preferência de Descarga:
+
+Cátions: 1A, 2A, Al3+ < H+ < Todos os outros cátions
+
+Ânions: Ânions Oxigenados (SO4²-) < OH- < Ânions não oxigenados (Cl-)
+
+Posteriormente, vamos montar as semi reações e equilibrar o número de elétrons e de íons em todas as reações (dissociação, autoprotólise, oxidação e redução). 
+
+Somamos e chegamos a reação global, a qual pode nos dizer também o caráter do meio.
+
+Destaque para as reações da água:
+
+    Red: 2H+(aq) + 2e- -> H2 (g)
+
+    Oxi: 4OH -> O2(g) + 2H2O + 4e-
+
+
+Relação fundamentais dentro dos cálculos de eletroquímica:
+
+Q = i . Δt
+
+    A carga (Q) é dada em Coulombs, corrente elétrica (i) em ampéres e tempo, em segundos.
+
+1F = 96.500C (9,65 . 10⁴) = 6.10²³ e-
+    
+    ou seja, 1 Farad (F) equivale a 96.500 Coulombs (C) que também equivale a 1 mol de elétrons (6.10²³).
+
+        1) Calcular Q
+        2) Redução do Íon
+        3) Estequiometria
+
+                                                        Química Orgânica
+
+Química orgânica estuda os compostos formados predominantemente por carbono e hidrogênio e suas estruturas, propriedades e reatividades.
+
+Os principais elementos da química orgânica são:
+
+    Carbono, Hidrogênio, Oxigênio, Nitrogênio, Fósforo e Enxofre (CHONPS)
+
+Postulados de Couper e Kekulé:
+
+    1) O carbono é tetravalente, ou seja, ele pode fazer 4 ligações.
+        
+        ligações simples são compostas por σ;
+        ligações duplas são compostas por um σ e um π;
+        ligações triplas são compostas por um σ e dois π, sendo a σ a ligação central.
+
+    2) As 4 ligações do carbono são equivalentes, são sempre as mesmas independente da posição.
+
+    3) O carbono forma cadeias
+
+Hibridação ou hibridização do carbono é a característica que o permite fazer um rearranjo eletrônico em sua estrutura e consequentemente fazer 4 ligações.
+
+Processo de hibridização do carbono:
+
+    1) Estado fundamental, apenas 2 pares desemparelhados.
+
+    2) Estado ativo, consome mais energia desemparelhando seu subnível a fim de alcançar menos energia e mais estabilidade posteriormente.
+
+    3) Estado hibridizado, 4 pares desemparelhados, mais estável e com a possibilidade de realizar 4 ligações.
+
+Possíveis hibridizações do carbono:
+
+    sp3: 4 ligações do tipo σ - tetraédrica
+
+    sp2: 3 ligações do tipo σ e 1 uma ligação do tipo π - trigonal
+
+    sp: 2 ligações do tipo π e duas ligações do tipo σ - linear
+
+O raio da ligação π é mais fraca que o da ligação σ, que é a que está na direção do eixo internuclear. Portanto, a tendência é a ligação π quebrar.
+
+O carbono não realiza uma ligação quádrupla devido a forte repulsão eletrônica que torna esse tipo de ligação inviável.
+
+                                                        Classificações dos Carbonos e Cadeias Carbônicas
+
+CUIDADO! Ao mover ramificações, elas não podem assumir o caráter de cadeia principal.
+
+O carbono pode ser classificado quanto a:
+
+    1) Número de ligações com outros carbonos:
+        1.1) Nulário, ligado a nenhum outro átomo de carbono;
+        1.2) Primário, ligado a um átomo de carbono;
+        1.3) Secundário, ligado a dois átomos de carbono;
+        1.4) Terciário, ligado a três átomos de carbono;
+        1.5) Quaternário, ligado a quatro átomos de carbono.
+
+    2) Hibridação:
+        2.1) sp, 2 ligações do tipo π e duas ligações do tipo σ - linear
+        2.2) sp2, 3 ligações do tipo σ e 1 uma ligação do tipo π - trigonal
+        2.3) sp3, 4 ligações do tipo σ - tetraédrica
+
+Cadeia de carbonos principal: apresenta a maior sequência de átomos de carbono.
+As cadeias carbônicas podem ser classificadas quanto a:
+
+    1) Ramificações
+        1.1) Normal, não sobra qualquer ramo de carbono fora da cadeia principal.
+        1.2) Ramificada, sobra algum ramo de carbono fora da cadeia principal.
+
+    2) Insaturações (ligações duplas ou triplas entre carbono)
+        2.1) Saturadas, apenas ligações simples.
+        2.2) Insaturadas, ligações duplas ou triplas na cadeia carbônica.
+
+    3) Fechamento da cadeia
+        3.1) Aberta, acíclica ou alifática
+        3.2) Fechada ou cíclica
+
+    4) Presença de heteroátomos (diferente de carbono)
+        4.1) Homogênea, sem heteroátomos na cadeia principal.
+        4.2) Heterogênea, apresenta heteroátomos na cadeia principal.
+
+Aromaticidade é uma característica referente a presença de anel aromático.
+
+O efeito de ressonância do anel aromático é caracterizado pela deslocalização dos pares eletrônicos π (pi) das ligações duplas do anel aromático, exercendo um efeito igual em todas as regiões da estrutura. O efeito de ressonância dá estabilidade à molécula. Este deslocamento é representado por um círculo no centro do anel.
+
+Utilizamos a regra de Huckel para determinar se um arranjo cíclico é aromático.
+    Regra de Huckel: 4n + 2 = nº de elétrons π
+    Caso n seja um inteiro, será determinado como um anel aromático.
+
+Classificações quanto à aromaticidade:
+
+    5) Presença de anel benzênico ou anel aromático
+        5.1) Aromática, apresenta anel benzênico 
+        5.2) Não aromática, não apresenta anel benzênico
+
+    6) Núcleos 
+        6.1) Mononuclear, presença de apenas um anel benzênico
+        6.2) Polinuclear, presença de dois ou mais anéis benzênicos
+
+    7) Posições dos núcleos
+        7.1) Polinuclear condensada, quando os núcleos estão juntos.
+        7.2) Polinuclear isolada, quando os núcleos estão separados.
+
+Carbono quiral: deve ser obrigatoriamente sp3 e estar ligado a 4 elementos ou grupos diferentes.
+
+                                                        Nomenclatura Geral da Química Orgânica
+
+Estrutura de composição da nomenclatura:
+
+    Ramificação + Prefixo + Infixo + Sufixo
+
+1) Nomenclatura quanto ao número de ramificações - ramificação
+    
+    Quanto à presença de ramificações. Deve-se numerar apenas quando necessário, ou seja, se houver outras possibilidades de ramificação.
+
+    Quando apresenta apenas um carbono na ramificação, utiliza o radical "metil".
+    Quando apresenta dois, "etil"
+    Quando apresenta três, "isopropil"
+    E "fenil" para anel benzênico.
+
+2) Nomenclatura quanto ao número de carbonos na cadeia principal - prefixo
+
+    1 - Met
+    2 - Et
+    3 - Prop
+    4 - But
+    5 - Pent
+    6 - Hex
+    7 - Hept
+    8 - Oct
+    9 - Non
+    10 - Dec
+    20 - Eicodec
+    
+3) Quanto ao número de insaturações - infixo
+
+    3.1) C-C, ligação simples. Infixo "AN".
+
+    3.2) C = C, ligação dupla. Infixo "EN".
+
+    3.3) C ≡ C, ligação tripla. Infixo "IN".
+
+4) De acordo com o grupo funcional - sufixo
+
+    4.1) Só C e H, hidrocarboneto. Sufixo "O".   
+
+    4.2) C (saturado, sp3) - OH (ligado a hidroxila), álcool. Sufixo "OL". 
+
+Passo a Passo para nomeação:
+
+    1) Cadeia Principal
+    2) Numerar
+    3) Nomear
+
+Regra da Prioridade:
+
+    1) Grupo Funcional
+    2) Insaturação
+    3) Ramificação
+
+Fórmula Geral dos Hidrocarbonetos
+
+    1) Alcanos, C-C. CnH2n + 2
+    2) Alcenos, C=C. CnH2n
+    3) Alcinos, C≡C. CnH2n - 2
+    4) Alcadienos, 2(C=C). CnH2n - 2
+    5) Cicloalcanos, C-C (cadeia cíclica). CnH2n
+    6) Cicloalcenos, C=C (cadeia fechada). CnH2n - 2
+
+Relacionando fórmula geral com massa molar
+
+    Fórmula do hidrocarboneto específico = Massa Molar
+
+        Exemplo: CnH2n + 2 = x
+            Em que x = massa molar proposta.
+
+                                                        Funções Orgânicas - Álcool, Fenol e Enol
+
+Grupos funcionais
+
+    1) Álcool:
+
+        Caracterizado pela ligação entre um carbono saturado (sp3) e uma hidroxila (OH). Sufixo "OL".
+
+    2) Fenol:
+
+         Classificado como fenol quando temos um anel benzênico ligado DIRETAMENTE a uma hidroxila.
+
+    3) Enol:
+
+         Quando temos um carbono sp2 ligado DIRETAMENTE a uma hidroxila.
+                                                    
+                                                    Funções Orgânicas - Aldeído e Cetona
+
+Grupos Funcionais:
+
+    1) Aldeídos
+
+         Quando temos uma carbonila (C=O) primária ligada a um ou nenhum átomo de carbono. Sufixo "AL".
+
+    2) Cetonas
+
+         Quando temos uma carbonila secundária ligada a dois átomos de carbono. Sufixo "ONA". 
+
+                                                        Funções Orgânicas - Ácidos Carboxílicos
+
+Grupos Funcionais:
+
+        1) Ácido Carboxílico
+             
+             Quando temos uma carbonila (C=O) ligada a uma hidroxila. Destaque para: R-COOH. Sufixo "OICO".
+
+                                                        Funções Orgânicas - Éter e Éster
+
+Éter é um tipo de função orgânica oxigenada, pois apresenta um átomo de oxigênio entre duas cadeias carbônicas, que são formadas por átomos de carbono e hidrogênio.
+
+Nomenclatura dos éteres:
+
+    Para nomear os compostos orgânicos é necessário indicar o número de átomos de carbono antes e depois do átomo de oxigênio (O).
+
+Os ésteres possuem um radical carbônico no lugar do hidrogênio dos carboxílicos, sendo essa a característica que distingue um do outro. O grupo funcional dessa função orgânica oxigenada é R—COO—R’
+
+Nomenclatura dos ésteres:
+
+    Prefixo: indica o número de carbonos;
+    Intermédio: indica o tipo de ligação química;
+    Sufixo: -oato é acrescentado, tal como o elemento “de”;
+    Terminação: segue-se a terminação -ila.
+
+                                                        Isomeria Plana
+
+Compostos de mesma fórmula molecular que exibem alguma diferença estrutural.
+
+Temos 5 casos na isomeria plana:
+
+    1) Metameria
+
+        Mesma fórmula molecular, porém muda a posição de um heteroátomo.
+
+        Por exemplo, no caso do metoxipropano e do etoxietano.
+
+    2) Tautomeria
+
+        Isomeria dinâmica onde duas espécies de mesma fórmula molecular coexistem em equilíbrio dinâmico (reação reversível)
+
+        Por exemplo, no caso da ceto-enólica. Temos uma cetona, que após um rearranjo da ligação pi e do oxigênio, transforma-se em enol e vice-versa.
+
+    3) Função
+
+        Possuem mesma fórmula molecular mas diferem nas funções (grupos funcionais).
+
+        Por exemplo, no caso da pronanona e propanal.
+
+    4) Cadeia
+
+        Possuem mesma forma molecular mas diferem no tipo de cadeia.
+
+        Por exemplo, no caso do pentano e metilbutano.
+
+    5) Posição
+
+        Possuem a mesma fórmula molecular mas diferem na posição de uma ramificação, insaturação ou grupo funcional.
+
+        5.1) Ramificação, mesma fórmula e posição da ramificação diferente. (Lembrando que não pode perder o caráter de ramificação)
+
+        5.2) Insaturação, mesma fórmula e posição da insaturação diferente.
+
+        5.3) Grupo Funcional, mesma fórmula e posição do grupo funcional diferente.
+
+                                                        Isomeria Espacial
+
+Temos dois tipos de isomeria espacial:
+
+1) Isomeria geométrica
+
+    Também conhecida como isomeria cis-trans.
+
+    Temos dois blocos mais comuns onde é possível haver isometria geométrica, que são os blocos dos compostos saturados e dos ciclo saturados.
+
+    Para essa isomeria ocorrer, não podemos ter dois ligantes ou grupos iguais a um mesmo átomo de carbono e não pode haver livre rotação entre esses carbonos.
+
+    Os isômetros podem ser classificados quanto a isômeros cis e isômeros trans.
+
+    Após traçar o eixo internuclear dos carbonos, caso os ligantes de maior prioridade, ou seja, de maior massa molar, estiverem no mesmo plano, então teremos um isômero cis. Caso estejam em planos opostos, teremos um isômero trans. 
+
+    Essa isomeria infere bastante na polaridade da molécula.
+
+2) Isomeria óptica
+
+    É um fenômeno caracterizado pela presença do carbono quiral (sp3 com 4 ligantes diferentes)
+
+    O carbono quiral será uma imagem especular não sobreponível.
+
+    Dentro da isomeria óptica, temos duas classificações denominadas de dextrógiro e levógiro. Essas classificações partem do seguinte experimento:
+
+        1) Temos uma fonte de luz natural.
+        2) Polarizamos essa luz através de uma polarímetro
+        3) E por fim, colocamos o isômero na frente dessa luz polarizada e observamos seu desvio.
+
+    Caso o desvio da luz seja para a direita, o isômero será dextrógiro. Caso o desvio seja a para a esquerda, o isômero será levógiro.
+
+    Utilizamos a regra de Van't Hoff para determinar a quantidade de isômeros ópticos possíveis para um carbono quiral.
+
+        nº de isômeros ópticos total = 2ⁿ
+
+            Em que n equivale ao número de carbonos quirais.
+
+    Podemos calcular também a quantidade de isômeros opticamente inativos, que é quando uma substância apresenta isômeros que não desviam o plano da luz polarizada. Nesse caso dizemos que temos isômeros opticamente INATIVOS, que nada mais são do que uma mistura equimolar entre os isômeros dextrógiro e levógiro, denominada mistura racêmica. Para isso, utilizamos a expressão:
+
+        nº de isômeros ópticos total = 2ⁿ ⁻ ¹ ou  2ⁿ/2
+
+    Um composto meso ou isômero meso é um isômero inativo por compensação interna.
+
+                                                        Reações Orgânicas - Adição e Eliminação
+
+1) Reações de Adição
+
+O padrão das reações de adição em reações orgânicas é dois reagentes formando um produto.
+
+Geralmente as reações de adição funciona mediante a quebra da ligação pi.
+
+    1.1) Hidrogenação: Alceno reagindo com hidrogênio gasoso, normalmente na presença de um metal catalisador. A cada 1 mol de ligações pi quebradas, é necessário 1 mol de H2 para serem hidrogenadas.
+
+    1.2) Halogenação: Diferentemente da hidrogenação, nesse caso temos uma cadeia carbônica insaturada reagindo com um halogênio, com destaque para Cl2 e Br2.
+
+    1.3) Adição de Hidrácidos: Na adição de hidrácidos temos uma cadeia carbônica reagindo com um hidrácido. Dentro desse tipo de reação, utilizamos duas regras: regra de Markovnikov e Karasch-Mayo.
+
+    A regra de Markovnikov afirma que o hidrogênio entra no carbono mais hidrogenado (que realiza ligações pi).
+
+    A regra de Karasch-Mayo é utilizada para um caso específico dentro das reações de adição de hidrácidos. É a reação entre uma cadeia carbônica e HBr (ácido bromídrico) na presença de um peróxido orgânico. Nesse tipo de reação, o hidrogênio entra no carbono menos hidrogenado.
+
+    1.4) Hidratação de Alcenos: Acontece mediante a adição de H2O, seguindo a regra de Markovnikov.
+
+2) Reações de Eliminação 
+
+Um reagente principal orgânico que vai eliminar um grupo. Nesse tipo de reação, muitas vezes temos a formação de uma ligação pi.
+
+    2.1) Desalogenação: Essa reação acontecerá mediante a eliminação de halogênios de uma cadeia carbônica. Será necessário zinco (Zn) e álcool como catalisadores. Teremos a formação do ZnX2 (Zinco + Halogênio)
+
+    2.2) Desidro-halogenação: Nesse tipo de reação, teremos a formação de uma hidrácido. Funciona mediante a eliminação do halogênio e de um hidrogênio de um carbono vizinho que seja o menos hidrogenado, de acordo com a regra de Saytzeff.
+
+        Regra de Saytzeff: O hidrogênio tende a sair do carbono menos hidrogenado.
+
+    2.3) Desidratação de álcools: Temos dois tipos de desidratação, com diferença principalmente nas condições de temperatura. Teremos a formação de H2O.
+
+    O primeiro tipo de desidratação depende de uma temperatura mais alta (170ºC) e portanto, acontecerá dentro da molécula, ou seja, intramolecular e depende apenas de uma molécula.
+
+    O segundo tipo é de acordo com uma temperatura mais baixa (140ºC), acontecerá ENTRE moléculas, portanto será uma desidratação intermolecular. Será necessário duas moléculas.
+
+                                                        Reações Orgânicas - Substituição
+
+1) Substituição em alcanos:
+
+    Tendência de saída do hidrogênio ligado a:
+
+        HC≡C > HC=C > HC-c > HC
+
+    1.1) Nitração (HNO3 = HO - NO2):
+
+        Reação orgânica de substituição em que um ou mais átomos de hidrogênio do composto orgânico é substituído por um grupo nitro do ácido nítrico. Forma água com subproduto.
+
+    1.2) Sulfonação (H2SO4 = OH - HSO3)
+
+        Reação orgânica de substituição em que um ou mais átomos de hidrogênio do composto orgânico são substituídos por um grupo sulfônico do ácido sulfúrico. Forma água como subproduto.
+
+    1.3) Halogenação (X2, geralmente Cl ou Br):
+
+        Reação orgânica de substituição em que um ou mais átomos de hidrogênio do composto orgânico é substituído por um halogênio, geralmente cloro ou bromo. Forma um hidrácido como subproduto.
+
+2) Substituição em compostos aromáticos:
+
+    2.1) Alquilação e Acilação de Friedel-Crafts:
+
+        Alquilação (R - x):
+            Introduzir a cadeia do haleto de alquila ao anel benzênico. Forma um hidrácido.
+
+                   O
+                   ||
+        Acilação (R-C-x):
+            Introduzir o grupo acila (R-C=O) ao anel benzênico.
+
+    2.2) Grupo Orto-Para Diretores:
+
+        Saturados (ligação sigma)
+
+            - Grupos alquilas
+            - Grupo amino
+            - Cloro 
+            - Iodo
+            - Hidroxila
+        
+    2.3) Grupo Meta Diretores:
+
+        Apresentam pelo menos uma ligação pi.
+
+            - Carboxila
+            - Nitro
+            - Sulfônico
+            - Carbonila
+            - Nitrilas
+            - Carboxilatos
+
+                                                        Reações Orgânicas - Oxirredução
+
+Oxirredução é uma reação mediante a transferência de elétrons. Simultaneamente temos uma oxidação e uma redução.
+
+Oxidação: Transfere elétrons. Processo com aumento no teor de oxigênio ou redução no teor de hidrogênio. Por exemplo, um álcool oxidando em uma carboxila.
+
+Redução: Recebe elétrons. Há o aumento no teor de hidrogênio. Por exemplo, um grupo nitro sendo reduzido a um amino.
+
+Principais reações de oxidação:
+
+    1) Oxidação de álcoois
+
+        1.1) Álcool primário: Passa primeiro para um aldeído e posteriormente para um ácido carboxílico.
+
+        1.2) Álcool secundário: Passa para uma cetona.
+
+        1.3) Álcool terciário: Não reage. Não oxida.
+
+    2) Oxidação de alcenos:
+
+        2.1) Oxidação branda: Permanganato em meio básico. Mediante a quebra da ligação pi, cada um dos carbonos se liga a uma hidroxila. Forma um diálcool vicinal.
+
+        2.2) Oxidação enérgica: Mediante a quebra da ligação dupla. O produto depende do carbono:
+
+            2.2.1) Primário -> CO2 + H2O
+
+            2.2.2) Secundário ->  Ácido Carboxílico
+
+            2.2.3) Terciário -> Cetona
+
+    3) Ozonólise de alcenos:
+
+    Síntese de aldeídos e cetonas. O3 / H2O + Zn 
+
+    A função do Zn (zinco) é impedir que o aldeído  se transforme em um ácido carboxílico.  
+
+    Por meio da quebra da ligação dupla, entra uma dupla ligação com O.
+
+    Se o carbono da dupla ligação do alceno for primário ou secundário, forma-se um aldeído. Se for terciário, o produto será uma cetona.
+
+Principais reações de redução:
+
+    1) Redução de carboxilas: Ácido carboxílico reduz para aldeído e aldeído reduz para álcool primário.
+
+    2) Redução de cetonas: Reduz para um álcool secundário.
+
+    3) Redução de nitrocompostos: Reduz para um amina.
+
+    4) Redução de nitrilas: Reduz também para uma amina, através da quebra das ligações pi.

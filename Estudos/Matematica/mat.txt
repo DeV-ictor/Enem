@@ -217,7 +217,7 @@ Soma da PG Finita:
 
                                                         Trigonometria
 
-Transformação de graus para radianos: πRad = 180
+Transformação de graus para radianos: πRad = 180x
 
 A soma dos ângulos internos de um triângulo é 180º graus.
 

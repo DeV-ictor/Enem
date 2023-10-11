@@ -456,6 +456,133 @@ Relação de Galileu:
 
         O tempo de subida é igual ao tempo de descida.
 
+                                                        Cinemática - Lançamento Horizontal e Lançamento Oblíquo
+
+1) Lançamento Horizontal:
+
+    No lançamento horizontal analisamos as duas componentes separadamente.
+
+    A componente da velocidade horizontal corresponde a um MU.
+
+    Enquanto que a componente da velocidade vertical corresponde a um MUV. 
+
+2) Lançamento Oblíquo:
+
+     No lançamento oblíquo também analisamos as componentes vetoriais da velocidade separadamente.
+
+     Também, no lançamento oblíquo, temos que:
+
+        A componente da velocidade horizontal corresponde a um MU. Pode ser calculada, trigonometricamente, por:
+        
+             V₀x = V₀ . cos(â)
+
+        Enquanto que a componente da velocidade vertical corresponde a um MUV. Pode ser calculada por:
+
+             V₀y = V₀ . sen(â)
+
+3) Tempo de Subida:
+
+    T(s) = v₀ . sen(â) / g
+
+    O tempo de subida é igual ao tempo de descida.
+
+    O tempo total é a soma de ambos.
+
+4) Altura Máxima:
+
+    Decomposição a partir de Torricelli.
+
+        H(máx) = v₀² . sen(â)² / 2g
+
+5) Alcance:
+
+    Decomposição a partir da equação horário do espaço.
+
+        A = v₀² . sen(2â) / g
+
+    5.1) Alcance máximo:
+
+        Temos o alcance máximo quando o sen(2â) = 1. Para que essa afirmação seja verdadeira, o ângulo deverá ser de 45º.
+
+            A(máx) = v₀² / g
+
+                                                        Cinemática - Movimento Circular
+
+1) Velocidade Angular Média:
+
+    O ângulo pode ser calculado pela razão do espaço pelo raio.
+
+        â = S / R
+
+    Outros conceitos fundamentais são os conceitos de período (T) e frequência (f):
+
+        Período é o tempo gasto numa volta completa. Pode ser expresso pelo inverso da frequência.
+
+            T = 1 / f
+
+        Frequência é quantas voltas completas ou ciclos são realizados em determinado tempo. É também expresso pelo inverso do período:
+
+            f = 1 / T
+
+    A velocidade angular média (W) é calculada pela razão da variação do ângulo pela variação do tempo:
+
+        W = Δâ / Δt | ou | W = 2π/T | ou | W = 2πf
+
+            [W] = Rad/s
+
+    1.1) Aceleração angular média:
+
+            a(am) = ΔW / Δt
+
+2) Movimento Circular Uniforme:
+
+    Apresenta velocidade sempre constante.
+
+    Estabelecemos uma relação fundamental entre a velocidade linear e a velocidade angular:
+
+        v = W . R
+
+    2.1) Função horária do espaço angular:
+
+        Sua estrutura é semelhante a equação horária do espaço:
+
+            â = â₀ + W . t
+
+3) Movimento Circular Uniformemente Variado (MCUV):
+
+    Nesse tópico, é feito uma abordagem a partir das fórmulas do MUV.
+
+    Função horária da velocidade:
+
+        w = w₀ + a(am) . t
+
+    Função horária do espaço para MCUV:
+
+        â = â₀ + wt + 2a(am)t² / 2
+
+    Equação de Torricelli:
+
+        w² = w₀² + 2a(am)Δâ
+
+4) Transmissão de Movimento Circular:
+
+    4.1) Duas rodas ligadas por correia:
+
+        As rodas vão girar em sentidos iguais e com mesma velocidade linear. Ou seja:
+
+            v₁ = v₂ | ou | W₁ . R₁ = W₂ . R₂ | ou | f₁ . R₁ = f₂ . R₂
+    
+    4.2) Duas rodas em contato:
+
+        Semelhante ao que ocorre na outra situação, com diferença que nesse caso apresentarão sentidos opostos.
+
+    4.3) Duas rodas ligadas por eixo comum:
+
+        Apresentarão rotação em um mesmo sentido e com mesma velocidade angular.
+
+    Para rodas que apresentem a mesma velocidade linear, podemos estabelecer que:
+
+        Se R₁ = R e R₂ = 2R, então f₁ = 2f e f₂ = f
                                                         Dinâmica - Conceitos Fundamentais
 
 1) Força:
