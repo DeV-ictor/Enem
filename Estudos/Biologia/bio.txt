@@ -765,3 +765,196 @@ Sistema MN:
     Fenótipo M - Genótipo M
     Fenótipo N - Genótipo N
     Fenótipo MN - Genótipo MN
+
+                                                        Botânica
+
+1) Característica gerais:
+
+    - Eucariontes;
+    - Autótrofos fotossintetizantes;
+    - Multicelulares;
+    - Embrião dependente do organismo materno;
+    - Parede celular de celulose;
+    - Reserva energética é o amido;
+    - Tecidos verdadeiros (órgãos);
+    - Fecundação interna;
+    - Descendem de algas - Apresentam clorifila B e celulose;
+    - Adaptações - ambiente terrestre - epiderme e cutícula;
+    - Embrião multicelular maciço;
+    - 4 grupos, briófitas, pteridófitas, angiospermas e gimnospermas.
+
+2) Ciclo geral das plantas:
+
+    Gametófito multicelular (n), através de mitose, está na fase da produção de gametas (n). Os gametas masculinos encontram os gametas femininos dentro do gametófito feminino para que ocorra a fecundação e consequentemente a formação de um zigoto (2n). Ainda dentro do gametófito feminino, esse zigoto se desenvolve por meio de mitose até atingir a fase de esporófito multicelular (2n), que produz esporos por meiose. Esses esporos formados, devido a meiose, são haploides (n), que se desenvolvem por mitose até formarem o gametófito multicelular e reiniciar o ciclo.
+
+3) Conceitos específicos:
+
+    - Traqueófitas - plantas vasculares, englobam as pteridófitas, gimnospermas e angiospermas.
+
+    - Fanerógamas - produzem semente. Gimnospermas e Angiospermas.
+
+    - Criptógamas - não produzem sementes. Briófitas e Pteridófitas.
+
+    - Xilema e floema são vasos condutores. Xilema carrega seiva bruta e floema carrega seiva elaborada.
+
+    - Decídua significa que a planta ou árvore perde suas folhas em determinada época do ano.
+
+    - Os gametas femininos são chamados de oosfera e os gametas masculinos são chamados de anterozóide.
+
+4) Vantagens evolutivas gerais:
+
+    - Fecundação interna;
+    - Desenvolvimento interno;
+    - Vasos condutores - a partir das pteridófitas;
+    - Dispersão (polém, flor e fruto) - a partir das gimnospermas.
+    - Epiderme e cutícula.
+
+5) Briófitas:
+
+    Como musgos e hepáticas.
+
+    5.1) Características:
+
+        - Pequenas e delicadas;
+        - Avasculares;
+        - Dependem da água;
+        - Fase dominante é o gametófito.
+        - Ambientes úmidos e sombreados;
+        - Não possuem raíz, caule e folha.
+
+    5.2) Grupos:
+
+        1 - Bryophyta - musgos;
+        2 - Hepatophyta - hepáticas.
+
+    5.3) Estrutura corporal:
+
+        O talo representa toda a planta. O rizoide apresenta função semelhante a raízes, o cauloide apresenta função semelhante a caule e o filoide apresenta função semelhante a folhas. Ambas representam o gametófito. Do gametófito parte uma haste que possui uma cápsula, onde são desenvolvidos os esporos.
+
+    5.4) Reprodução:
+
+        Pode ser sexuada ou assexuada. Assexuada pode ser por fragmentação ou gemulação (propágulos).
+
+        Na sexuada, temos os anterídios que formam os gametas masculinos. E os arquegônios, que formam os gametas femininos.
+
+6) Pteridófitas:
+
+    Como as samambaias.
+
+    6.1) Características:
+
+        - Primeiras plantas vasculares;
+        - Não formam sementes;
+        - Gameta depende da água;
+        - Umidade e sombra;
+        - Muitas são epífitas - vivem sobre outras plantas;
+        - Fase dominante é o esporófito;
+        - Maiores que as briófitas;
+
+    6.2) Grupos:
+
+        1 - Pterophyta - samambaias e avencas.
+
+    6.3) Estrutura corporal:
+
+        Na fase de esporófito, produzem os esporos na parte inferior das folhas, em locais chamados de soro.
+
+        Na fase de gametófito, os gametófitos são pouco desenvolvidos e são monóicos, apresentam uma região feminina e uma região masculina.
+
+    6.4) Reprodução:
+
+        Pode ser assexuada, por brotamento, ou sexuada.
+
+7) Gimnospermas:
+
+    Como as araucárias e as sequoias.
+
+    7.1) Características:
+
+        - Primeiro grupo com sementes ("nuas")
+        - Não dependem da água.
+        - Grão de pólen;
+        - Ambientes frios;
+        - Vasos condutores;
+        - Órgãos verdadeiros;
+        - Conquista total do ambiente terrestre.
+
+    7.2) Semente e grão de pólen:
+
+        A semente é o óvulo fecundado. O embrião é envolto no endosperma, que atua como uma reserva energética. E a casca é o tegumento protetor.
+
+        O grão de pólen carrega o gameta masculino e aumenta a variabilidade genética devido a uma maior capacidade de fecundar organismos mais distantes. Quando o grão do pólen encontra o gameta feminino, ele se conecta através do tubo polínico, que vai liberar o gameta masculino para dentro onde ocorrerá a fecundação.
+
+    7.3) Grupos:
+
+        1 - Coniferophyta - coníferas.
+
+    7.4) Reprodução:
+
+        Apresentam em um mesmo indivíduo o estróbilo feminino e o estróbilo masculino, ou seja, monóicos.
+
+        Os estróbilos produzem os esporos e esses esporos produzem os pequenos gametófitos.
+
+8) Angiospermas:
+
+    8.1) Características:
+    
+        - É o grupo mais diversificado dentro das plantas.
+        - Apresentam vasos condutores, polém, semente.
+        - Novidades evolutivas - flores e frutos.
+        - As flores auxiliam na polinização.
+        - Os frutos auxiliam na dispersão de sementes.
+
+    8.2) Flor:
+
+            O polo masculino da flor é composto pelo estame ou androceu, apêndice da flor que é constituído pelo filete e antera. Na antera são produzidos os grãos de pólen.
+
+            O polo feminino da flor é composto pelo pistilo ou gineceu, apêndice que é constituído pelo estilete, ovário e estígma.
+
+            O que sustenta a flor é o pedúnculo floral e logo acima tem o receptáculo floral, onde a flor está inserida.
+
+            Na parte mais externa, temos as sépalas, que são as folhinhas embaixo dela, e o conjunto de sépalas é chamado de cálice. Acima das sépalas, temos as pétalas, e o seu conjunto é chamado de corola.
+
+    8.3) Inflorescência:
+
+        Quando falamos de inflorescência, podemos pensar nos girassóis.
+
+        Ao contrário do senso comum, o girassol na verdade é formado por diversas flores no centro e o que pensamos ser as petálas são chamadas de bráctea, que protegem as flores no centro e atraem insetos.
+
+    8.4) Reprodução:
+
+        Nas angiospermas ocorre a dupla fecundação. Além da fecundação da oosfera, ocorrerá também a fecundação dos núcleos polares, formando uma célula triploide (3n) que dará origem ao endosperma. Nas gimnospermas ocorre a produção da endosperma mesmo se não houver a fecundação do embrião, o que representa uma perda de energia desnecessária.
+
+    8.5) Polinização:
+
+        Polinização é o transporte do pólen da antera até o estigma. Gera recombinação gênica devido ao fato do pólen sair de uma planta e fecundar outra muito distante, isso explica a diversidade desse grupo.
+
+        A polinização pode ocorrer por meio da ação da água (menos comum), por meio do vento e através de animais.
+
+        As flores possuem especializadores que atraem polinizadores.
+
+        Entomofilia - Polinização por meio de insetos.
+        Ornitofilia - Polinização por meio de pássaros.
+        Quiropterofilia - Polinização por meio de morcegos.
+
+        Podem também realizar autopolinização, no entanto isso implica em não aumentar a variabilidade genética. Algumas plantas apresentam mecanismos de defesa a essa prática através do amadurecimento dos órgãos em diferentes épocas. 
+
+    8.6) Grupos:
+
+        - Monocotiledôneas;
+        - Eudicotiledôneas - chamadas antigamente de dicotiledôneas;
+        - Magnoliídeas.
+
+    8.7) Monocotiledôneas e Eudicotiledôneas:
+
+        - As monocotiledôneas apresentam sementes com apenas 1 cotilédone, enquanto as eudicotiledôneas apresentam sementes com 2 cotilédones.
+
+        - As monocotiledôneas apresentam folhas com nervuras paralelas, enquanto as eudicotiledôneas apresentam folhas com nervuras ramificadas.
+
+        - Os feixes vasculares nas monocotiledôneas são difusos, enquanto nas eudicotiledôneas são ordenados.
+
+        - As flores monocotiledôneas são trímeras (petálas múltiplas de 3), enquanto as eudicotiledôneas são pentâmeras (múltiplas de 5) ou tetramêras (múltiplas de 4).
+
+        - Os frutos das monocotiledôneas apresentam três carpelos, enquanto os das eudicotiledôneas apresentam cinco carpelos.
+
+        - As raízes das monocotiledôneas são fasciculadas, enquanto as das eudicotiledôneas são axiais ou pivotantes.

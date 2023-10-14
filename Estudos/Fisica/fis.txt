@@ -60,7 +60,7 @@ Obs.: Corpos neutros também podem sofrer atração eletrostática.
 
 A equação da Lei de Coulomb descreve a força elétrica entre duas cargas através de:
 
-    F = K . |Q| . |q| /d²
+    F = K . |Q| . |q| /d² (puntiformes)
 
     F (força) é expressada em Newtons, Q (quantidade de carga) é expressa em Coulombs e K representa a constante eletrostática. 
 
@@ -80,7 +80,7 @@ Forças de Campo:
 
     O campo gera, em torno de si, um campo que é expresso em vetor com um módulo, direção e sentido.
 
-    E = F(el) / q -> Campo Elétrico (puntiformes)
+    E = F(el) / q -> Campo Elétrico
 
         E = K | Q | / d²
 
@@ -99,6 +99,8 @@ Linhas de força são uma representação de modo que sua tangente em qualquer p
     - A densidade superficial de carga é maior em regiões pontiagudas.
 
     - O campo elétrico no interior de um condutor esférico é 0.
+
+    - O campo elétrico no interior de um corpo em equilíbrio eletrostático é 0.
 
     - O campo elétrico na superfície de um condutor esférico é metade do campo elétrico em um estado infinitamente próximo.
 
@@ -131,6 +133,7 @@ Potencial Elétrico é calculado a partir da expressão:
 O trabalho da força elétrica é dado por:
 
     -ΔE(p)
+    
         T = q (Va - Vb)
 
     - O trabalho não depende da trajetória.
@@ -142,6 +145,7 @@ O trabalho da força elétrica é dado por:
 A diferença de potencial (DDP) pode ser calculada a partir da expressão:
 
 U = E . d
+
     d equivale a distância entre as superfícies equipotenciais.
     E equivale ao campo elétrico.
 
