@@ -801,6 +801,12 @@ Sistema MN:
 
     - Os gametas femininos são chamados de oosfera e os gametas masculinos são chamados de anterozóide.
 
+    - O mecanismo pelo qual os xilemas transportam a seiva bruta se dá pela capilaridade da água (coesão e adesão) e pela tensão gerada pela transpiração das folhas. Também é auxiliado pela pressão da raíz.
+
+    - A seiva elaborada, transportada pelo floema, é distribuída com o auxílio da gravida e dos fluxos de massa.
+
+    - Cada anel de lignina representa 1 ano de crescimento.
+
 4) Vantagens evolutivas gerais:
 
     - Fecundação interna;
@@ -867,7 +873,7 @@ Sistema MN:
 
 7) Gimnospermas:
 
-    Como as araucárias e as sequoias.
+    Como as araucárias, sequoias e coníferas.
 
     7.1) Características:
 
@@ -900,7 +906,7 @@ Sistema MN:
     8.1) Características:
     
         - É o grupo mais diversificado dentro das plantas.
-        - Apresentam vasos condutores, polém, semente.
+        - Apresentam vasos condutores, polén, semente.
         - Novidades evolutivas - flores e frutos.
         - As flores auxiliam na polinização.
         - Os frutos auxiliam na dispersão de sementes.
@@ -913,17 +919,17 @@ Sistema MN:
 
             O que sustenta a flor é o pedúnculo floral e logo acima tem o receptáculo floral, onde a flor está inserida.
 
-            Na parte mais externa, temos as sépalas, que são as folhinhas embaixo dela, e o conjunto de sépalas é chamado de cálice. Acima das sépalas, temos as pétalas, e o seu conjunto é chamado de corola.
+            Na parte mais externa, temos as sépalas, que são as folhinhas embaixo da flor, e o conjunto de sépalas é chamado de cálice. Acima das sépalas, temos as pétalas, e o seu conjunto é chamado de corola.
 
     8.3) Inflorescência:
 
         Quando falamos de inflorescência, podemos pensar nos girassóis.
 
-        Ao contrário do senso comum, o girassol na verdade é formado por diversas flores no centro e o que pensamos ser as petálas são chamadas de bráctea, que protegem as flores no centro e atraem insetos.
+        Ao contrário do senso comum, o girassol na verdade é formado por diversas flores no centro e o que pensamos ser as petálas são chamadas de brácteas, flores estéreis que protegem as flores do centro e atraem insetos.
 
     8.4) Reprodução:
 
-        Nas angiospermas ocorre a dupla fecundação. Além da fecundação da oosfera, ocorrerá também a fecundação dos núcleos polares, formando uma célula triploide (3n) que dará origem ao endosperma. Nas gimnospermas ocorre a produção da endosperma mesmo se não houver a fecundação do embrião, o que representa uma perda de energia desnecessária.
+        Nas angiospermas ocorre a dupla fecundação. Além da fecundação da oosfera, ocorrerá também a fecundação dos núcleos polares, presentes na célula central do saco embrionário do óvulo, formando uma célula triploide (3n) que dará origem ao endosperma. Nas gimnospermas ocorre a produção da endosperma mesmo se não houver a fecundação do embrião, o que representa uma perda de energia desnecessária.
 
     8.5) Polinização:
 
