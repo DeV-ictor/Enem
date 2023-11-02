@@ -37,3 +37,9 @@ A estrutura do segundo parágrafo é a mesma que o primeiro, porém discorremos 
 Por padrão, o modelo utiliza o Estado como agente interventor, já que a principal causa do problema foi a omissão do mesmo. Na proposta o detalhamento é feito no agente.
 
 Citação: https://youtu.be/xO53KiLzbWc?si=yQkNCrhtghJ84USW
+
+    O historiador brasileiro José Murilo de Carvalho, em seu livro "A cidadania no Brasil: o longo caminho", defende que para que haja uma cidadania plena no Brasil é imprescindível a coexistência dos direitos sociais, políticos e civis. Sob essa perspectiva, percebe-se que, quando o (X) não é efetivado, a cidadania não é alcançada na sociedade.
+
+Citação: https://youtu.be/0Dhl8phoD4Y?si=51No6kf8HVCZAKoO&t=415
+
+    Segundo Herbert José de Sousa, sociólogo brasileiro e ativista dos direitos naturais, o desenvolvimento humano só sera efetivado quando a sociedade afirmar 5 princípios fundamentais: igualdade, diversidade, participação, solidariedade e liberdade.

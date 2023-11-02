@@ -76,6 +76,7 @@ Paralelepípedo: 2(ab + bc + ac)
 Área lateral do cone: πRg
 Pirâmide: AB + AL
 Esfera: 4πR²
+Cilindro: 2πR(R+H)
 
 Fórmulas dos volumes:
 
@@ -85,12 +86,18 @@ Paralelepípedo: AB x H
 Pirâmide: AB x H/3
 Cone: AB x H/3
 Esfera: 4πR³/3
+Cilindro: πR² x H
 
 Fórmulas notáveis:
 
 Diagonal do Paralelepípedo: D = √a² + b² + c²
 Diagonal do Cubo: L√3
+Diagonal do Quadrado: L√2
 Secção meridiana: 4R²
+
+No cilindro equilátero a altura é igual ao diâmetro.
+
+A razão de semelhança dos volumes é K³.
 
                                                         Razão e Proporção
 
@@ -139,13 +146,21 @@ Permutação: quando o número de posições for igual ao número de elementos.
 
 Permutação com Repetição: quando há a repetição de algum elemento, como em um anagrama da palavra "AMAR".
 
+    P(r) = n! / a! . b! . c! ... x!
+
 Permutação Circular: apresenta ordem cíclica.
+
+    P(c) = (n - 1)!
 
 Arranjo: quando o número de elementos for maior que o número de posições.
 
 Combinação: quando a ordem não for importante.
 
-Combinação com Repetição: combinação quando houver repetição de elementos. (https://mundoeducacao.uol.com.br/matematica/combinacao-com-repeticao.htm#:~:text=Combina%C3%A7%C3%A3o%20com%20repeti%C3%A7%C3%A3o%2C%20conhecida%20tamb%C3%A9m,agrupamentos%20estudados%20na%20an%C3%A1lise%20combinat%C3%B3ria.)
+    C(n, p) = n! / p! (n - p)!
+
+Combinação com Repetição: combinação quando houver repetição de elementos.
+
+    CR(n, p) = C(n+p-1), p
 
 Atenção ao 0 na primeira casa.
 
@@ -172,6 +187,8 @@ Propriedades de Logaritmo:
     6) Em qualquer base, o logaritmo do quociente de dois números reais e positivos é igual à diferença entre os logaritmos desses números.
 
     7) Mudança de base
+
+    8) Condição de existência: O logartimando deve ser maior que 0. 
 
                                                         PA e PG
 
@@ -217,7 +234,8 @@ Soma da PG Finita:
 
                                                         Trigonometria
 
-Transformação de graus para radianos: πRad = 180x
+Transformação de graus para radianos:
+    πRad = 180
 
 A soma dos ângulos internos de um triângulo é 180º graus.
 

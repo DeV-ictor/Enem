@@ -147,6 +147,16 @@ Regras para cálculo do NOX
     3. Substância simples sempre será 0
     4. A soma resultante deve ser nula.
 
+                                                        Reações Inorgânicas
+                                                    
+Reação de Síntese: Também chamada de reação de adição, consiste em dois reagentes formando um produto.
+
+Reação de Análise: Também chamada de reação de decomposição, consiste em um reagente formando um produto e um subproduto.
+
+Reação de Simples Troca: Consiste na troca de um cátion ou ânion da ligação por outro íon, formando um produto composto e um subproduto simples.
+
+Reação de Dupla Troca: Consiste na reação de 2 reagentes que terão íons trocados entre si. É bastante comum em reações de neutralização ácido-base.
+
                                                         Ionização x Dissociação
 
 Dissociação ocorre com compostos iônicos, havendo apenas a separação dos átomos.
@@ -239,6 +249,9 @@ Classificações dos tipos de neutralização:
 2) Neutralização Parcial
     O número de hidrônios é diferente do número de hidroxilas. Gera um hidrogenossal ou hidroxissal.
 
+                                                        Titulação
+
+X[MM(Hₓ)] = Y[MM(OHy)]
                                                         Funções Inorgânicas - Sais
 
 Nomenclatura de Sais:
@@ -589,7 +602,7 @@ Eletrólise -> aplicação de corrente elétrica gerando uma reação química.
 
 Pilha de Daniell:
 
-    A Pilha de Daniell é composta por um eletrodo negativo (ânodo) que cede elétrons para o eletrodo positivo chamado de cátodo. O ânodo é uma placa de zinco mergulhada em uma solução de sulfato de zinco, enquanto que o cátodo é uma placa de cobre mergulhada em uma solução de cobre.
+    A Pilha de Daniell é composta por um eletrodo negativo (ânodo) que cede elétrons para o eletrodo positivo chamado de cátodo. O ânodo é uma placa de zinco mergulhada em um cátion desse metal, enquanto que o cátodo é uma placa de cobre mergulhada também em um cátion de cobre.
 
         Ânodo é o eletrodo no qual ocorre a oxidação e é o polo negativo.
         Cátodo é o eletrodo no qual ocorre a redução e é o polo positivo.
@@ -598,7 +611,7 @@ Pilha de Daniell:
 
     Equação Global: Zn(s) + Cu2+(aq) -> Zn2+ + Cu(s)
 
-    A tensão total é a soma das forças eletromotrizes de cada uma das semi-reações, então dado que a DDP na oxidação é de 0,76V e a DDP na redução é de 0,34V, a tensão da pilha será de 1,10V.
+    A tensão total é a soma das forças eletromotrizes de cada uma das semi-reações, então dado que a DDP na oxidação é de 0,76V e a DDP na redução é de 0,34V, a tensão da pilha será de 1,10V. Se a tensão total for positiva, significa que a reação é espontânea.
 
     Porém, ainda temos que cuidar do íon espectador, que nesse caso é o sulfato (SO4), pois durante esse processo temos um acúmulo de cargas positivas em uma solução e acúmulo de cargas negativas em outra. Se isso ocorre, todo o sistema da pilha quebra devido ao que chamamos de Balanço de Cargas. Então, para evitar esse problema, colocamos uma ponte salina, formado por íons de potássio e de cloro, em contato com as soluções. Dessa forma, a solução que tiver um acúmulo de cargas negativas receberá cátions K+, e a solução que tiver acúmulo de cargas positivas, receberá ânions Cl- e consequentemente, mantendo o balanço de cargas.
 
@@ -989,7 +1002,7 @@ Temos dois tipos de isomeria espacial:
 
         nº de isômeros ópticos total = 2ⁿ ⁻ ¹ ou  2ⁿ/2
 
-    Um composto meso ou isômero meso é um isômero inativo por compensação interna.
+    Um composto meso ou isômero meso é um isômero inativo por compensação interna e deve apresentar 2 carbonos quirais idênticos.
 
                                                         Radicais Orgânicos
 
@@ -1124,9 +1137,9 @@ Um reagente principal orgânico que vai eliminar um grupo. Nesse tipo de reaçã
 
 Oxirredução é uma reação mediante a transferência de elétrons. Simultaneamente temos uma oxidação e uma redução.
 
-Oxidação: Transfere elétrons. Processo com aumento no teor de oxigênio ou redução no teor de hidrogênio. Por exemplo, um álcool oxidando em uma carboxila.
+Oxidação: DÁ elétrons. Processo com aumento no teor de oxigênio ou redução no teor de hidrogênio. Por exemplo, um álcool oxidando em uma carboxila.
 
-Redução: Recebe elétrons. Há o aumento no teor de hidrogênio. Por exemplo, um grupo nitro sendo reduzido a um amino.
+Redução: REcebe elétrons. Há o aumento no teor de hidrogênio. Por exemplo, um grupo nitro sendo reduzido a um amino.
 
 Principais reações de oxidação:
 
