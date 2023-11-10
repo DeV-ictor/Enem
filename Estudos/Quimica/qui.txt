@@ -960,6 +960,10 @@ Temos 5 casos na isomeria plana:
 
         5.3) Grupo Funcional, mesma fórmula e posição do grupo funcional diferente.
 
+        Ordem de análise para isomeria plana:
+
+            Tautomeria -> Função -> Cadeia -> Metameria -> Posição
+            
                                                         Isomeria Espacial
 
 Temos dois tipos de isomeria espacial:
@@ -1228,3 +1232,9 @@ Classificações dos Polímeros:
         4.1) Polímeros de adição: quebra de ligação pi, permitindo que se ligue a outros monômeros.
 
        4.2) Polímeros de condesação: 2 ou mais monômeros conectando-se entre si, geralmente formando um subproduto, como água.
+
+    Radiação gama:
+
+    Partículas alfa:
+
+    Partículas beta:

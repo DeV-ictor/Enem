@@ -25,6 +25,9 @@ Relações ecológicas podem ser intraespecíficas, de mesma espécie, ou intere
         1.1.2) Comensalismo (+, 0), espécie comensal come restos de alimento de outra espécie.
 
         1.1.3) Inquilinismo (+, 0), uma espécie se abriga em outra.
+            Pode ser epifitismo (entre plantas) ou epizoismo (entre animais).
+
+        1.1.4) Foresia (+, 0), utilizam outras espécies para se deslocarem.
     
     1.2) Desarmônicas:
 
@@ -138,6 +141,14 @@ Aeróbios x Anaeróbios:
 
     5) Microaerófilos: sobrevivem em baixa concentração de oxigênio.
 
+Eutrofização artificial: Podem favorer a eutrofização: matéria orgânica (esgoto), detergente e fertilizantes químicos. Promove o crescimento dos seres que dependem de matéria orgânica, e consequentemente, a insuficiência de oxigênio para sustentá-los.
+
+Sucessão Ecológica:
+
+    Primária: um ambiente jamais colonizado, abiótico (ecese). Serão habitados inicialmente pelas espécies pioneiras, geralmente os líquens (fungos). Em sequência teremos uma comunidade intermediária (seres) e por fim, a comunidade clímax, que é o melhor desenvolvimento possível.
+
+    Secundária: recolonização. A configuração é a mesma da primária, porém sem a ecese.
+
 Bioenergética:
 
     Fermentação: A fermentação é um processo pelo qual a matéria orgânica é parcialmente degradada e a energia química nela armazenada é liberada e utilizada na produção de moléculas de ATP
@@ -145,6 +156,8 @@ Bioenergética:
     Quimiossíntese: É um processo em que compostos inorgânicos são utilizados como fonte de energia para a produção de compostos orgânicos.
 
     Fotossíntese: A fotossíntese é um processo pelo qual a planta e outros organismos, como algas, convertem a energia solar em energia química e utilizam-na para a produção de moléculas orgânicas.
+
+    Fosforilação Oxidativa:
 
                                                         Evolução
 
@@ -223,9 +236,15 @@ Características e Prevenções:
 
     Leishmaniose: De modo geral, essas enfermidades se dividem em leishmaniose tegumentar americana, que ataca a pele e as mucosas, e leishmaniose visceral, que ataca órgãos internos. A transmissão é por meio de mosquito. O uso de repelentes, evitar os horários e ambientes onde esses vetores possam ter atividade, a utilização de mosquiteiros de tela fina e, dentro do possível, a colocação de telas de proteção nas janelas são medidas de prevenção recomendadas.
 
-    Toxoplasmose: A toxoplasmose resulta de infecção com um parasita comum encontrado em fezes de gato e alimentos contaminados. Pode causar graves complicações para gestantes e pessoas com o sistema imunológico debilitado. Os sintomas incluem dor muscular, febre e dor de cabeça, que podem durar semanas. Evite comer alimentos crus,não prove a carne crua durante a preparação, coma verduras e legumes sempre bem lavados e cuidado com fezes de gato, de modo geral.
+    Toxoplasmose: A toxoplasmose resulta de infecção com um parasita comum encontrado em fezes de gato e alimentos contaminados. Pode causar graves complicações para gestantes e pessoas com o sistema imunológico debilitado. Os sintomas incluem dor muscular, febre e dor de cabeça, que podem durar semanas. Evite comer alimentos crus, não prove a carne crua durante a preparação, coma verduras e legumes sempre bem lavados e cuidado com fezes de gato, de modo geral.
 
     Doença de Chagas: A doença de Chagas é comum em locais onde o inseto barbeiro é encontrado. A doença pode ser leve, causando inchaço e febre, ou pode durar muito tempo. Se não for tratada, pode causar insuficiência cardíaca congestiva. Evitar que o inseto “barbeiro” forme colônias dentro das residências, por meio da utilização de inseticidas residuais por equipe técnica habilitada.
+
+        Doença de Chagas, Malária, Esquitossomose, Ascaridíase, Leishmaniose e Elefantíase: evitar contato com o vetor transmissor, saneamento básico, redes de proteção.
+
+        Ancilostomose e Toxoplasmose: evitar contato com fezes de cães e gatos.
+
+        Amebíase, Toxoplasmose, Giardíase, Ascaridíase, Teníase e Enterobiose: hábitos de higiene e lavar e cozinhar bem os alimentos.
 
                                                         Citologia
 
@@ -233,7 +252,7 @@ Citologia nada mais é que o estudo da célula. O primeiro a enxergar os microor
 
 As células eucariontes são mais complexas que as células procariontes. A grande diferença entre as duas é que as células eucariontes possui muitas organelas e as procariontes não possui organelas. As células procariontes não possuem carioteca e os seus ribossomos não podem ser considerados organelas pois não estão envoltos por membrana. O material genético, nas células procariontes, estão dispersos na célula, enquanto na célula eucarionte o material genético está contido no núcleo. Somente as bactérias e cianobactérias apresentam células procariontes.
 
-O plasmídeo é responsável pela degradação de metais pesados e pela resistência a antibióticos.
+O plasmídeo são móleculas de DNA extra cromossomal e é responsável pela degradação de metais pesados e pela resistência a antibióticos, presente majoritariamente em bactérias e leveduras.
 
 Os organismos que apresentam apenas uma célula são chamados de organismos unicelulares e os organismos que possuem mais de uma célula são chamados de pluricelulares ou multicelulares. 
 
@@ -244,9 +263,9 @@ Os organismos multicelulares são eucariontes, podendo ser autótrofos ou heter�
 A principal diferença entre célula eucarionte animal e célula eucarionte vegetal é que a vegetal possui parede celular, vacúolo e cloroplastos.
 
 
-    Membrana Plasmática: Está presente em todas as células e é lipoproteica. É semipermeável e portanto apresenta permeabilidade seletiva, ou seja, seleciona o que entra e o que sai. As principais funções da membrana plasmática são: revestimento, reveste toda a célula; proteção; e seleção, conforme dito acima. A membrana plasmática é uma bicamada de fosfolipídios. O fosfolipídios apresentam cabeça polar, hidrofílica, e cauda apolar, hidrofóbica. Na membrana também está contida proteínas integrais pelas quais podem passar substâncias por um canal protêico. Há outras proteínas também, chamadas de proteínas periféricas, que não atravessam a membrana plasmática e sua função principalmente é atuar como uma enzima, ou seja, permitem algumas reações a nível celular. O colestoral também está contido na membrana plasmática para oferecer maior rigidez. Na parte de cima da membrana está o glicocálice, que é considerado um envoltório externo da membrana. Quando esse glicocálice está associado a proteína, é chamado de glicoproteína e quando está associado a lipídio, é chamado de glicolipídio. Sua principal função é reconhecimento celular. O citoesqueleto oferece movimento celular, definir a forma da célula. Mas não faz parte da membrana plasmática.
+    Membrana Plasmática: Está presente em todas as células e é lipoproteica. É semipermeável e portanto apresenta permeabilidade seletiva, ou seja, seleciona o que entra e o que sai. As principais funções da membrana plasmática são: revestimento, reveste toda a célula; proteção; e seleção, conforme dito acima. A membrana plasmática é uma bicamada de fosfolipídios. Os fosfolipídios apresentam cabeça polar, hidrofílica, e cauda apolar, hidrofóbica. Na membrana também está contida proteínas integrais pelas quais podem passar substâncias por um canal protêico. Há outras proteínas também, chamadas de proteínas periféricas, que não atravessam a membrana plasmática e sua função principalmente é atuar como uma enzima, ou seja, permitem algumas reações a nível celular. O colestoral também está contido na membrana plasmática para oferecer maior rigidez. Na parte de cima da membrana está o glicocálice, que é considerado um envoltório externo da membrana. Quando esse glicocálice está associado a proteína, é chamado de glicoproteína e quando está associado a lipídio, é chamado de glicolipídio. Sua principal função é reconhecimento celular. O citoesqueleto oferece movimento celular, definir a forma da célula. Mas não faz parte da membrana plasmática.
 
-    Como já referido, a membrana plasmática tem como uma de suas funções a seletividade e a passagem de substâncias. Essa passagem, ou esse transporte, pode acontecer de 4 maneiras: 
+    Como já referido, a membrana plasmática tem como uma de suas funções a seletividade e a passagem de substâncias. Essa passagem, ou esse transporte, pode acontecer de 3 maneiras: 
 
         1) Transporte Passivo, sem gasto de energia (ATP):
 
@@ -295,31 +314,31 @@ A principal diferença entre célula eucarionte animal e célula eucarionte vege
                 O exemplo descrito acima da saída do íon de cálcio é considerando contransporte ou antiporte, pois um entra e outro sai. 
                 No entanto, temos um outro tipo, chamado de simporte, no qual, por exemplo, uma molécula de glicose entra junto com o íon de sódio.
 
-        4) Transporte por vesículas:
+        3) Transporte por vesículas:
 
         O transporte por vesículas é um tipo especial de transporte ativo, ou seja, haverá gasto de energia. O transporte por vesículas é utilizado para englobar grandes partículas e portanto deforma a membrana plasmática.
 
-            4.1) Endocitose, entrada para a célula.
+            3.1) Endocitose, entrada para a célula.
 
-                4.1.1) Fagocitose
+                3.1.1) Fagocitose
 
                         A fagocitose ocorre a emissão de pseudópodes. Envolve a entrada de partículas sólidas, inteiras.
  
-                4.1.2) Pinocitose
+                3.1.2) Pinocitose
 
                         Sem pseudópodes. A membrana plasmática engloba partículas dissolvidas. A maioria das células eucarióticas fazem pinocitose.
 
-                4.1.3) Endocitose por receptores
+                3.1.3) Endocitose por receptores
 
                         Receptores identificam determinadas substâncias e enviam eles para dentro das células.
 
-            4.2) Exocitose, eliminação de substâncias da célula.
+            3.2) Exocitose, eliminação de substâncias da célula.
                
-                4.2.1) Secreção
+                3.2.1) Secreção
 
                         Envolve a saída de substâncias produzidas pela célula, que são úteis ao funcionamento do organismo.
 
-                4.2.2) Excreção
+                3.2.2) Excreção
 
                         Eliminação do "lixo" da célula, como resíduos de bactérias fagocitadas. Esse processo também é conhecido como clasmócitose ou defecação celular.
 
@@ -335,19 +354,21 @@ Organelas Citoplasmáticas:
 
     5) Núcleo: Centro de controle da célula, armazena o material genético.
 
-    6) Complexo de Golgi: Recebe, modifica e envia as secreções para o meio extracelular por meio de vesículas secretoras. Forma os lisossomos e o acrossoma.
+    6) Complexo de Golgi: Recebe, modifica e envia as secreções para o meio extracelular por meio de vesículas secretoras. Forma os lisossomos e o acrossomo.
 
-    7) Peroxissomo: Quebra a água oxigenada (H2O2) com a enzima catalase. Auxilia na formação da bainha de mielina. Auxiliam também na detoxificação de substâncias tóxidas.
+    7) Peroxissomo: Quebra a água oxigenada (H2O2) com a enzima catalase. Auxilia na formação da bainha de mielina. Auxiliam também na detoxificação de substâncias tóxicas.
 
     8) Mitocôndrias: Respiração celular.
 
     9) Vácuolo: Presente em células vegetais (também em células animais, mas sem tanta importância como na célula vegetal). Armazena substâncias e regulação osmótica.
 
-    10) Plastos: Também chamados de plastídeos. Divididos em cromoplastos e leucoplastos. Os cloroplastos, responsáveis pela fotossíntese, é um tipo de cromoplasto presente nas células vegetais.
+    10) Plastos: Também chamados de plastídeos. Divididos em cromoplastos e leucoplastos. Os cloroplastos, responsáveis pela fotossíntese, é um tipo de cromoplasto presente nas células vegetais. Armazena a clorofila.
 
     11) Citoesqueleto: Não é uma organela. Apresenta 3 tipos, os microtúbulos, filamentos intermediários e microfilamentos. Responsáveis, de maneira geral, pela sustentação, deformação da membrana plasmática e movimentos celulares
 
     12) Citoplasma: É o espaço intracelular que, nas células eucariontes, representa a região entre a membrana plasmática e o envoltório nuclear.
+
+    13) Centríolos: Os centríolos têm como principal função a separação do material genético na divisão celular e a capacidade de formar cílios e flagelos.
 
 Intérfase:
 
@@ -365,9 +386,9 @@ Mitose x Meiose:
 
     São os tipos de divisão celular. Devemos lembrar da fase em que nossas células não se dividem, chamada de intérfase.
 
-    1) Mitose: A mitose é responsável pelo crescimento, regeneração e/ou renovação. A mitose ocorre nas células somáticas. Equacional, se divide em duas células completamente iguais.
+    1) Mitose: A mitose é responsável pelo crescimento, regeneração e/ou renovação. A mitose ocorre nas células somáticas. Equacional, se divide em duas células completamente iguais. 4 ou 5 etapas: prófase, prometáfase (depende do autor), metáfase, anáfase e telófase.
 
-        Na prófase os cromossomos estão se condensando. Na metáfase, os cromossomos já duplicados (após intérfase, antes da mitose) e alinhados na placa equatorial da célula (centro). Na anáfase, são separadas as cromátides-irmãs. Posteriormente há a telófase, na qual a célula se reorganiza e por fim ocorre a citocinese, separando as células e originando duas novas células idênticas.
+        Na prófase os cromossomos estão se condensando e há a migração dos centríolos. Na metáfase, os cromossomos já duplicados (após intérfase, antes da mitose) são alinhados na placa equatorial da célula (centro) e representa o maior grau de compactação dos cromossomos. Na anáfase, são separadas as cromátides-irmãs. Posteriormente há a telófase, na qual a célula se reorganiza e por fim ocorre a citocinese, separando as células e originando duas novas células idênticas. Na telófase ocorre também a reconstrução do envoltório nuclear e nucléolo e descondensação dos cromossomos.
 
     2) Meiose: Em animais formam os gametas. Reducional, pois reduz a metade o número dos cromossomos. (2n = n . 4)
 
@@ -398,6 +419,10 @@ Síntese Protêica:
         O processo ocorre da seguinte forma: 
 
         Um RNAt já alocado no sítio P se ligará ao primeiro códon e em seguida será alocado no sítio A um segundo RNAt. Lembrando sempre de respeitar a compatibilidade dos nucleotídeos. Após alocados ambos os RNAt, os aminoácidos na parte superior ligarão-se entre si e o RNAt desocupa o sítio P, enquanto o outro RNAt sairá do sítio A e ocupará o P, dando espaço para um outro RNAt que realizará o mesmo processo. Esse ciclo repete-se até encontrar algum dos códons específicos que indicará o fim do processo de tradução. Vale lembrar que a ligação entre os aminoácidos é chamada de ligação peptídica.
+
+        3) Replicação semiconservativa:
+
+        4) Mutação silenciosa: Muda algum nucleotídeo mas não altera o aminoácido formado.
 
                                                         Fisiologia
 
@@ -680,6 +705,14 @@ Epigenética é um ramo da genética que estuda mecanismos que regulam a genéti
 Genoma é o conjunto de todos os genes de uma espécie.
 
 Retrocruzamento é o cruzamento de um indivíduo cujos pais eram um homozigoto dominante e um homozigoto recessivo (entre F1).
+
+O DNA mitocondrial é de origem materna.
+
+Herança ligada ao sexo está associada ao cromossomo X.
+
+Herança restrita ao sexo está associada ao cromossomo Y.
+
+Herança influenciada pelo sexo, o gene não está no cromossomo sexual mas o cromossomo sexual interfere na expressão desse gene.
 
 Quadro de Punnet.
 

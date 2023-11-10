@@ -104,6 +104,8 @@ Linhas de força são uma representação de modo que sua tangente em qualquer p
 
     - O campo elétrico na superfície de um condutor esférico é metade do campo elétrico em um estado infinitamente próximo.
 
+    - O potencial elétrico no centro de um condutor esférico é igual ao potencial elétrico em qualquer ponto no interior do corpo e aproximadamente igual ao potencial elétrico na superfície. O potencial elétrico diminui conforme se distancia da esfera, no sentido externo. Vc = Vi ~ Vs > Vf
+
 Densidade Superficial de Carga:
 
     σ = Q / A
@@ -135,6 +137,8 @@ O trabalho da força elétrica é dado por:
     -ΔE(p)
     
         T = q (Va - Vb)
+
+        T = E . Q . d
 
     - O trabalho não depende da trajetória.
 
@@ -587,6 +591,8 @@ Relação de Galileu:
     Para rodas que apresentem a mesma velocidade linear, podemos estabelecer que:
 
         Se R₁ = R e R₂ = 2R, então f₁ = 2f e f₂ = f
+
+    O número de dentes em uma coroa dentada está ligado ao raio da mesma.
                                                         Dinâmica - Conceitos Fundamentais
 
 1) Força:
